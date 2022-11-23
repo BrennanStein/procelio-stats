@@ -1,7 +1,15 @@
 #!/bin/bash
-if [ ! -f ./edprivate.ppk ]; then
-  cp /mnt/c/Programming/Tools/SSH/edprivate.ppk .
-  chmod 600 ./edprivate.ppk
-fi
+cd "${0%/*}"
+pwd
+git pull
+git merge origin/master
+./compile.sh
+git commit -am "update stats"
+git push
+scp -i ~/.ssh/digitalocean ./statfile.stat root@files.procelio.com:files/files/prod/statfile.stat
 
-scp -i ./edprivate.ppk ./statfile.stat root@files.procelio.com:.
+ssh -i ~/.ssh/digitalocean root@files.procelio.com "tmux kill-session -t files; tmux new-session -d -c files -s files './file-server >> log 2>&1'"
+
+sleep 10
+ssh -i ~/.ssh/acct_digitalocean accounts@files.procelio.com "tmux kill-session -t accounts; ./launch_all.sh"
+
