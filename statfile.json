@@ -639,7 +639,7 @@
     {
       "id": 49,
       "name": "Gyroscope",
-      "health": 500,
+      "health": 1200,
       "mass": 85,
       "cost": 1500,
       "cpuCost": 28
