@@ -1,0 +1,1389 @@
+{
+  "blocks": [
+  
+    {
+      "id": 81,
+      "name": "Brenn",
+      "health": 250,
+      "mass": 1,
+      "cpuCost": 1
+    },
+	{
+      "id": 82,
+      "name": "Pan",
+      "health": 250,
+      "mass": 1,
+      "cost": 20000,
+      "cpuCost": 1
+    },
+	{
+      "id": 83,
+      "name": "Kip",
+      "health": 250,
+      "mass": 1,
+      "cost": 20000,
+      "cpuCost": 1
+    },
+	{
+      "id": 84,
+      "name": "Snip",
+      "health": 250,
+      "mass": 1,
+      "cost": 20000,
+      "cpuCost": 1
+    },
+	{
+      "id": 85,
+      "name": "Blade",
+      "health": 250,
+      "mass": 1,
+      "cost": 20000,
+      "cpuCost": 1
+    },
+	
+	
+	{
+      "id": 1,
+      "name": "Core1",
+      "health": 500,
+      "mass": 35,
+      "shield": 2000,
+      "shieldCharge": 2000,
+      "shieldChargeDelay": 5000,
+      "cost": 0,
+      "cpuCost": 0
+    },
+    {
+      "id": 2,
+      "name": "NormalCube",
+      "health": 100,
+      "mass": 15,
+      "cost": 100,
+      "cpuCost": 1
+    },
+    {
+      "id": 3,
+      "name": "NormalInner",
+      "health": 95,
+      "mass": 14,
+      "cost": 100,
+      "cpuCost": 1
+    },
+    {
+      "id": 4,
+      "name": "NormalTetra",
+      "health": 85,
+      "mass": 10,
+      "cost": 100,
+      "cpuCost": 1
+    },
+    {
+      "id": 5,
+      "name": "NormalPrism",
+      "health": 90,
+      "mass": 12,
+      "cost": 100,
+      "cpuCost": 1
+    },
+	{
+      "id": 20,
+      "name": "NormalPyramid",
+      "health": 85,
+      "mass": 10,
+      "cost": 100,
+      "cpuCost": 1
+    },
+    {
+      "id": 6,
+      "name": "HeavyCube",
+      "health": 120,
+      "mass": 45,
+      "cost": 125,
+      "cpuCost": 1
+    },
+    {
+      "id": 7,
+      "name": "HeavyInner",
+      "health": 114,
+      "mass": 42,
+      "cost": 125,
+      "cpuCost": 1
+    },
+    {
+      "id": 8,
+      "name": "HeavyTetra",
+      "health": 102,
+      "mass": 30,
+      "cost": 125,
+      "cpuCost": 1
+    },
+    {
+      "id": 9,
+      "name": "HeavyPrism",
+      "health": 108,
+      "mass": 36,
+      "cost": 125,
+      "cpuCost": 1
+    },
+	{
+      "id": 61,
+      "name": "HeavyPyramid",
+      "health": 102,
+      "mass": 30,
+      "cost": 125,
+      "cpuCost": 1
+    },
+    {
+      "id": 10,
+      "name": "GlassCube",
+      "health": 75,
+      "mass": 10,
+      "cost": 125,
+      "cpuCost": 1
+    },
+    {
+      "id": 11,
+      "name": "GlassInner",
+      "health": 70,
+      "mass": 9,
+      "cost": 125,
+      "cpuCost": 1
+    },
+    {
+      "id": 12,
+      "name": "GlassTetra",
+      "health": 60,
+      "mass": 7,
+      "cost": 125,
+      "cpuCost": 1
+    },
+    {
+      "id": 13,
+      "name": "GlassPrism",
+      "health": 65,
+      "mass": 8,
+      "cost": 125,
+      "cpuCost": 1
+    },
+	{
+      "id": 62,
+      "name": "GlassPyramid",
+      "health": 60,
+      "mass": 6,
+      "cost": 125,
+      "cpuCost": 1
+    },
+	{
+      "id": 94,
+      "name": "CopperCube",
+      "health": 75,
+      "mass": 10,
+      "cost": 250,
+      "cpuCost": 1
+    },
+    {
+      "id": 95,
+      "name": "CopperInner",
+      "health": 70,
+      "mass": 9,
+      "cost": 250,
+      "cpuCost": 1
+    },
+    {
+      "id": 96,
+      "name": "CopperTetra",
+      "health": 60,
+      "mass": 7,
+      "cost": 250,
+      "cpuCost": 1
+    },
+    {
+      "id": 97,
+      "name": "CopperPrism",
+      "health": 65,
+      "mass": 8,
+      "cost": 250,
+      "cpuCost": 1
+    },
+	{
+      "id": 98,
+      "name": "CopperPyramid",
+      "health": 60,
+      "mass": 6,
+      "cost": 250,
+      "cpuCost": 1
+    },
+	{
+      "id": 99,
+      "name": "CarbonCube",
+      "health": 75,
+      "mass": 10,
+      "cost": 250,
+      "cpuCost": 1
+    },
+    {
+      "id": 100,
+      "name": "CarbonInner",
+      "health": 70,
+      "mass": 9,
+      "cost": 250,
+      "cpuCost": 1
+    },
+    {
+      "id": 101,
+      "name": "CarbonTetra",
+      "health": 60,
+      "mass": 7,
+      "cost": 250,
+      "cpuCost": 1
+    },
+    {
+      "id": 102,
+      "name": "CarbonPrism",
+      "health": 65,
+      "mass": 8,
+      "cost": 250,
+      "cpuCost": 1
+    },
+	{
+      "id": 103,
+      "name": "CarbonPyramid",
+      "health": 60,
+      "mass": 6,
+      "cost": 250,
+      "cpuCost": 1
+    },
+    {
+      "id": 14,
+      "name": "Wheel",
+      "health": 1000,
+      "mass": 190,
+      "cost": 450,
+      "cpuCost": 14
+    },
+    {
+      "id": 15,
+      "name": "Hoverblade",
+      "health": 1500,
+      "mass": 200,
+      "cost": 1200,
+      "cpuCost": 22
+    },
+    {
+      "id": 16,
+      "name": "BigThruster",
+      "health": 2500,
+      "mass": 120,
+      "cost": 800,
+      "cpuCost": 28
+    },
+	{
+      "id": 64,
+      "name": "MiddleThruster",
+      "health": 2000,
+      "mass": 70,
+      "cost": 600,
+      "cpuCost": 20
+    },
+    {
+      "id": 17,
+      "name": "SmallThruster",
+      "health": 800,
+      "mass": 20,
+      "cost": 620,
+      "cpuCost": 8
+    },
+	{
+      "id": 27,
+      "name": "TopThrusterSmall",
+      "health": 800,
+      "mass": 25,
+      "cost": 800,
+      "cpuCost": 8,
+      "thrust": 24000
+    },
+	{
+      "id": 77,
+      "name": "1x3Airframe",
+      "health": 200,
+      "mass": 30,
+      "cost": 300,
+      "cpuCost": 3
+    },
+		{
+      "id": 79,
+      "name": "1x3Airframe Flat",
+      "health": 150,
+      "mass": 25,
+      "cost": 300,
+      "cpuCost": 3
+    },
+    {
+      "id": 21,
+      "name": "1x4Airframe",
+      "health": 300,
+      "mass": 40,
+      "cost": 300,
+      "cpuCost": 4
+    },
+	{
+      "id": 78,
+      "name": "1x5Airframe",
+      "health": 400,
+      "mass": 50,
+      "cost": 300,
+      "cpuCost": 5
+    },
+	{
+      "id": 80,
+      "name": "1x5Airframe Flat",
+      "health": 275,
+      "mass": 50,
+      "cost": 300,
+      "cpuCost": 5
+    },
+	  {
+      "id": 22,
+      "name": "1x6Airframe",
+      "health": 500,
+      "mass": 60,
+      "cost": 500,
+      "cpuCost": 6
+    },
+	  {
+      "id": 23,
+      "name": "3CurveAirframe",
+      "health": 200,
+      "mass": 30,
+      "cost": 350,
+      "cpuCost": 4
+    },
+	{
+      "id": 24,
+      "name": "5CurveAirframe",
+      "health": 300,
+      "mass": 50,
+      "cost": 650,
+      "cpuCost": 6
+    },
+    {
+      "id": 25,
+      "name": "3TAirframe",
+      "health": 350,
+      "mass": 35,
+      "cost": 725,
+      "cpuCost": 8
+    },
+    {
+      "id": 26,
+      "name": "Sled",
+      "health": 1000,
+      "mass": 35,
+      "cost": 400,
+      "cpuCost": 8
+    },
+    {
+      "id": 28,
+      "name": "SweptWingLeft",
+      "health": 2500,
+      "mass": 100,
+      "cost": 1400,
+      "cpuCost": 24
+    },
+	  {
+      "id": 29,
+      "name": "SweptWingRight",
+      "health": 2500,
+      "mass": 100,
+      "cost": 1400,
+      "cpuCost": 24
+    },
+	{
+      "id": 68,
+      "name": "FlatWingLeft",
+      "health": 3000,
+      "mass": 150,
+      "cost": 1700,
+      "cpuCost": 26
+    },
+	{
+      "id": 69,
+      "name": "FlatWingRight",
+      "health": 3000,
+      "mass": 150,
+      "cost": 1700,
+      "cpuCost": 26
+    },
+	{
+      "id": 30,
+      "name": "SweptRudder",
+      "health": 1000,
+      "mass": 60,
+      "cost": 1000,
+      "cpuCost": 20
+    },
+	  {
+      "id": 70,
+      "name": "LargeRudder",
+      "health": 1500,
+      "mass": 80,
+      "cost": 1300,
+      "cpuCost": 22
+    },
+	{
+      "id": 123,
+      "name": "Inactive Rudder",
+      "health": 1000,
+      "mass": 60,
+      "cost": 1000,
+      "cpuCost": 18
+    },
+	{
+      "id": 124,
+      "name": "Inactive Rudder Large",
+      "health": 1500,
+      "mass": 80,
+      "cost": 1300,
+      "cpuCost": 20
+    },
+    {
+      "id": 18,
+      "name": "LaserGun",
+      "health": 1800,
+      "mass": 80,
+      "cost": 1200,
+      "cpuCost": 50,
+      "rotationSpeed": 360
+    },
+	  {
+      "id": 31,
+      "name": "AlphaRailgun",
+      "health": 2500,
+      "mass": 125,
+      "cost": 2500,
+      "cpuCost": 55,
+      "rotationSpeed": 145
+    },
+	  {
+      "id": 32,
+      "name": "AlphaPlasma",
+      "health": 1800,
+      "mass": 80,
+      "cost": 1700,
+      "cpuCost": 50,
+      "rotationSpeed": 250
+    },
+	  {
+      "id": 33,
+      "name": "AlphaHealgun",
+      "health": 2000,
+      "mass": 50,
+      "cost": 1000,
+      "cpuCost": 38,
+      "rotationSpeed": 720
+    },
+	  {
+      "id": 34,
+      "name": "AlphaSecondaryMines",
+      "health": 650,
+      "mass": 35,
+      "cost": 1500,
+      "cpuCost": 35,
+      "functionHealth": 700
+    },
+	  {
+      "id": 35,
+      "name": "AlphaSecondaryShield",
+      "health": 3500,
+      "mass": 70,
+      "cost": 2100,
+      "cpuCost": 60
+    },
+	  {
+      "id": 36,
+      "name": "AlphaSecondaryRocket",
+      "health": 800,
+      "mass": 30,
+      "cost": 1500,
+      "cpuCost": 25,
+      "rotationSpeed": 270,
+      "functionHealth": 400
+    },
+	  {
+      "id": 37,
+      "name": "AlphaSecondarySmoke",
+      "health": 1800,
+      "mass": 25,
+      "cost": 500,
+      "cpuCost": 20
+    },
+	  {
+      "id": 38,
+      "name": "AlphaSecondaryBlade",
+      "health": 1000,
+      "mass": 55,
+      "cost": 1500,
+      "cpuCost": 30,
+      "functionHealth": 350
+    },
+    {
+      "id": 39,
+      "name": "ElectroplateA_L",
+      "health": 200,
+      "mass": 200,
+      "shield": 2000,
+      "shieldCharge": 250,
+      "shieldChargeDelay": 10000,
+      "cost": 950,
+      "cpuCost": 36
+    },
+    {
+      "id": 40,
+      "name": "ElectroplateA_R",
+      "health": 200,
+      "mass": 200,
+      "shield": 2000,
+      "shieldCharge": 250,
+      "shieldChargeDelay": 10000,
+      "cost": 950,
+      "cpuCost": 36
+    },
+    {
+      "id": 41,
+      "name": "ElectroplateB_L",
+      "health": 200,
+      "mass": 180,
+      "shield": 1800,
+      "shieldCharge": 250,
+      "shieldChargeDelay": 10000,
+      "cost": 825,
+      "cpuCost": 30
+    },
+    {
+      "id": 42,
+      "name": "ElectroplateB_R",
+      "health": 200,
+      "mass": 180,
+      "shield": 1800,
+      "shieldCharge": 250,
+      "shieldChargeDelay": 10000,
+      "cost": 825,
+      "cpuCost": 30
+    },
+    {
+      "id": 43,
+      "name": "ElectroplateC",
+      "health": 200,
+      "mass": 135,
+      "shield": 1500,
+      "shieldCharge": 250,
+      "shieldChargeDelay": 10000,
+      "cost": 700,
+      "cpuCost": 28
+    },
+    {
+      "id": 44,
+      "name": "Helium1x1x2",
+      "health": 150,
+      "mass": 15,
+      "cost": 400,
+      "cpuCost": 8,
+      "lift": 400,
+      "spec1_minlift": 100,
+      "spec2_ctrlspeed": 30
+    },
+    {
+      "id": 45,
+      "name": "Helium1x2x3",
+      "health": 450,
+      "mass": 30,
+      "cost": 500,
+      "cpuCost": 10,
+      "lift": 550,
+      "spec1_minlift": 200,
+      "spec2_ctrlspeed": 80
+    },
+    {
+      "id": 46,
+      "name": "Helium2x2x4",
+      "health": 1200,
+      "mass": 80,
+      "cost": 600,
+      "cpuCost": 12,
+      "lift": 1200,
+      "spec1_minlift": 400,
+      "spec2_ctrlspeed": 200
+    },
+    {
+      "id": 47,
+      "name": "Helium3x3x5",
+      "health": 2600,
+      "mass": 180,
+      "cost": 700,
+      "cpuCost": 20,
+      "lift": 2000,
+      "spec1_minlift": 1000,
+      "spec2_ctrlspeed": 120
+    },
+    {
+      "id": 48,
+      "name": "Helium3x4x8",
+      "health": 4800,
+      "mass": 360,
+      "cost": 800,
+      "cpuCost": 28,
+      "lift": 4200,
+      "spec1_minlift": 2100,
+      "spec2_ctrlspeed": 96
+    },
+    {
+      "id": 49,
+      "name": "Gyroscope",
+      "health": 500,
+      "mass": 85,
+      "cost": 1500,
+      "cpuCost": 28
+    },
+    {
+      "id": 50,
+      "name": "Radar",
+      "health": 1000,
+      "mass": 15,
+      "cost": 1500,
+      "cpuCost": 25
+    },
+    {
+      "id": 51,
+      "name": "RadarJammer",
+      "health": 800,
+      "mass": 15,
+      "cost": 1500,
+      "cpuCost": 30
+    },
+    {
+      "id": 52,
+      "name": "HeadlightStandard",
+      "health": 800,
+      "mass": 10,
+      "cost": 10000,
+      "cpuCost": 12
+    },
+    {
+      "id": 53,
+      "name": "HeadlightAim",
+      "health": 800,
+      "mass": 25,
+      "cost": 50000,
+      "cpuCost": 10
+    },
+    {
+      "id": 54,
+      "name": "HeadlightPopup",
+      "health": 800,
+      "mass": 45,
+      "cost": 50000,
+      "cpuCost": 10
+    },
+    {
+      "id": 55,
+      "name": "Rivet Rifle",
+      "health": 1800,
+      "mass": 70,
+      "cost": 1700,
+      "cpuCost": 50,
+      "rotationSpeed": 270
+    },
+    {
+      "id": 56,
+      "name": "Macrowave",
+      "health": 1000,
+      "mass": 45,
+      "cost": 1500,
+      "cpuCost": 50,
+      "rotationSpeed": 270
+    },
+    {
+      "id": 57,
+      "name": "PrototypePrimary3",
+      "health": 2800,
+      "mass": 45,
+      "cost": 1500,
+      "cpuCost": 40,
+      "rotationSpeed": 270
+    },
+    {
+      "id": 58,
+      "name": "IsopodCosmetic",
+      "health": 100,
+      "mass": 1,
+      "cost": 1000000,
+      "cpuCost": 2
+    },
+    {
+      "id": 59,
+      "name": "NonSteerWheel",
+      "health": 1100,
+      "mass": 180,
+      "cost": 350,
+      "cpuCost": 10
+    },
+	  {
+      "id": 60,
+      "name": "Vaportrail",
+      "health": 5,
+      "mass": 5,
+      "cost": 10000,
+      "cpuCost": 5
+    },
+	  {
+      "id": 63,
+      "name": "Vent Cube",
+      "health": 100,
+      "mass": 15,
+      "cost": 2000,
+      "cpuCost": 2
+    },
+	  {
+      "id": 65,
+      "name": "1x2 Osprey Sticker",
+      "health": 1,
+      "mass": 0,
+      "cost": 500,
+      "cpuCost": 1
+    },
+	{
+      "id": 108,
+      "name": "2x2 Spacetek Sticker",
+      "health": 1,
+      "mass": 1,
+      "cost": 1000,
+      "cpuCost": 1
+    },
+	{
+      "id": 109,
+      "name": "2x3 Hypox Sticker",
+      "health": 1,
+      "mass": 1,
+      "cost": 1000,
+      "cpuCost": 1
+    },
+	{
+      "id": 110,
+      "name": "1x2 Osprey Bird Sticker",
+      "health": 1,
+      "mass": 1,
+      "cost": 1000,
+      "cpuCost": 1
+    },
+	{
+      "id": 111,
+      "name": "2x2 Frontiermen Sticker",
+      "health": 1,
+      "mass": 1,
+      "cost": 1000,
+      "cpuCost": 1
+    },
+	{
+      "id": 112,
+      "name": "2x3 RSRCO. Sticker",
+      "health": 1,
+      "mass": 1,
+      "cost": 1000,
+      "cpuCost": 1
+    },
+	{
+      "id": 113,
+      "name": "1x2 Hazard Stripe Sticker",
+      "health": 1,
+      "mass": 1,
+      "cost": 1000,
+      "cpuCost": 1
+    },
+	{
+      "id": 114,
+      "name": "1x3 Hazard Stripe Sticker",
+      "health": 1,
+      "mass": 1,
+      "cost": 1000,
+      "cpuCost": 1
+    },
+	{
+      "id": 115,
+      "name": "2x2 Medic Sticker",
+      "health": 1,
+      "mass": 1,
+      "cost": 1000,
+      "cpuCost": 1
+    },
+	{
+      "id": 116,
+      "name": "2x2 Vertec Sticker",
+      "health": 1,
+      "mass": 1,
+      "cost": 1000,
+      "cpuCost": 1
+    },
+	{
+      "id": 117,
+      "name": "2x2 Nova Sticker",
+      "health": 1,
+      "mass": 1,
+      "cost": 1000,
+      "cpuCost": 1
+    },
+	{
+      "id": 118,
+      "name": "2x2 Brawler Sticker",
+      "health": 1,
+      "mass": 1,
+      "cost": 1000,
+      "cpuCost": 1
+    },
+	{
+      "id": 119,
+      "name": "Money Sticker",
+      "health": 1,
+      "mass": 1,
+      "cost": 100000,
+      "cpuCost": 1
+    },
+	{
+      "id": 120,
+      "name": "Premium Money Sticker",
+      "health": 1,
+      "mass": 1,
+      "premiumCost": 100,
+      "cpuCost": 1
+    },
+	{
+      "id": 121,
+      "name": "1x2 Hazard Stripe Sticker Mirror",
+      "health": 1,
+      "mass": 1,
+      "cost": 2500,
+      "cpuCost": 1
+    },
+	{
+      "id": 122,
+      "name": "1x3 Hazard Stripe Sticker Mirror",
+      "health": 1,
+      "mass": 1,
+      "cost": 2500,
+      "cpuCost": 1
+    },
+	{
+      "id": 66,
+      "name": "Diag Painted Normal Cube",
+      "health": 100,
+      "mass": 15,
+      "cost": 200,
+      "cpuCost": 1
+    },
+    {
+      "id": 67,
+      "name": "Half Painted Normal Cube",
+      "health": 100,
+      "mass": 15,
+      "cost": 200,
+      "cpuCost": 1
+    },
+	  {
+      "id": 71,
+      "name": "CosmeticSmallAntenna",
+      "health": 100,
+      "mass": 5,
+      "cost": 5000,
+      "cpuCost": 2
+    },
+	  {
+      "id": 72,
+      "name": "CosmeticLargeAntenna",
+      "health": 100,
+      "mass": 15,
+      "cost": 5000,
+      "cpuCost": 2
+    },
+	  {
+      "id": 73,
+      "name": "RepulsorPad",
+      "health":1000,
+      "mass": 35,
+      "cost": 2000,
+      "cpuCost": 15
+    },
+	  {
+      "id": 74,
+      "name": "TankLeft",
+      "health": 5400,
+      "mass": 1000,
+      "cost": 3500,
+      "cpuCost": 35
+    },
+	  {
+      "id": 75,
+      "name": "TankRight",
+      "health": 5400,
+      "mass": 1000,
+      "cost": 3500,
+      "cpuCost": 35
+    },
+	  {
+      "id": 76,
+      "name": "TankSymmetric",
+      "health": 6000,
+      "mass": 1250,
+      "cost": 3500,
+      "cpuCost": 50
+    },
+	  {
+      "id": 91,
+      "name": "Cosmetic Servo Arm",
+      "health": 100,
+      "mass": 10,
+      "cost": 10000,
+      "cpuCost": 2
+    },
+    {
+      "id": 92,
+      "name": "Cosmetic Exhaust",
+      "health": 80,
+      "mass": 10,
+      "cost": 10000,
+      "cpuCost": 5
+    },
+    {
+      "id": 93,
+      "name": "Cosmetic KITT",
+      "health": 150,
+      "mass": 30,
+      "premiumCost": 125,
+      "cpuCost": 7
+    },
+	{
+      "id": 104,
+      "name": "Small Spike Cosmetic",
+      "health": 50,
+      "mass": 10,
+      "cost": 2500,
+      "cpuCost": 1
+    },
+	{
+      "id": 105,
+      "name": "Large Spike Cosmetic",
+      "health": 75,
+      "mass": 15,
+      "cost": 5000,
+      "cpuCost": 2
+    },
+	{
+      "id": 106,
+      "name": "Small Nosecone Cosmetic",
+      "health": 50,
+      "mass": 10,
+      "cost": 2500,
+      "cpuCost": 1
+    },
+	{
+      "id": 107,
+      "name": "Large Nosecone Cosmetic",
+      "health": 75,
+      "mass": 15,
+      "cost": 5000,
+      "cpuCost": 2
+    }
+  ],
+  "attacks": [
+    {
+      "id": 1,
+      "name": "alphaSMGProjectile",
+      "damage": 470
+    },
+    {
+      "id": 2,
+      "name": "alphaPlasmaProjectile",
+      "damage": 1700
+    },
+    {
+      "id": 3,
+      "name": "alphaRailgunProjectile",
+      "damage": 4400
+    },
+    {
+      "id": 4,
+      "name": "nanoWeapon",
+      "damage": 360
+    },
+	{
+      "id": 11,
+      "name": "nanoHeal",
+      "damage": 500
+    },
+    {
+      "id": 5,
+      "name": "mine projectile",
+      "damage": 1100
+    },
+    {
+      "id": 6,
+      "name": "rocket launch",
+      "damage": 850
+    },
+    {
+      "id": 7,
+      "name": "melee tesla",
+      "damage": 4000
+    },
+	{
+      "id": 8,
+      "name": "alphaRivetProjectile",
+      "damage": 1400
+    }
+  ],
+  "cosmetics": [
+    {
+      "id": 2101,
+      "name": "DEV LIQUID",
+      "cosmeticCost": 20000,
+      "cosmeticPremiumCost": 0,
+      "config": []
+    },
+	{
+      "id": 2100,
+      "name": "DEV CRYSTAL",
+      "cosmeticCost": 20000,
+      "cosmeticPremiumCost": 0,
+      "config": []
+    },
+	
+	
+    {
+      "id": 1,
+      "name": "EP Red",
+      "cosmeticCost": 20000,
+      "cosmeticPremiumCost": 0,
+      "config": []
+    },
+    {
+      "id": 2,
+      "name": "EP Green",
+      "cosmeticCost": 10000,
+      "cosmeticPremiumCost": 0,
+      "config": []
+    },
+    {
+      "id": 3,
+      "name": "EP Yellow",
+      "cosmeticCost": 10000,
+      "cosmeticPremiumCost": 0,
+      "config": []
+    },
+  	{
+      "id": 4,
+      "name": "EP Orange",
+      "cosmeticCost": 10000,
+      "cosmeticPremiumCost": 0,
+      "config": []
+    },
+  	{
+      "id": 5,
+      "name": "EP Purple",
+      "cosmeticCost": 10000,
+      "cosmeticPremiumCost": 0,
+      "config": []
+    },
+	{
+      "id": 16,
+      "name": "EP Blue",
+      "cosmeticCost": 10000,
+      "cosmeticPremiumCost": 0,
+      "config": []
+    },
+	{
+      "id": 7,
+      "name": "EP White",
+      "cosmeticCost": 50000,
+      "cosmeticPremiumCost": 0,
+      "config": []
+    },
+	
+	
+	
+  	{
+      "id": 6,
+      "name": "EP Bee",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 10,
+      "config": []
+    },
+	{
+      "id": 8,
+      "name": "EP Black",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 20,
+      "config": []
+    },
+	{
+      "id": 9,
+      "name": "EP Rainbow",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 40,
+      "config": []
+    },
+	{
+      "id": 10,
+      "name": "EP Ice",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 15,
+      "config": []
+    },
+	{
+      "id": 11,
+      "name": "EP Military",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 5,
+      "config": []
+    },
+	{
+      "id": 12,
+      "name": "EP Dark Red",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 10,
+      "config": []
+    },
+	{
+      "id": 13,
+      "name": "EP Purple Pulse",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 10,
+      "config": []
+    },
+	{
+      "id": 14,
+      "name": "EP Thunder",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 30,
+      "config": []
+    },
+	{
+      "id": 15,
+      "name": "EP Earth",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 10,
+      "config": []
+    },
+
+	
+	
+	
+	
+	
+    {
+      "id": 1000,
+      "name": "Thruster Cryo",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 5,
+      "config": []
+    },
+	  {
+      "id": 1001,
+      "name": "ThrusterMusic",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 5,
+      "config": []
+    },
+  	{
+      "id": 1002,
+      "name": "ThrusterPlasma",
+      "cosmeticCost": 10000,
+      "cosmeticPremiumCost": 0,
+      "config": []
+    },
+  	{
+      "id": 1003,
+      "name": "ThrusterGlow",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 5,
+      "config": []
+    },
+  	{
+      "id": 1004,
+      "name": "ThrusterJacked",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 10,
+      "config": []
+    },
+	{
+      "id": 1005,
+      "name": "ThrusterGreen",
+      "cosmeticCost": 10000,
+      "cosmeticPremiumCost": 0,
+      "config": []
+    },
+	{
+      "id": 1006,
+      "name": "ThrusterRings",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 5,
+      "config": []
+    },
+	{
+      "id": 1007,
+      "name": "ThrusterClassic",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 5,
+      "config": []
+    },
+	
+	
+	{
+      "id": 2000,
+      "name": "EP Pattern 1 Cube",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 10,
+      "config": []
+    },
+	{
+      "id": 2001,
+      "name": "EP Pattern 2 Triangle 1",
+      "cosmeticCost": 15000,
+      "cosmeticPremiumCost": 0,
+      "config": []
+    },
+	{
+      "id": 2002,
+      "name": "EP Pattern 3 Triangle 2",
+      "cosmeticCost": 15000,
+      "cosmeticPremiumCost": 0,
+      "config": []
+    },
+	{
+      "id": 2003,
+      "name": "EP Pattern 4 Triangle 3",
+      "cosmeticCost": 15000,
+      "cosmeticPremiumCost": 0,
+      "config": []
+    },
+	{
+      "id": 2004,
+      "name": "EP Pattern 5 Carbon Fiber",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 15,
+      "config": []
+    },
+    {
+      "id": 2005,
+      "name": "EP Pattern 6 Camo",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 15,
+      "config": []
+    },
+	{
+      "id": 2010,
+      "name": "EP Pattern 7 Low Poly",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 10,
+      "config": []
+    },
+	{
+      "id": 2011,
+      "name": "EP Pattern 8 Hazard Stripe",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 10,
+      "config": []
+    },
+	{
+      "id": 2012,
+      "name": "EP Pattern 9 Square",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 10,
+      "config": []
+    },
+	
+	
+	{
+      "id": 2006,
+      "name": "EP Pattern Halloween 1 2022",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 0,
+      "config": []
+    },
+	{
+      "id": 2007,
+      "name": "EP Pattern Halloween 2 2022",
+      "cosmeticCost": 10000,
+      "cosmeticPremiumCost": 0,
+      "config": []
+    },
+	{
+      "id": 2008,
+      "name": "EP Pattern Xmas 1 2022",
+      "cosmeticCost": 10000,
+      "cosmeticPremiumCost": 0,
+      "config": []
+    },
+	{
+      "id": 2009,
+      "name": "EP Pattern Xmas 2 2022",
+      "cosmeticCost": 10000,
+      "cosmeticPremiumCost": 0,
+      "config": []
+    },
+	
+	{
+      "id": 3000,
+      "name": "Rivet Rifle Camo Skin",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 10,
+      "config": []
+    },
+	{
+      "id": 3001,
+      "name": "ELC Camo Skin ?",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 10,
+      "config": []
+    },
+	{
+      "id": 3002,
+      "name": "Nova Cannon Skin",
+      "cosmeticCost": 5000,
+      "cosmeticPremiumCost": 0,
+      "config": []
+    },	
+	{
+      "id": 3003,
+      "name": "Gauss Camo Skin",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 10,
+      "config": []
+    },	
+	{
+      "id": 3004,
+      "name": "Nano Skin",
+      "cosmeticCost": 5000,
+      "cosmeticPremiumCost": 0,
+      "config": []
+    },	
+	{
+      "id": 3005,
+      "name": "Weapon Skin Gold Gauss",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 100,
+      "config": []
+    },	
+	{
+      "id": 3006,
+      "name": "Weapon Skin Carbon Gauss",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 25,
+      "config": []
+    },	
+	{
+      "id": 3007,
+      "name": "Weapon Skin Placeholder",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 50,
+      "config": []
+    }
+  ]
+}
