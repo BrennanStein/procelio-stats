@@ -303,6 +303,30 @@
       "thrust": 24000
     },
 	{
+      "id": 125,
+      "name": "LegInsectSmall",
+      "health": 500,
+      "mass": 100,
+      "cost": 10000,
+      "cpuCost": 22
+    },
+	{
+      "id": 126,
+      "name": "LegInsectMedium",
+      "health": 1000,
+      "mass": 250,
+      "cost": 35000,
+      "cpuCost": 38
+    },
+	{
+      "id": 127,
+      "name": "LegInsectLarge",
+      "health": 1500,
+      "mass": 500,
+      "cost": 65000,
+      "cpuCost": 44
+    },
+	{
       "id": 77,
       "name": "1x3Airframe",
       "health": 200,
