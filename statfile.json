@@ -304,7 +304,8 @@
     },
 	{
       "id": 125,
-      "name": "LegInsectSmall",
+      "name": "
+		InsectSmall",
       "health": 500,
       "mass": 100,
       "cost": 10000,
@@ -741,7 +742,7 @@
       "health": 100,
       "mass": 1,
       "cost": 1000000,
-      "cpuCost": 2
+      "cpuCost": 1
     },
     {
       "id": 59,
@@ -1014,6 +1015,22 @@
       "mass": 15,
       "cost": 5000,
       "cpuCost": 2
+    },
+	  	{
+      "id": 128,
+      "name": "Craig Xmas",
+      "health": 100,
+      "mass": 1,
+      "cost": 100000,
+      "cpuCost": 1
+    },
+	  	{
+      "id": 129,
+      "name": "Craig NYears",
+      "health": 100,
+      "mass": 1,
+      "cost": 100000,
+      "cpuCost": 1
     }
   ],
   "attacks": [
