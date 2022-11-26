@@ -304,8 +304,7 @@
     },
 	{
       "id": 125,
-      "name": "
-		InsectSmall",
+      "name": "InsectSmall",
       "health": 500,
       "mass": 100,
       "cost": 10000,
