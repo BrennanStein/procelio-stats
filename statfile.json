@@ -474,7 +474,7 @@
     {
       "id": 18,
       "name": "LaserGun",
-      "health": 1800,
+      "health": 2200,
       "mass": 80,
       "cost": 1200,
       "cpuCost": 50,
@@ -483,7 +483,7 @@
 	  {
       "id": 31,
       "name": "AlphaRailgun",
-      "health": 2500,
+      "health": 2700,
       "mass": 125,
       "cost": 2500,
       "cpuCost": 55,
@@ -492,7 +492,7 @@
 	  {
       "id": 32,
       "name": "AlphaPlasma",
-      "health": 1800,
+      "health": 2200,
       "mass": 80,
       "cost": 1700,
       "cpuCost": 50,
@@ -501,7 +501,7 @@
 	  {
       "id": 33,
       "name": "AlphaHealgun",
-      "health": 2000,
+      "health": 2200,
       "mass": 50,
       "cost": 1000,
       "cpuCost": 38,
@@ -510,7 +510,7 @@
 	  {
       "id": 34,
       "name": "AlphaSecondaryMines",
-      "health": 650,
+      "health": 850,
       "mass": 35,
       "cost": 1500,
       "cpuCost": 35,
@@ -537,7 +537,7 @@
 	  {
       "id": 37,
       "name": "AlphaSecondarySmoke",
-      "health": 1800,
+      "health": 1600,
       "mass": 25,
       "cost": 500,
       "cpuCost": 20
@@ -609,7 +609,7 @@
     {
       "id": 44,
       "name": "Helium1x1x2",
-      "health": 150,
+      "health": 250,
       "mass": 15,
       "cost": 400,
       "cpuCost": 8,
@@ -712,7 +712,7 @@
     {
       "id": 55,
       "name": "Rivet Rifle",
-      "health": 1800,
+      "health": 2200,
       "mass": 70,
       "cost": 1700,
       "cpuCost": 50,
@@ -1037,12 +1037,12 @@
     {
       "id": 1,
       "name": "alphaSMGProjectile",
-      "damage": 470
+      "damage": 460
     },
     {
       "id": 2,
       "name": "alphaPlasmaProjectile",
-      "damage": 1700
+      "damage": 1600
     },
     {
       "id": 3,
@@ -1052,7 +1052,7 @@
     {
       "id": 4,
       "name": "nanoWeapon",
-      "damage": 360
+      "damage": 370
     },
 	{
       "id": 11,
@@ -1077,7 +1077,7 @@
 	{
       "id": 8,
       "name": "alphaRivetProjectile",
-      "damage": 1400
+      "damage": 1600
     }
   ],
   "cosmetics": [
