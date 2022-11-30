@@ -1073,10 +1073,30 @@
       "name": "melee tesla",
       "damage": 4000
     },
-	{
+    {
       "id": 8,
       "name": "alphaRivetProjectile",
       "damage": 1600
+    },
+	  {
+      "id": 9,
+      "name": "MWV",
+      "damage": 1000
+    },
+	{
+      "id": 10,
+      "name": "MGN",
+      "damage": 100
+    },
+	  	{
+      "id": 11,
+      "name": "PLACEHOLDER",
+      "damage": 1000
+    },
+	  	{
+      "id": 12,
+      "name": "PLACEHOLDER",
+      "damage": 1000
     }
   ],
   "cosmetics": [
