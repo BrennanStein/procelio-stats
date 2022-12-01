@@ -57,7 +57,7 @@
       "id": 2,
       "name": "NormalCube",
       "health": 100,
-      "mass": 15,
+      "mass": 20,
       "cost": 100,
       "cpuCost": 1
     },
@@ -65,7 +65,7 @@
       "id": 3,
       "name": "NormalInner",
       "health": 95,
-      "mass": 14,
+      "mass": 18,
       "cost": 100,
       "cpuCost": 1
     },
@@ -73,7 +73,7 @@
       "id": 4,
       "name": "NormalTetra",
       "health": 85,
-      "mass": 10,
+      "mass": 15,
       "cost": 100,
       "cpuCost": 1
     },
@@ -81,7 +81,7 @@
       "id": 5,
       "name": "NormalPrism",
       "health": 90,
-      "mass": 12,
+      "mass": 16,
       "cost": 100,
       "cpuCost": 1
     },
@@ -89,7 +89,7 @@
       "id": 20,
       "name": "NormalPyramid",
       "health": 85,
-      "mass": 10,
+      "mass": 15,
       "cost": 100,
       "cpuCost": 1
     },
