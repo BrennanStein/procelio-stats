@@ -1089,12 +1089,12 @@
       "damage": 100
     },
 	  	{
-      "id": 11,
+      "id": 12,
       "name": "INSTAKILL",
       "damage": 999999999
     },
 	  	{
-      "id": 12,
+      "id": 13,
       "name": "PLACEHOLDER",
       "damage": 1000
     }
