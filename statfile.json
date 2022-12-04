@@ -1090,8 +1090,8 @@
     },
 	  	{
       "id": 11,
-      "name": "PLACEHOLDER",
-      "damage": 1000
+      "name": "INSTAKILL",
+      "damage": 999999999
     },
 	  	{
       "id": 12,
