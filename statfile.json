@@ -728,12 +728,12 @@
     },
     {
       "id": 57,
-      "name": "PrototypePrimary3",
+      "name": "PrototypeSec",
       "health": 2800,
       "mass": 45,
       "cost": 1500,
       "cpuCost": 40,
-      "rotationSpeed": 270
+      "rotationSpeed": 1080
     },
     {
       "id": 58,
