@@ -257,7 +257,7 @@
       "id": 14,
       "name": "Wheel",
       "health": 1000,
-      "mass": 190,
+      "mass": 500,
       "cost": 450,
       "cpuCost": 14
     },
@@ -273,7 +273,7 @@
       "id": 16,
       "name": "BigThruster",
       "health": 2500,
-      "mass": 120,
+      "mass": 150,
       "cost": 800,
       "cpuCost": 28
     },
@@ -747,7 +747,7 @@
       "id": 59,
       "name": "NonSteerWheel",
       "health": 1100,
-      "mass": 180,
+      "mass": 490,
       "cost": 350,
       "cpuCost": 10
     },
@@ -939,7 +939,7 @@
       "id": 74,
       "name": "TankLeft",
       "health": 5400,
-      "mass": 1000,
+      "mass": 2000,
       "cost": 3500,
       "cpuCost": 35
     },
@@ -947,7 +947,7 @@
       "id": 75,
       "name": "TankRight",
       "health": 5400,
-      "mass": 1000,
+      "mass": 2000,
       "cost": 3500,
       "cpuCost": 35
     },
@@ -955,9 +955,9 @@
       "id": 76,
       "name": "TankSymmetric",
       "health": 6000,
-      "mass": 1250,
+      "mass": 2000,
       "cost": 3500,
-      "cpuCost": 50
+      "cpuCost": 35
     },
 	  {
       "id": 91,
@@ -1051,7 +1051,7 @@
     {
       "id": 4,
       "name": "nanoWeapon",
-      "damage": 370
+      "damage": 350
     },
 	{
       "id": 11,
@@ -1406,7 +1406,7 @@
 	{
       "id": 3002,
       "name": "Nova Cannon Skin",
-      "cosmeticCost": 5000,
+      "cosmeticCost": 1000,
       "cosmeticPremiumCost": 0,
       "config": []
     },	
