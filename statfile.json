@@ -1293,6 +1293,62 @@
       "cosmeticPremiumCost": 5,
       "config": []
     },
+	  {
+      "id": 1008,
+      "name": "ThrusterHexGlow",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 5,
+      "config": []
+    },
+	  {
+      "id": 1009,
+      "name": "ThrusterWireframe",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 10,
+      "config": []
+    },
+	{
+      "id": 1010,
+      "name": "ThrusterPH1",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 5,
+      "config": []
+    },
+	{
+      "id": 1011,
+      "name": "ThrusterPH2",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 5,
+      "config": []
+    },
+	  {
+      "id": 1012,
+      "name": "ThrusterPH3",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 5,
+      "config": []
+    },
+	  {
+      "id": 1013,
+      "name": "ThrusterPH4",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 5,
+      "config": []
+    },
+	  	  {
+      "id": 1014,
+      "name": "ThrusterPH5",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 5,
+      "config": []
+    },
+	  	  	  {
+      "id": 1015,
+      "name": "ThrusterPH6",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 5,
+      "config": []
+    },
 	
 	
 	{
