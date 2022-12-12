@@ -728,12 +728,13 @@
     },
     {
       "id": 57,
-      "name": "PrototypeSec",
+      "name": "MinigunSecondary",
       "health": 2800,
       "mass": 45,
       "cost": 1500,
       "cpuCost": 40,
-      "rotationSpeed": 1080
+      "rotationSpeed": 1080,
+      "functionHealth": 250
     },
     {
       "id": 58,
