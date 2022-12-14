@@ -734,7 +734,9 @@
       "cost": 1500,
       "cpuCost": 40,
       "rotationSpeed": 1080,
-      "functionHealth": 750
+      "functionHealth": 750,
+      "spec1_distance": 2000,
+      "spec2_lockon": 100
     },
     {
       "id": 58,
