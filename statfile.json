@@ -919,7 +919,31 @@
       "name": "CosmeticSmallAntenna",
       "health": 100,
       "mass": 5,
-      "cost": 5000,
+      "cost": 2000,
+      "cpuCost": 2
+    },
+	  	  {
+      "id": 130,
+      "name": "CosmeticSmallSideAntenna",
+      "health": 100,
+      "mass": 5,
+      "cost": 2000,
+      "cpuCost": 2
+    },
+	  	  {
+      "id": 131,
+      "name": "CosmeticAntennaPH",
+      "health": 100,
+      "mass": 5,
+      "cost": 2000,
+      "cpuCost": 2
+    },
+	  	  {
+      "id": 132,
+      "name": "CosmeticAntennaPH",
+      "health": 100,
+      "mass": 5,
+      "cost": 2000,
       "cpuCost": 2
     },
 	  {
@@ -927,7 +951,7 @@
       "name": "CosmeticLargeAntenna",
       "health": 100,
       "mass": 15,
-      "cost": 5000,
+      "cost": 3000,
       "cpuCost": 2
     },
 	  {
