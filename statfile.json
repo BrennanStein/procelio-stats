@@ -729,14 +729,14 @@
     {
       "id": 57,
       "name": "MinigunSecondary",
-      "health": 2800,
-      "mass": 45,
-      "cost": 1500,
-      "cpuCost": 40,
+      "health": 1500,
+      "mass": 55,
+      "cost": 2000,
+      "cpuCost": 70,
       "rotationSpeed": 1080,
       "functionHealth": 750,
       "spec1_distance": 2000,
-      "spec2_lockon": 100
+      "spec2_lockon": 130
     },
     {
       "id": 58,
@@ -1113,7 +1113,7 @@
 	{
       "id": 10,
       "name": "MGN",
-      "damage": 100
+      "damage": 275
     },
 	  	{
       "id": 12,
