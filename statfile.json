@@ -1055,7 +1055,7 @@
       "name": "Craig NYears",
       "health": 100,
       "mass": 1,
-      "cost": 100000,
+      "cost": 0,
       "cpuCost": 1
     }
   ],
@@ -1113,7 +1113,7 @@
 	{
       "id": 10,
       "name": "MGN",
-      "damage": 275
+      "damage": 225
     },
 	  	{
       "id": 12,
