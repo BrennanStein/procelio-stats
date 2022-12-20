@@ -1055,7 +1055,7 @@
       "name": "Craig NYears",
       "health": 100,
       "mass": 1,
-      "cost": 100000,
+      "cost": 0,
       "cpuCost": 1
     }
   ],
@@ -1078,27 +1078,27 @@
     {
       "id": 4,
       "name": "nanoWeapon",
-      "damage": 350
+      "damage": 325
     },
 	{
       "id": 11,
       "name": "nanoHeal",
-      "damage": 500
+      "damage": 525
     },
     {
       "id": 5,
       "name": "mine projectile",
-      "damage": 1100
+      "damage": 1400
     },
     {
       "id": 6,
       "name": "rocket launch",
-      "damage": 850
+      "damage": 900
     },
     {
       "id": 7,
       "name": "melee tesla",
-      "damage": 4000
+      "damage": 4500
     },
     {
       "id": 8,
@@ -1112,8 +1112,8 @@
     },
 	{
       "id": 10,
-      "name": "MGN",
-      "damage": 275
+      "name": "Autocannon",
+      "damage": 250
     },
 	  	{
       "id": 12,
@@ -1267,7 +1267,7 @@
     {
       "id": 1000,
       "name": "Thruster Cryo",
-      "cosmeticCost": 0,
+      "cosmeticCost": 10000,
       "cosmeticPremiumCost": 5,
       "config": []
     },
@@ -1280,7 +1280,7 @@
     },
   	{
       "id": 1002,
-      "name": "ThrusterPlasma",
+      "name": "ThrusterNova",
       "cosmeticCost": 10000,
       "cosmeticPremiumCost": 0,
       "config": []
