@@ -1268,7 +1268,7 @@
       "id": 1000,
       "name": "Thruster Cryo",
       "cosmeticCost": 10000,
-      "cosmeticPremiumCost": 5,
+      "cosmeticPremiumCost": 0,
       "config": []
     },
 	  {
@@ -1281,7 +1281,7 @@
   	{
       "id": 1002,
       "name": "ThrusterNova",
-      "cosmeticCost": 10000,
+      "cosmeticCost": 7500,
       "cosmeticPremiumCost": 0,
       "config": []
     },
@@ -1302,7 +1302,7 @@
 	{
       "id": 1005,
       "name": "ThrusterGreen",
-      "cosmeticCost": 10000,
+      "cosmeticCost": 5000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
@@ -1336,9 +1336,9 @@
     },
 	{
       "id": 1010,
-      "name": "ThrusterPH1",
-      "cosmeticCost": 0,
-      "cosmeticPremiumCost": 5,
+      "name": "ThrusterPurple",
+      "cosmeticCost": 5000,
+      "cosmeticPremiumCost": 0,
       "config": []
     },
 	{
