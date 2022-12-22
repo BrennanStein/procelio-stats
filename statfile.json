@@ -1344,7 +1344,7 @@
 	{
       "id": 1011,
       "name": "ThrusterPurple",
-      "cosmeticCost": 5000,
+      "cosmeticCost": 0,
       "cosmeticPremiumCost": 0,
       "config": []
     },
