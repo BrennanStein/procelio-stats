@@ -940,11 +940,11 @@
     },
 	  	  {
       "id": 132,
-      "name": "CosmeticAntennaPH",
-      "health": 100,
-      "mass": 5,
-      "cost": 2000,
-      "cpuCost": 2
+      "name": "SpinningSiren",
+      "health": 200,
+      "mass": 15,
+      "cost": 20000,
+      "cpuCost": 20
     },
 	  {
       "id": 72,
@@ -1336,16 +1336,16 @@
     },
 	{
       "id": 1010,
-      "name": "ThrusterPurple",
-      "cosmeticCost": 5000,
-      "cosmeticPremiumCost": 0,
+      "name": "ThrusterSpiral",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 10,
       "config": []
     },
 	{
       "id": 1011,
-      "name": "ThrusterPH2",
-      "cosmeticCost": 0,
-      "cosmeticPremiumCost": 5,
+      "name": "ThrusterPurple",
+      "cosmeticCost": 5000,
+      "cosmeticPremiumCost": 0,
       "config": []
     },
 	  {
@@ -1381,8 +1381,8 @@
 	{
       "id": 2000,
       "name": "EP Pattern 1 Cube",
-      "cosmeticCost": 0,
-      "cosmeticPremiumCost": 10,
+      "cosmeticCost": 20000,
+      "cosmeticPremiumCost": 0,
       "config": []
     },
 	{
