@@ -1054,7 +1054,22 @@
       "name": "Craig NYears",
       "health": 100,
       "mass": 1,
-      "cost": 0,
+      "cpuCost": 8
+    },
+	  	  	{
+      "id": 133,
+      "name": "Cosmetic MechHead",
+      "health": 100,
+      "mass": 1,
+	"cost": 7500,
+      "cpuCost": 1
+    },
+	  	  	{
+      "id": 134,
+      "name": "Cosmetic Screw Greeble,
+      "health": 100,
+      "mass": 1,
+	"cost": 2500,
       "cpuCost": 1
     }
   ],
