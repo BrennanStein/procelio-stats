@@ -1054,6 +1054,7 @@
       "name": "Craig NYears",
       "health": 100,
       "mass": 1,
+	"cost": 1,
       "cpuCost": 8
     },
 	  	  	{
