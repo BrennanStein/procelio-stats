@@ -1054,7 +1054,6 @@
       "name": "Craig NYears",
       "health": 100,
       "mass": 1,
-	"cost": 1,
       "cpuCost": 8
     },
 	  	  	{
@@ -1088,32 +1087,32 @@
     {
       "id": 3,
       "name": "alphaRailgunProjectile",
-      "damage": 4400
+      "damage": 4500
     },
     {
       "id": 4,
       "name": "nanoWeapon",
-      "damage": 325
+      "damage": 300
     },
 	{
       "id": 11,
       "name": "nanoHeal",
-      "damage": 525
+      "damage": 550
     },
     {
       "id": 5,
       "name": "mine projectile",
-      "damage": 1400
+      "damage": 2000
     },
     {
       "id": 6,
       "name": "rocket launch",
-      "damage": 900
+      "damage": 1000
     },
     {
       "id": 7,
       "name": "melee tesla",
-      "damage": 4500
+      "damage": 7500
     },
     {
       "id": 8,
