@@ -1088,6 +1088,14 @@
       "mass": 1,
 	"cost": 2500,
       "cpuCost": 1
+    },
+    {
+      "id": 139,
+      "name": "DevHaxAntigrav",
+      "health": 100,
+      "mass": 1,
+      "premiumCost": 100000,
+      "cpuCost": 10000
     }
   ],
   "attacks": [
