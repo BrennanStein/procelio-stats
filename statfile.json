@@ -1047,14 +1047,14 @@
       "name": "Craig Xmas",
       "health": 100,
       "mass": 1,
-      "cpuCost": 1
+      "cpuCost": 2
     },
 	  	{
       "id": 129,
       "name": "Craig NYears",
       "health": 100,
       "mass": 1,
-      "cpuCost": 8
+      "cpuCost": 2
     },
 	  	  	{
       "id": 133,
@@ -1078,16 +1078,16 @@
       "name": "Cosmetic Pan9k",
       "health": 50,
       "mass": 10,
-	"cost": 10000,
+	"cost": 15000,
       "cpuCost": 2
     },
 	  	  	  	{
       "id": 136,
-      "name": "Cosmetic PH1",
+      "name": "Cosmetic Pan9kA",
       "health": 100,
-      "mass": 1,
-	"cost": 2500,
-      "cpuCost": 1
+      "mass": 10,
+	"cost": 15000,
+      "cpuCost": 2
     },
     {
       "id": 139,
@@ -1383,7 +1383,7 @@
 	{
       "id": 1011,
       "name": "ThrusterPurple",
-      "cosmeticCost": 0,
+      "cosmeticCost": 5000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
