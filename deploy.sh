@@ -12,4 +12,5 @@ ssh -i ~/.ssh/digitalocean root@files.procelio.com "tmux kill-session -t files; 
 
 sleep 10
 ssh -i ~/.ssh/acct_digitalocean root@accounts.procelio.com "tmux kill-session -t accounts; ./launch_all.sh"
-
+s3cmd put ./statfile.stat s3://procelio/stats/prod.stat
+reloadstats
