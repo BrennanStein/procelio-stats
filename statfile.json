@@ -1076,7 +1076,7 @@
     },
 	{
       "id": 106,
-      "name": "Small Nosecone Cosmetic",
+      "name": "Small Tailspike Cosmetic",
       "health": 50,
       "mass": 10,
       "cost": 2500,
@@ -1084,11 +1084,27 @@
     },
 	{
       "id": 107,
-      "name": "Large Nosecone Cosmetic",
+      "name": "Large Tailspike Cosmetic",
       "health": 75,
       "mass": 15,
       "cost": 5000,
-      "cpuCost": 2
+      "cpuCost": 1
+    },
+	  	{
+      "id": 137,
+      "name": "Small Nosecone Cosmetic",
+      "health": 50,
+      "mass": 5,
+      "cost": 2500,
+      "cpuCost": 1
+    },
+	{
+      "id": 138,
+      "name": "Large Nosecone Cosmetic",
+      "health": 75,
+      "mass": 10,
+      "cost": 5000,
+      "cpuCost": 1
     },
 	  	{
       "id": 128,
