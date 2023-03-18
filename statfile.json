@@ -1209,6 +1209,86 @@
       "mass": 50,
       "cost": 1000,
       "cpuCost": 10
+    },
+    {
+      "id": 152,
+      "name": "MODULE",
+      "health": 500,
+      "mass": 50,
+      "cost": 10000,
+      "cpuCost": 10
+    },
+    {
+      "id": 153,
+      "name": "MODULE",
+      "health": 500,
+      "mass": 50,
+      "cost": 10000,
+      "cpuCost": 10
+    },
+    {
+      "id": 154,
+      "name": "MODULE",
+      "health": 500,
+      "mass": 50,
+      "cost": 10000,
+      "cpuCost": 10
+    },
+    {
+      "id": 155,
+      "name": "MODULE",
+      "health": 500,
+      "mass": 50,
+      "cost": 10000,
+      "cpuCost": 10
+    },
+    {
+      "id": 156,
+      "name": "MODULE",
+      "health": 500,
+      "mass": 50,
+      "cost": 10000,
+      "cpuCost": 10
+    },
+    {
+      "id": 157,
+      "name": "MODULE",
+      "health": 500,
+      "mass": 50,
+      "cost": 10000,
+      "cpuCost": 10
+    },
+    {
+      "id": 158,
+      "name": "MODULE",
+      "health": 500,
+      "mass": 50,
+      "cost": 10000,
+      "cpuCost": 10
+    },
+    {
+      "id": 159,
+      "name": "MODULE",
+      "health": 500,
+      "mass": 50,
+      "cost": 10000,
+      "cpuCost": 10
+    },
+    {
+      "id": 160,
+      "name": "MODULE",
+      "health": 500,
+      "mass": 50,
+      "cost": 10000,
+      "cpuCost": 10
+    },
+    {
+      "id": 161,
+      "name": "MODULE",
+      "health": 500,
+      "mass": 50,
+      "cost": 10000,
+      "cpuCost": 10
     }
   ],
   "attacks": [
