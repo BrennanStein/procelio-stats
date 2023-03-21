@@ -1106,51 +1106,124 @@
       "cost": 5000,
       "cpuCost": 1
     },
-	  	{
+	{
       "id": 128,
       "name": "Craig Xmas",
       "health": 100,
       "mass": 1,
       "cpuCost": 2
     },
-	  	{
+	{
       "id": 129,
       "name": "Craig NYears",
       "health": 100,
       "mass": 1,
       "cpuCost": 2
     },
-	  	  	{
+	{
       "id": 133,
       "name": "Cosmetic MechHead",
       "health": 100,
       "mass": 15,
-	"cost": 7500,
+	  "cost": 7500,
       "cpuCost": 2
     },
-	  	  	{
+	{
       "id": 134,
       "name": "Cosmetic Screw Greeble",
       "health": 1,
       "mass": 1,
-	"cost": 1000,
+	  "cost": 1000,
       "cpuCost": 1
     },
 	  
-	  	  	  	{
+	{
       "id": 135,
       "name": "Cosmetic Pan9k",
       "health": 50,
       "mass": 10,
-	"cost": 15000,
+	  "cost": 15000,
       "cpuCost": 2
     },
-	  	  	  	{
+	{
       "id": 136,
       "name": "Cosmetic Pan9kA",
       "health": 100,
       "mass": 10,
-	"cost": 15000,
+	  "cost": 15000,
+      "cpuCost": 2
+    },
+
+    {
+      "id": 162,
+      "name": "COSM_VENT_LONG",
+      "health": 110,
+      "mass": 25,
+      "cost": 3000,
+      "cpuCost": 2
+    },
+    {
+      "id": 163,
+      "name": "COSM_PH1",
+      "health": 100,
+      "mass": 25,
+      "cost": 3000,
+      "cpuCost": 2
+    },
+    {
+      "id": 164,
+      "name": "COSM_EXHAUST_LARGE",
+      "health": 100,
+      "mass": 25,
+      "cost": 3000,
+      "cpuCost": 2
+    },
+    {
+      "id": 165,
+      "name": "COSM_PH2",
+      "health": 100,
+      "mass": 25,
+      "cost": 3000,
+      "cpuCost": 2
+    },
+    {
+      "id": 166,
+      "name": "COSM_PH3",
+      "health": 100,
+      "mass": 25,
+      "cost": 3000,
+      "cpuCost": 2
+    },
+    {
+      "id": 167,
+      "name": "COSM_PH4",
+      "health": 100,
+      "mass": 25,
+      "cost": 3000,
+      "cpuCost": 2
+    },
+    {
+      "id": 168,
+      "name": "COSM_PH5",
+      "health": 100,
+      "mass": 25,
+      "cost": 3000,
+      "cpuCost": 2
+    },
+    {
+      "id": 169,
+      "name": "COSM_PH6",
+      "health": 100,
+      "mass": 25,
+      "cost": 3000,
+      "cpuCost": 2
+    },
+    {
+      "id": 170,
+      "name": "COSM_PH7",
+      "health": 100,
+      "mass": 25,
+      "cost": 3000,
       "cpuCost": 2
     },
     {
@@ -1186,7 +1259,7 @@
       "cpuCost": 15
     },
 	  
-	  	{
+	{
       "id": 143,
       "name": "RUDDER_FLAT",
       "health": 500,
@@ -1212,7 +1285,7 @@
     },
     {
       "id": 152,
-      "name": "MODULE",
+      "name": "MOD_DISPLACER",
       "health": 500,
       "mass": 50,
       "cost": 10000,
@@ -1220,7 +1293,7 @@
     },
     {
       "id": 153,
-      "name": "MODULE",
+      "name": "MOD_FLARES",
       "health": 500,
       "mass": 50,
       "cost": 10000,
