@@ -40,7 +40,16 @@
       "cost": 20000,
       "cpuCost": 1
     },
-	
+	{
+      "id": 139,
+      "name": "DevHaxAntigrav",
+      "health": 100,
+      "mass": 1,
+      "premiumCost": 100000,
+      "cpuCost": 10000
+    },
+
+
 	
 	{
       "id": 1,
@@ -253,80 +262,8 @@
       "cost": 250,
       "cpuCost": 1
     },
+
     {
-      "id": 14,
-      "name": "Wheel",
-      "health": 1000,
-      "mass": 500,
-      "cost": 450,
-      "cpuCost": 14
-    },
-    {
-      "id": 15,
-      "name": "Hoverblade",
-      "health": 1500,
-      "mass": 200,
-      "cost": 1200,
-      "cpuCost": 22
-    },
-    {
-      "id": 16,
-      "name": "BigThruster",
-      "health": 2500,
-      "mass": 150,
-      "cost": 800,
-      "cpuCost": 28
-    },
-	{
-      "id": 64,
-      "name": "MiddleThruster",
-      "health": 2000,
-      "mass": 70,
-      "cost": 600,
-      "cpuCost": 20
-    },
-    {
-      "id": 17,
-      "name": "SmallThruster",
-      "health": 800,
-      "mass": 20,
-      "cost": 620,
-      "cpuCost": 8
-    },
-	{
-      "id": 27,
-      "name": "TopThrusterSmall",
-      "health": 800,
-      "mass": 25,
-      "cost": 800,
-      "cpuCost": 8,
-      "thrust": 24000
-    },
-	{
-      "id": 125,
-      "name": "InsectSmall",
-      "health": 500,
-      "mass": 100,
-      "cost": 10000,
-      "cpuCost": 22
-    },
-	{
-      "id": 126,
-      "name": "LegInsectMedium",
-      "health": 1000,
-      "mass": 250,
-      "cost": 35000,
-      "cpuCost": 38
-    },
-	{
-      "id": 127,
-      "name": "LegInsectLarge",
-      "health": 1500,
-      "mass": 500,
-      "cost": 65000,
-      "cpuCost": 44
-    },
-	{
       "id": 77,
       "name": "1x3Airframe",
       "health": 200,
@@ -334,7 +271,7 @@
       "cost": 300,
       "cpuCost": 3
     },
-		{
+	{
       "id": 79,
       "name": "1x3Airframe Flat",
       "health": 150,
@@ -398,158 +335,7 @@
       "cost": 725,
       "cpuCost": 8
     },
-    {
-      "id": 26,
-      "name": "Sled",
-      "health": 1000,
-      "mass": 35,
-      "cost": 400,
-      "cpuCost": 8
-    },
-    {
-      "id": 28,
-      "name": "SweptWingLeft",
-      "health": 2500,
-      "mass": 100,
-      "cost": 1400,
-      "cpuCost": 24
-    },
-	  {
-      "id": 29,
-      "name": "SweptWingRight",
-      "health": 2500,
-      "mass": 100,
-      "cost": 1400,
-      "cpuCost": 24
-    },
-	{
-      "id": 68,
-      "name": "FlatWingLeft",
-      "health": 3000,
-      "mass": 150,
-      "cost": 1700,
-      "cpuCost": 26
-    },
-	{
-      "id": 69,
-      "name": "FlatWingRight",
-      "health": 3000,
-      "mass": 150,
-      "cost": 1700,
-      "cpuCost": 26
-    },
-	{
-      "id": 30,
-      "name": "SweptRudder",
-      "health": 1000,
-      "mass": 60,
-      "cost": 1000,
-      "cpuCost": 20
-    },
-	  {
-      "id": 70,
-      "name": "LargeRudder",
-      "health": 1500,
-      "mass": 80,
-      "cost": 1300,
-      "cpuCost": 22
-    },
-	{
-      "id": 123,
-      "name": "Inactive Rudder",
-      "health": 1000,
-      "mass": 60,
-      "cost": 1000,
-      "cpuCost": 18
-    },
-	{
-      "id": 124,
-      "name": "Inactive Rudder Large",
-      "health": 1500,
-      "mass": 80,
-      "cost": 1300,
-      "cpuCost": 20
-    },
-    {
-      "id": 18,
-      "name": "LaserGun",
-      "health": 2200,
-      "mass": 80,
-      "cost": 1200,
-      "cpuCost": 50,
-      "rotationSpeed": 360
-    },
-	  {
-      "id": 31,
-      "name": "AlphaRailgun",
-      "health": 2700,
-      "mass": 125,
-      "cost": 2500,
-      "cpuCost": 55,
-      "rotationSpeed": 145
-    },
-	  {
-      "id": 32,
-      "name": "AlphaPlasma",
-      "health": 2200,
-      "mass": 80,
-      "cost": 1700,
-      "cpuCost": 50,
-      "rotationSpeed": 250
-    },
-	  {
-      "id": 33,
-      "name": "AlphaHealgun",
-      "health": 2200,
-      "mass": 50,
-      "cost": 1000,
-      "cpuCost": 38,
-      "rotationSpeed": 720
-    },
-	  {
-      "id": 34,
-      "name": "AlphaSecondaryMines",
-      "health": 1500,
-      "mass": 35,
-      "cost": 1500,
-      "cpuCost": 50,
-      "functionHealth": 700
-    },
-	  {
-      "id": 35,
-      "name": "AlphaSecondaryShield",
-      "health": 3500,
-      "mass": 70,
-      "cost": 2100,
-      "cpuCost": 60
-    },
-	  {
-      "id": 36,
-      "name": "AlphaSecondaryRocket",
-      "health": 1300,
-      "mass": 45,
-      "cost": 1500,
-      "cpuCost": 55,
-      "rotationSpeed": 300,
-      "functionHealth": 400
-    },
-	  {
-      "id": 37,
-      "name": "AlphaSecondarySmoke",
-      "health": 1600,
-      "mass": 25,
-      "cost": 500,
-      "cpuCost": 20
-    },
-	  {
-      "id": 38,
-      "name": "AlphaSecondaryBlade",
-      "health": 1400,
-      "mass": 55,
-      "cost": 1500,
-      "cpuCost": 40,
-      "functionHealth": 350
-    },
+
     {
       "id": 39,
       "name": "ElectroplateA_L",
@@ -605,9 +391,162 @@
       "cost": 700,
       "cpuCost": 28
     },
+
+
     {
+      "id": 26,
+      "name": "Sled",
+      "health": 1000,
+      "mass": 35,
+      "cost": 400,
+      "cpuCost": 8
+    },
+    {
+      "id": 73,
+      "name": "RepulsorPad",
+      "health":1000,
+      "mass": 35,
+      "cost": 2000,
+      "cpuCost": 15
+    },
+    {
+      "id": 15,
+      "name": "Hoverblade",
+      "health": 1500,
+      "mass": 200,
+      "cost": 1200,
+      "cpuCost": 22
+    },
+
+
+    {
+      "id": 14,
+      "name": "BOT_MOV_WHEEL_MEDIUM",
+      "health": 1000,
+      "mass": 500,
+      "cost": 450,
+      "cpuCost": 14
+    },
+    {
+      "id": 59,
+      "name": "BOT_MOV_WHEEL_MEDIUM_NONSTEER",
+      "health": 1100,
+      "mass": 490,
+      "cost": 350,
+      "cpuCost": 10
+    },
+    {
+      "id": 171,
+      "name": "BOT_MOV_WHEEL_SMALL",
+      "health": 800,
+      "mass": 440,
+      "cost": 350,
+      "cpuCost": 8
+    },
+    {
+      "id": 172,
+      "name": "BOT_MOV_PH2",
+      "health": 800,
+      "mass": 440,
+      "cost": 350,
+      "cpuCost": 8
+    },
+    {
+      "id": 173,
+      "name": "BOT_MOV_PH3",
+      "health": 800,
+      "mass": 440,
+      "cost": 350,
+      "cpuCost": 8
+    },
+
+	{
+      "id": 74,
+      "name": "TankLeft",
+      "health": 5400,
+      "mass": 2000,
+      "cost": 3500,
+      "cpuCost": 35
+    },
+	{
+      "id": 75,
+      "name": "TankRight",
+      "health": 5400,
+      "mass": 2000,
+      "cost": 3500,
+      "cpuCost": 35
+    },
+	{
+      "id": 76,
+      "name": "TankSymmetric",
+      "health": 6000,
+      "mass": 2000,
+      "cost": 3500,
+      "cpuCost": 35
+    },
+
+    {
+      "id": 125,
+      "name": "InsectSmall",
+      "health": 500,
+      "mass": 100,
+      "cost": 10000,
+      "cpuCost": 22
+    },
+	{
+      "id": 126,
+      "name": "LegInsectMedium",
+      "health": 1000,
+      "mass": 250,
+      "cost": 35000,
+      "cpuCost": 38
+    },
+	{
+      "id": 127,
+      "name": "LegInsectLarge",
+      "health": 1500,
+      "mass": 500,
+      "cost": 65000,
+      "cpuCost": 44
+    },
+
+    {
+      "id": 16,
+      "name": "BigThruster",
+      "health": 2500,
+      "mass": 150,
+      "cost": 800,
+      "cpuCost": 28
+    },
+	{
+      "id": 64,
+      "name": "BOT_MOV_THRUST_Middle",
+      "health": 2000,
+      "mass": 70,
+      "cost": 600,
+      "cpuCost": 20
+    },
+    {
+      "id": 17,
+      "name": "BOT_MOV_THRUST_Small",
+      "health": 800,
+      "mass": 20,
+      "cost": 620,
+      "cpuCost": 8
+    },
+	{
+      "id": 27,
+      "name": "BOT_MOV_THRUST_TopSmall",
+      "health": 800,
+      "mass": 25,
+      "cost": 800,
+      "cpuCost": 8,
+      "thrust": 24000
+    },
+	
+	{
       "id": 44,
-      "name": "Helium1x1x2",
+      "name": "BOT_MOV_LTA_112",
       "health": 250,
       "mass": 15,
       "cost": 400,
@@ -618,7 +557,7 @@
     },
     {
       "id": 45,
-      "name": "Helium1x2x3",
+      "name": "BOT_MOV_LTA_123",
       "health": 450,
       "mass": 30,
       "cost": 500,
@@ -629,7 +568,7 @@
     },
     {
       "id": 46,
-      "name": "Helium2x2x4",
+      "name": "BOT_MOV_LTA_224",
       "health": 1200,
       "mass": 80,
       "cost": 600,
@@ -640,7 +579,7 @@
     },
     {
       "id": 47,
-      "name": "Helium3x3x5",
+      "name": "BOT_MOV_LTA_335",
       "health": 2600,
       "mass": 180,
       "cost": 700,
@@ -651,7 +590,7 @@
     },
     {
       "id": 48,
-      "name": "Helium3x4x8",
+      "name": "BOT_MOV_LTA_348",
       "health": 4800,
       "mass": 360,
       "cost": 800,
@@ -662,64 +601,180 @@
     },
     {
       "id": 49,
-      "name": "Gyroscope",
+      "name": "BOT_MOV_GYRO",
       "health": 1200,
       "mass": 85,
       "cost": 1500,
       "cpuCost": 28
     },
-    {
-      "id": 50,
-      "name": "Radar",
+
+	{
+      "id": 140,
+      "name": "BOT_MOV_WING_FLAT",
       "health": 1000,
-      "mass": 15,
+      "mass": 70,
       "cost": 1500,
-      "cpuCost": 25
+      "cpuCost": 15
     },
-    {
-      "id": 51,
-      "name": "RadarJammer",
-      "health": 800,
-      "mass": 15,
+	{
+      "id": 141,
+      "name": "BOT_MOV_WING_SWEPT",
+      "health": 1000,
+      "mass": 75,
       "cost": 1500,
-      "cpuCost": 30
+      "cpuCost": 15
     },
-    {
-      "id": 52,
-      "name": "HeadlightStandard",
-      "health": 800,
-      "mass": 10,
-      "cost": 10000,
-      "cpuCost": 12
+	{
+      "id": 142,
+      "name": "BOT_MOV_WING_DELTA",
+      "health": 1000,
+      "mass": 100,
+      "cost": 1500,
+      "cpuCost": 15
     },
-    {
-      "id": 53,
-      "name": "HeadlightAim",
-      "health": 800,
-      "mass": 25,
-      "cost": 50000,
-      "cpuCost": 10
+	  
+	{
+      "id": 143,
+      "name": "BOT_MOV_RUDDER_FLAT",
+      "health": 500,
+      "mass": 40,
+      "cost": 1000,
+      "cpuCost": 8
     },
-    {
-      "id": 54,
-      "name": "HeadlightPopup",
-      "health": 800,
+	{
+      "id": 144,
+      "name": "BOT_MOV_RUDDER_SWEPT",
+      "health": 500,
       "mass": 45,
-      "cost": 50000,
+      "cost": 1000,
+      "cpuCost": 8
+    },
+	{
+      "id": 145,
+      "name": "BOT_MOV_RUDDER_DELTA",
+      "health": 500,
+      "mass": 50,
+      "cost": 1000,
       "cpuCost": 10
+    },
+    {
+      "id": 28,
+      "name": "OLD_SweptWingLeft",
+      "health": 2500,
+      "mass": 100,
+      "cost": 1400,
+      "cpuCost": 24
+    },
+	  {
+      "id": 29,
+      "name": "OLD_SweptWingRight",
+      "health": 2500,
+      "mass": 100,
+      "cost": 1400,
+      "cpuCost": 24
+    },
+	{
+      "id": 68,
+      "name": "OLD_FlatWingLeft",
+      "health": 3000,
+      "mass": 150,
+      "cost": 1700,
+      "cpuCost": 26
+    },
+	{
+      "id": 69,
+      "name": "OLD_FlatWingRight",
+      "health": 3000,
+      "mass": 150,
+      "cost": 1700,
+      "cpuCost": 26
+    },
+	{
+      "id": 30,
+      "name": "OLD_SweptRudder",
+      "health": 1000,
+      "mass": 60,
+      "cost": 1000,
+      "cpuCost": 20
+    },
+	  {
+      "id": 70,
+      "name": "OLD_LargeRudder",
+      "health": 1500,
+      "mass": 80,
+      "cost": 1300,
+      "cpuCost": 22
+    },
+	{
+      "id": 123,
+      "name": "OLD_Inactive Rudder",
+      "health": 1000,
+      "mass": 60,
+      "cost": 1000,
+      "cpuCost": 18
+    },
+	{
+      "id": 124,
+      "name": "OLD_Inactive Rudder Large",
+      "health": 1500,
+      "mass": 80,
+      "cost": 1300,
+      "cpuCost": 20
+    },
+
+
+
+
+
+
+    {
+      "id": 18,
+      "name": "BOT_WEP_PRIM_ELECTROLASER",
+      "health": 2200,
+      "mass": 80,
+      "cost": 1200,
+      "cpuCost": 50,
+      "rotationSpeed": 360
+    },
+	  {
+      "id": 31,
+      "name": "BOT_WEP_PRIM_GAUSS",
+      "health": 2700,
+      "mass": 125,
+      "cost": 2500,
+      "cpuCost": 55,
+      "rotationSpeed": 145
+    },
+	  {
+      "id": 32,
+      "name": "BOT_WEP_PRIM_NOVA",
+      "health": 2200,
+      "mass": 80,
+      "cost": 1700,
+      "cpuCost": 50,
+      "rotationSpeed": 250
     },
     {
       "id": 55,
-      "name": "Rivet Rifle",
+      "name": "BOT_WEP_PRIM_RIVETRIFLE",
       "health": 2200,
       "mass": 70,
       "cost": 1700,
       "cpuCost": 50,
       "rotationSpeed": 270
     },
+	  {
+      "id": 33,
+      "name": "BOT_WEP_PRIM_FLUX",
+      "health": 2200,
+      "mass": 50,
+      "cost": 1000,
+      "cpuCost": 38,
+      "rotationSpeed": 720
+    },
     {
       "id": 56,
-      "name": "Macrowave",
+      "name": "BOT_WEP_PRIM_MACROWAVE",
       "health": 1000,
       "mass": 45,
       "cost": 1500,
@@ -728,7 +783,7 @@
     },
     {
       "id": 57,
-      "name": "MinigunSecondary",
+      "name": "BOT_WEP_SEC_AUTOCANNON",
       "health": 1500,
       "mass": 55,
       "cost": 2000,
@@ -738,23 +793,198 @@
       "spec1_distance": 200000,
       "spec2_lockon": 1
     },
+	  {
+      "id": 34,
+      "name": "BOT_WEP_SEC_MINELAYER",
+      "health": 1500,
+      "mass": 35,
+      "cost": 1500,
+      "cpuCost": 50,
+      "functionHealth": 700
+    },
+	  {
+      "id": 35,
+      "name": "BOT_WEP_SEC_SHIELDPROJECTOR",
+      "health": 3500,
+      "mass": 70,
+      "cost": 2100,
+      "cpuCost": 60
+    },
+	  {
+      "id": 36,
+      "name": "BOT_WEP_SEC_MISSILEPOD",
+      "health": 1300,
+      "mass": 45,
+      "cost": 1500,
+      "cpuCost": 55,
+      "rotationSpeed": 300,
+      "functionHealth": 400
+    },
+	  {
+      "id": 37,
+      "name": "BOT_WEP_SEC_SMOKE",
+      "health": 1600,
+      "mass": 25,
+      "cost": 500,
+      "cpuCost": 20
+    },
+	{
+      "id": 38,
+      "name": "BOT_WEP_SEC_CASCUTTER",
+      "health": 1400,
+      "mass": 55,
+      "cost": 1500,
+      "cpuCost": 40,
+      "functionHealth": 350
+    },
+
+    {
+      "id": 152,
+      "name": "BOT_MOD_DISPLACER",
+      "health": 500,
+      "mass": 50,
+      "cost": 10000,
+      "cpuCost": 10
+    },
+    {
+      "id": 153,
+      "name": "BOT_MOD_FLARES",
+      "health": 500,
+      "mass": 50,
+      "cost": 10000,
+      "cpuCost": 10
+    },
+    {
+      "id": 154,
+      "name": "BOT_MOD_MODULE",
+      "health": 500,
+      "mass": 50,
+      "cost": 10000,
+      "cpuCost": 10
+    },
+    {
+      "id": 155,
+      "name": "BOT_MOD_MODULE",
+      "health": 500,
+      "mass": 50,
+      "cost": 10000,
+      "cpuCost": 10
+    },
+    {
+      "id": 156,
+      "name": "BOT_MOD_MODULE",
+      "health": 500,
+      "mass": 50,
+      "cost": 10000,
+      "cpuCost": 10
+    },
+    {
+      "id": 157,
+      "name": "BOT_MOD_MODULE",
+      "health": 500,
+      "mass": 50,
+      "cost": 10000,
+      "cpuCost": 10
+    },
+    {
+      "id": 158,
+      "name": "BOT_MOD_MODULE",
+      "health": 500,
+      "mass": 50,
+      "cost": 10000,
+      "cpuCost": 10
+    },
+    {
+      "id": 159,
+      "name": "BOT_MOD_MODULE",
+      "health": 500,
+      "mass": 50,
+      "cost": 10000,
+      "cpuCost": 10
+    },
+    {
+      "id": 160,
+      "name": "BOT_MOD_MODULE",
+      "health": 500,
+      "mass": 50,
+      "cost": 10000,
+      "cpuCost": 10
+    },
+    {
+      "id": 161,
+      "name": "BOT_MOD_MODULE",
+      "health": 500,
+      "mass": 50,
+      "cost": 10000,
+      "cpuCost": 10
+    }
+    {
+      "id": 50,
+      "name": "BOT_MOD_RADAR",
+      "health": 1000,
+      "mass": 15,
+      "cost": 1500,
+      "cpuCost": 25
+    },
+    {
+      "id": 51,
+      "name": "BOT_MOD_RADARJAMMER",
+      "health": 800,
+      "mass": 15,
+      "cost": 1500,
+      "cpuCost": 30
+    },
+
     {
       "id": 58,
-      "name": "IsopodCosmetic",
+      "name": "BOT_COSM_CRAIG_OG",
       "health": 100,
       "mass": 1,
       "cost": 1000000,
       "cpuCost": 1
     },
     {
-      "id": 59,
-      "name": "NonSteerWheel",
-      "health": 1100,
-      "mass": 490,
-      "cost": 350,
+      "id": 128,
+      "name": "BOT_COSM_CRAIG_XMAS_2022",
+      "health": 100,
+      "mass": 1,
+      "cpuCost": 2
+    },
+	{
+      "id": 129,
+      "name": "BOT_COSM_CRAIG_NEWYEARS_2022",
+      "health": 100,
+      "mass": 1,
+      "cpuCost": 2
+    },
+
+
+    {
+      "id": 52,
+      "name": "BOT_COSM_LIGHT_FLAT",
+      "health": 800,
+      "mass": 10,
+      "cost": 10000,
+      "cpuCost": 12
+    },
+    {
+      "id": 53,
+      "name": "BOT_COSM_LIGHT_AIMING",
+      "health": 800,
+      "mass": 25,
+      "cost": 50000,
       "cpuCost": 10
     },
-	  {
+    {
+      "id": 54,
+      "name": "BOT_COSM_LIGHT_POPUP",
+      "health": 800,
+      "mass": 45,
+      "cost": 50000,
+      "cpuCost": 10
+    },
+
+	{
       "id": 60,
       "name": "Vaportrail",
       "health": 5,
@@ -762,7 +992,7 @@
       "cost": 10000,
       "cpuCost": 5
     },
-	  {
+	{
       "id": 63,
       "name": "Vent Cube",
       "health": 100,
@@ -770,7 +1000,244 @@
       "cost": 2000,
       "cpuCost": 2
     },
+	{
+      "id": 66,
+      "name": "Diag Painted Normal Cube",
+      "health": 100,
+      "mass": 15,
+      "cost": 200,
+      "cpuCost": 1
+    },
+    {
+      "id": 67,
+      "name": "Half Painted Normal Cube",
+      "health": 100,
+      "mass": 15,
+      "cost": 200,
+      "cpuCost": 1
+    },
 	  {
+      "id": 71,
+      "name": "CosmeticSmallAntenna",
+      "health": 100,
+      "mass": 5,
+      "cost": 2000,
+      "cpuCost": 2
+    },
+	  	  {
+      "id": 130,
+      "name": "CosmeticSmallSideAntenna",
+      "health": 100,
+      "mass": 5,
+      "cost": 2000,
+      "cpuCost": 2
+    },
+	  	  {
+      "id": 131,
+      "name": "CosmeticAntennaPH",
+      "health": 100,
+      "mass": 5,
+      "cost": 2000,
+      "cpuCost": 2
+    },
+	  	  {
+      "id": 132,
+      "name": "SpinningSiren",
+      "health": 200,
+      "mass": 15,
+      "cost": 20000,
+      "cpuCost": 20
+    },
+	  {
+      "id": 72,
+      "name": "CosmeticLargeAntenna",
+      "health": 100,
+      "mass": 15,
+      "cost": 3000,
+      "cpuCost": 2
+    },
+	{
+      "id": 91,
+      "name": "Cosmetic Servo Arm",
+      "health": 100,
+      "mass": 10,
+      "cost": 10000,
+      "cpuCost": 2
+    },
+    {
+      "id": 92,
+      "name": "Cosmetic Exhaust",
+      "health": 80,
+      "mass": 10,
+      "cost": 10000,
+      "cpuCost": 5
+    },
+    {
+      "id": 93,
+      "name": "Cosmetic KITT",
+      "health": 150,
+      "mass": 30,
+      "premiumCost": 125,
+      "cpuCost": 7
+    },
+	{
+      "id": 104,
+      "name": "Small Spike Cosmetic",
+      "health": 50,
+      "mass": 10,
+      "cost": 2500,
+      "cpuCost": 1
+    },
+	{
+      "id": 105,
+      "name": "Large Spike Cosmetic",
+      "health": 75,
+      "mass": 15,
+      "cost": 5000,
+      "cpuCost": 2
+    },
+	{
+      "id": 106,
+      "name": "Small Tailspike Cosmetic",
+      "health": 50,
+      "mass": 10,
+      "cost": 2500,
+      "cpuCost": 1
+    },
+	{
+      "id": 107,
+      "name": "Large Tailspike Cosmetic",
+      "health": 75,
+      "mass": 15,
+      "cost": 5000,
+      "cpuCost": 1
+    },
+	  	{
+      "id": 137,
+      "name": "Small Nosecone Cosmetic",
+      "health": 50,
+      "mass": 5,
+      "cost": 2500,
+      "cpuCost": 1
+    },
+	{
+      "id": 138,
+      "name": "Large Nosecone Cosmetic",
+      "health": 75,
+      "mass": 10,
+      "cost": 5000,
+      "cpuCost": 1
+    },
+
+	{
+      "id": 133,
+      "name": "Cosmetic MechHead",
+      "health": 100,
+      "mass": 15,
+	  "cost": 7500,
+      "cpuCost": 2
+    },
+	{
+      "id": 134,
+      "name": "Cosmetic Screw Greeble",
+      "health": 1,
+      "mass": 1,
+	  "cost": 1000,
+      "cpuCost": 1
+    },
+	  
+	{
+      "id": 135,
+      "name": "Cosmetic Pan9k",
+      "health": 50,
+      "mass": 10,
+	  "cost": 15000,
+      "cpuCost": 2
+    },
+	{
+      "id": 136,
+      "name": "Cosmetic Pan9kA",
+      "health": 100,
+      "mass": 10,
+	  "cost": 15000,
+      "cpuCost": 2
+    },
+
+    {
+      "id": 162,
+      "name": "COSM_VENT_LONG",
+      "health": 110,
+      "mass": 25,
+      "cost": 3000,
+      "cpuCost": 2
+    },
+    {
+      "id": 163,
+      "name": "COSM_PH1",
+      "health": 100,
+      "mass": 25,
+      "cost": 3000,
+      "cpuCost": 2
+    },
+    {
+      "id": 164,
+      "name": "COSM_EXHAUST_LARGE",
+      "health": 100,
+      "mass": 25,
+      "cost": 3000,
+      "cpuCost": 2
+    },
+    {
+      "id": 165,
+      "name": "COSM_PH2",
+      "health": 100,
+      "mass": 25,
+      "cost": 3000,
+      "cpuCost": 2
+    },
+    {
+      "id": 166,
+      "name": "COSM_PH3",
+      "health": 100,
+      "mass": 25,
+      "cost": 3000,
+      "cpuCost": 2
+    },
+    {
+      "id": 167,
+      "name": "COSM_PH4",
+      "health": 100,
+      "mass": 25,
+      "cost": 3000,
+      "cpuCost": 2
+    },
+    {
+      "id": 168,
+      "name": "COSM_PH5",
+      "health": 100,
+      "mass": 25,
+      "cost": 3000,
+      "cpuCost": 2
+    },
+    {
+      "id": 169,
+      "name": "COSM_PH6",
+      "health": 100,
+      "mass": 25,
+      "cost": 3000,
+      "cpuCost": 2
+    },
+    {
+      "id": 170,
+      "name": "COSM_PH7",
+      "health": 100,
+      "mass": 25,
+      "cost": 3000,
+      "cpuCost": 2
+    },
+
+
+    {
       "id": 65,
       "name": "1x2 Osprey Sticker",
       "health": 1,
@@ -946,423 +1413,6 @@
       "cost": 2500,
       "cpuCost": 1
     },
-	{
-      "id": 66,
-      "name": "Diag Painted Normal Cube",
-      "health": 100,
-      "mass": 15,
-      "cost": 200,
-      "cpuCost": 1
-    },
-    {
-      "id": 67,
-      "name": "Half Painted Normal Cube",
-      "health": 100,
-      "mass": 15,
-      "cost": 200,
-      "cpuCost": 1
-    },
-	  {
-      "id": 71,
-      "name": "CosmeticSmallAntenna",
-      "health": 100,
-      "mass": 5,
-      "cost": 2000,
-      "cpuCost": 2
-    },
-	  	  {
-      "id": 130,
-      "name": "CosmeticSmallSideAntenna",
-      "health": 100,
-      "mass": 5,
-      "cost": 2000,
-      "cpuCost": 2
-    },
-	  	  {
-      "id": 131,
-      "name": "CosmeticAntennaPH",
-      "health": 100,
-      "mass": 5,
-      "cost": 2000,
-      "cpuCost": 2
-    },
-	  	  {
-      "id": 132,
-      "name": "SpinningSiren",
-      "health": 200,
-      "mass": 15,
-      "cost": 20000,
-      "cpuCost": 20
-    },
-	  {
-      "id": 72,
-      "name": "CosmeticLargeAntenna",
-      "health": 100,
-      "mass": 15,
-      "cost": 3000,
-      "cpuCost": 2
-    },
-	  {
-      "id": 73,
-      "name": "RepulsorPad",
-      "health":1000,
-      "mass": 35,
-      "cost": 2000,
-      "cpuCost": 15
-    },
-	  {
-      "id": 74,
-      "name": "TankLeft",
-      "health": 5400,
-      "mass": 2000,
-      "cost": 3500,
-      "cpuCost": 35
-    },
-	  {
-      "id": 75,
-      "name": "TankRight",
-      "health": 5400,
-      "mass": 2000,
-      "cost": 3500,
-      "cpuCost": 35
-    },
-	  {
-      "id": 76,
-      "name": "TankSymmetric",
-      "health": 6000,
-      "mass": 2000,
-      "cost": 3500,
-      "cpuCost": 35
-    },
-	  {
-      "id": 91,
-      "name": "Cosmetic Servo Arm",
-      "health": 100,
-      "mass": 10,
-      "cost": 10000,
-      "cpuCost": 2
-    },
-    {
-      "id": 92,
-      "name": "Cosmetic Exhaust",
-      "health": 80,
-      "mass": 10,
-      "cost": 10000,
-      "cpuCost": 5
-    },
-    {
-      "id": 93,
-      "name": "Cosmetic KITT",
-      "health": 150,
-      "mass": 30,
-      "premiumCost": 125,
-      "cpuCost": 7
-    },
-	{
-      "id": 104,
-      "name": "Small Spike Cosmetic",
-      "health": 50,
-      "mass": 10,
-      "cost": 2500,
-      "cpuCost": 1
-    },
-	{
-      "id": 105,
-      "name": "Large Spike Cosmetic",
-      "health": 75,
-      "mass": 15,
-      "cost": 5000,
-      "cpuCost": 2
-    },
-	{
-      "id": 106,
-      "name": "Small Tailspike Cosmetic",
-      "health": 50,
-      "mass": 10,
-      "cost": 2500,
-      "cpuCost": 1
-    },
-	{
-      "id": 107,
-      "name": "Large Tailspike Cosmetic",
-      "health": 75,
-      "mass": 15,
-      "cost": 5000,
-      "cpuCost": 1
-    },
-	  	{
-      "id": 137,
-      "name": "Small Nosecone Cosmetic",
-      "health": 50,
-      "mass": 5,
-      "cost": 2500,
-      "cpuCost": 1
-    },
-	{
-      "id": 138,
-      "name": "Large Nosecone Cosmetic",
-      "health": 75,
-      "mass": 10,
-      "cost": 5000,
-      "cpuCost": 1
-    },
-	{
-      "id": 128,
-      "name": "Craig Xmas",
-      "health": 100,
-      "mass": 1,
-      "cpuCost": 2
-    },
-	{
-      "id": 129,
-      "name": "Craig NYears",
-      "health": 100,
-      "mass": 1,
-      "cpuCost": 2
-    },
-	{
-      "id": 133,
-      "name": "Cosmetic MechHead",
-      "health": 100,
-      "mass": 15,
-	  "cost": 7500,
-      "cpuCost": 2
-    },
-	{
-      "id": 134,
-      "name": "Cosmetic Screw Greeble",
-      "health": 1,
-      "mass": 1,
-	  "cost": 1000,
-      "cpuCost": 1
-    },
-	  
-	{
-      "id": 135,
-      "name": "Cosmetic Pan9k",
-      "health": 50,
-      "mass": 10,
-	  "cost": 15000,
-      "cpuCost": 2
-    },
-	{
-      "id": 136,
-      "name": "Cosmetic Pan9kA",
-      "health": 100,
-      "mass": 10,
-	  "cost": 15000,
-      "cpuCost": 2
-    },
-
-    {
-      "id": 162,
-      "name": "COSM_VENT_LONG",
-      "health": 110,
-      "mass": 25,
-      "cost": 3000,
-      "cpuCost": 2
-    },
-    {
-      "id": 163,
-      "name": "COSM_PH1",
-      "health": 100,
-      "mass": 25,
-      "cost": 3000,
-      "cpuCost": 2
-    },
-    {
-      "id": 164,
-      "name": "COSM_EXHAUST_LARGE",
-      "health": 100,
-      "mass": 25,
-      "cost": 3000,
-      "cpuCost": 2
-    },
-    {
-      "id": 165,
-      "name": "COSM_PH2",
-      "health": 100,
-      "mass": 25,
-      "cost": 3000,
-      "cpuCost": 2
-    },
-    {
-      "id": 166,
-      "name": "COSM_PH3",
-      "health": 100,
-      "mass": 25,
-      "cost": 3000,
-      "cpuCost": 2
-    },
-    {
-      "id": 167,
-      "name": "COSM_PH4",
-      "health": 100,
-      "mass": 25,
-      "cost": 3000,
-      "cpuCost": 2
-    },
-    {
-      "id": 168,
-      "name": "COSM_PH5",
-      "health": 100,
-      "mass": 25,
-      "cost": 3000,
-      "cpuCost": 2
-    },
-    {
-      "id": 169,
-      "name": "COSM_PH6",
-      "health": 100,
-      "mass": 25,
-      "cost": 3000,
-      "cpuCost": 2
-    },
-    {
-      "id": 170,
-      "name": "COSM_PH7",
-      "health": 100,
-      "mass": 25,
-      "cost": 3000,
-      "cpuCost": 2
-    },
-    {
-      "id": 139,
-      "name": "DevHaxAntigrav",
-      "health": 100,
-      "mass": 1,
-      "premiumCost": 100000,
-      "cpuCost": 10000
-    },
-	{
-      "id": 140,
-      "name": "WING_FLAT",
-      "health": 1000,
-      "mass": 70,
-      "cost": 1500,
-      "cpuCost": 15
-    },
-	{
-      "id": 141,
-      "name": "WING_SWEPT",
-      "health": 1000,
-      "mass": 75,
-      "cost": 1500,
-      "cpuCost": 15
-    },
-	{
-      "id": 142,
-      "name": "WING_DELTA",
-      "health": 1000,
-      "mass": 100,
-      "cost": 1500,
-      "cpuCost": 15
-    },
-	  
-	{
-      "id": 143,
-      "name": "RUDDER_FLAT",
-      "health": 500,
-      "mass": 40,
-      "cost": 1000,
-      "cpuCost": 8
-    },
-	{
-      "id": 144,
-      "name": "RUDDER_SWEPT",
-      "health": 500,
-      "mass": 45,
-      "cost": 1000,
-      "cpuCost": 8
-    },
-	{
-      "id": 145,
-      "name": "RUDDER_DELTA",
-      "health": 500,
-      "mass": 50,
-      "cost": 1000,
-      "cpuCost": 10
-    },
-    {
-      "id": 152,
-      "name": "MOD_DISPLACER",
-      "health": 500,
-      "mass": 50,
-      "cost": 10000,
-      "cpuCost": 10
-    },
-    {
-      "id": 153,
-      "name": "MOD_FLARES",
-      "health": 500,
-      "mass": 50,
-      "cost": 10000,
-      "cpuCost": 10
-    },
-    {
-      "id": 154,
-      "name": "MODULE",
-      "health": 500,
-      "mass": 50,
-      "cost": 10000,
-      "cpuCost": 10
-    },
-    {
-      "id": 155,
-      "name": "MODULE",
-      "health": 500,
-      "mass": 50,
-      "cost": 10000,
-      "cpuCost": 10
-    },
-    {
-      "id": 156,
-      "name": "MODULE",
-      "health": 500,
-      "mass": 50,
-      "cost": 10000,
-      "cpuCost": 10
-    },
-    {
-      "id": 157,
-      "name": "MODULE",
-      "health": 500,
-      "mass": 50,
-      "cost": 10000,
-      "cpuCost": 10
-    },
-    {
-      "id": 158,
-      "name": "MODULE",
-      "health": 500,
-      "mass": 50,
-      "cost": 10000,
-      "cpuCost": 10
-    },
-    {
-      "id": 159,
-      "name": "MODULE",
-      "health": 500,
-      "mass": 50,
-      "cost": 10000,
-      "cpuCost": 10
-    },
-    {
-      "id": 160,
-      "name": "MODULE",
-      "health": 500,
-      "mass": 50,
-      "cost": 10000,
-      "cpuCost": 10
-    },
-    {
-      "id": 161,
-      "name": "MODULE",
-      "health": 500,
-      "mass": 50,
-      "cost": 10000,
-      "cpuCost": 10
-    }
   ],
   "attacks": [
     {
