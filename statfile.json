@@ -611,26 +611,26 @@
 	{
       "id": 140,
       "name": "BOT_MOV_WING_FLAT",
-      "health": 1000,
-      "mass": 70,
+      "health": 1200,
+      "mass": 50,
       "cost": 1500,
       "cpuCost": 15
     },
 	{
       "id": 141,
       "name": "BOT_MOV_WING_SWEPT",
-      "health": 1000,
+      "health": 2200,
       "mass": 75,
-      "cost": 1500,
-      "cpuCost": 15
+      "cost": 3000,
+      "cpuCost": 40
     },
 	{
       "id": 142,
       "name": "BOT_MOV_WING_DELTA",
-      "health": 1000,
-      "mass": 100,
-      "cost": 1500,
-      "cpuCost": 15
+      "health": 4000,
+      "mass": 125,
+      "cost": 6000,
+      "cpuCost": 100
     },
 	  
 	{
