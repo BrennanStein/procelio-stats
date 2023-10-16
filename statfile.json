@@ -840,59 +840,59 @@
 
     {
       "id": 152,
-      "name": "BOT_MOD_DISPLACER",
-      "health": 500,
-      "mass": 50,
+      "name": "BOT_MOD_DASH",
+      "health": 2000,
+      "mass": 150,
       "cost": 10000,
-      "cpuCost": 10
+      "cpuCost": 70
     },
     {
       "id": 153,
-      "name": "BOT_MOD_FLARES",
-      "health": 500,
+      "name": "BOT_MOD_FLARE",
+      "health": 1500,
       "mass": 50,
       "cost": 10000,
-      "cpuCost": 10
+      "cpuCost": 40
     },
     {
       "id": 154,
-      "name": "BOT_MOD_MODULE",
-      "health": 500,
-      "mass": 50,
+      "name": "BOT_MOD_FUEL",
+      "health": 1500,
+      "mass": 100,
       "cost": 10000,
-      "cpuCost": 10
+      "cpuCost": 50
     },
     {
       "id": 155,
-      "name": "BOT_MOD_MODULE",
-      "health": 500,
-      "mass": 50,
+      "name": "BOT_MOD_SHOCKWAVE",
+      "health": 2000,
+      "mass": 150,
       "cost": 10000,
-      "cpuCost": 10
+      "cpuCost": 80
     },
     {
       "id": 156,
-      "name": "BOT_MOD_MODULE",
-      "health": 500,
-      "mass": 50,
+      "name": "BOT_MOD_OVERSHIELD",
+      "health": 1500,
+      "mass": 100,
       "cost": 10000,
-      "cpuCost": 10
+      "cpuCost": 60
     },
     {
       "id": 157,
-      "name": "BOT_MOD_MODULE",
-      "health": 500,
+      "name": "BOT_MOD_SPOOFER",
+      "health": 1000,
       "mass": 50,
       "cost": 10000,
-      "cpuCost": 10
+      "cpuCost": 100
     },
     {
       "id": 158,
-      "name": "BOT_MOD_MODULE",
-      "health": 500,
-      "mass": 50,
+      "name": "BOT_MOD_FORGE",
+      "health": 2500,
+      "mass": 300,
       "cost": 10000,
-      "cpuCost": 10
+      "cpuCost": 100
     },
     {
       "id": 159,
