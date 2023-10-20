@@ -185,41 +185,41 @@
 	{
       "id": 94,
       "name": "CopperCube",
-      "health": 75,
-      "mass": 10,
-      "cost": 250,
+      "health": 100,
+      "mass": 20,
+      "cost": 100,
       "cpuCost": 1
     },
     {
       "id": 95,
       "name": "CopperInner",
-      "health": 70,
-      "mass": 9,
-      "cost": 250,
+      "health": 95,
+      "mass": 18,
+      "cost": 100,
       "cpuCost": 1
     },
     {
       "id": 96,
       "name": "CopperTetra",
-      "health": 60,
-      "mass": 7,
-      "cost": 250,
+      "health": 85,
+      "mass": 15,
+      "cost": 100,
       "cpuCost": 1
     },
     {
       "id": 97,
       "name": "CopperPrism",
-      "health": 65,
-      "mass": 8,
-      "cost": 250,
+      "health": 90,
+      "mass": 16,
+      "cost": 100,
       "cpuCost": 1
     },
 	{
       "id": 98,
       "name": "CopperPyramid",
-      "health": 60,
-      "mass": 6,
-      "cost": 250,
+      "health": 85,
+      "mass": 15,
+      "cost": 100,
       "cpuCost": 1
     },
 	{
