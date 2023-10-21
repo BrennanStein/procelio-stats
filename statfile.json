@@ -423,7 +423,7 @@
       "id": 14,
       "name": "BOT_MOV_WHEEL_MEDIUM",
       "health": 1000,
-      "mass": 1100,
+      "mass": 1500,
       "cost": 450,
       "cpuCost": 14
     },
@@ -431,7 +431,7 @@
       "id": 59,
       "name": "BOT_MOV_WHEEL_MEDIUM_NONSTEER",
       "health": 1100,
-      "mass": 1000,
+      "mass": 1400,
       "cost": 350,
       "cpuCost": 10
     },
@@ -464,7 +464,7 @@
       "id": 74,
       "name": "TankLeft",
       "health": 5400,
-      "mass": 4000,
+      "mass": 4500,
       "cost": 3500,
       "cpuCost": 35
     },
@@ -472,7 +472,7 @@
       "id": 75,
       "name": "TankRight",
       "health": 5400,
-      "mass": 4000,
+      "mass": 4500,
       "cost": 3500,
       "cpuCost": 35
     },
@@ -480,7 +480,7 @@
       "id": 76,
       "name": "TankSymmetric",
       "health": 6000,
-      "mass": 4000,
+      "mass": 4500,
       "cost": 3500,
       "cpuCost": 35
     },
