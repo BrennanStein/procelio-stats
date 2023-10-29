@@ -67,7 +67,7 @@
       "name": "NormalCube",
       "health": 100,
       "mass": 20,
-      "cost": 100,
+      "cost": 0,
       "cpuCost": 1
     },
     {
@@ -75,7 +75,7 @@
       "name": "NormalInner",
       "health": 95,
       "mass": 18,
-      "cost": 100,
+      "cost": 0,
       "cpuCost": 1
     },
     {
@@ -83,7 +83,7 @@
       "name": "NormalTetra",
       "health": 85,
       "mass": 15,
-      "cost": 100,
+      "cost": 0,
       "cpuCost": 1
     },
     {
@@ -91,7 +91,7 @@
       "name": "NormalPrism",
       "health": 90,
       "mass": 16,
-      "cost": 100,
+      "cost": 0,
       "cpuCost": 1
     },
 	{
@@ -99,7 +99,7 @@
       "name": "NormalPyramid",
       "health": 85,
       "mass": 15,
-      "cost": 100,
+      "cost": 0,
       "cpuCost": 1
     },
     {
@@ -513,7 +513,7 @@
     {
       "id": 16,
       "name": "BigThruster",
-      "health": 2500,
+      "health": 2000,
       "mass": 150,
       "cost": 800,
       "cpuCost": 28
@@ -522,7 +522,7 @@
 	{
       "id": 64,
       "name": "BOT_MOV_THRUST_Middle",
-      "health": 2000,
+      "health": 1600,
       "mass": 80,
       "cost": 600,
       "cpuCost": 18
