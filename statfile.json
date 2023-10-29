@@ -513,7 +513,7 @@
     {
       "id": 16,
       "name": "BigThruster",
-      "health": 2500,
+      "health": 2000,
       "mass": 150,
       "cost": 800,
       "cpuCost": 28
@@ -522,7 +522,7 @@
 	{
       "id": 64,
       "name": "BOT_MOV_THRUST_Middle",
-      "health": 2000,
+      "health": 1600,
       "mass": 80,
       "cost": 600,
       "cpuCost": 18
