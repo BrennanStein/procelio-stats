@@ -1425,8 +1425,8 @@
     },
     {
       "id": 2,
-      "name": "alphaPlasmaProjectile",
-      "damage": 1600
+      "name": "NOVA PROJECTILE",
+      "damage": 1000
     },
     {
       "id": 3,
@@ -1436,12 +1436,12 @@
     {
       "id": 4,
       "name": "nanoWeapon",
-      "damage": 300
+      "damage": 200
     },
 	{
       "id": 11,
       "name": "nanoHeal",
-      "damage": 550
+      "damage": 450
     },
     {
       "id": 5,
@@ -1456,7 +1456,7 @@
     {
       "id": 7,
       "name": "melee tesla",
-      "damage": 8500
+      "damage": 8000
     },
     {
       "id": 8,
