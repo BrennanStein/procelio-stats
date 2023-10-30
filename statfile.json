@@ -513,8 +513,8 @@
     {
       "id": 16,
       "name": "BigThruster",
-      "health": 2000,
-      "mass": 150,
+      "health": 1200,
+      "mass": 200,
       "cost": 800,
       "cpuCost": 28
 	  "thrust": 52500
@@ -522,8 +522,8 @@
 	{
       "id": 64,
       "name": "BOT_MOV_THRUST_Middle",
-      "health": 1600,
-      "mass": 80,
+      "health": 800,
+      "mass": 100,
       "cost": 600,
       "cpuCost": 18
 	  "thrust": 27000
@@ -531,8 +531,8 @@
     {
       "id": 17,
       "name": "BOT_MOV_THRUST_Small",
-      "health": 800,
-      "mass": 20,
+      "health": 400,
+      "mass": 30,
       "cost": 620,
       "cpuCost": 8
 	  "thrust": 10000
@@ -540,8 +540,8 @@
 	{
       "id": 27,
       "name": "BOT_MOV_THRUST_TopSmall",
-      "health": 800,
-      "mass": 25,
+      "health": 400,
+      "mass": 35,
       "cost": 800,
       "cpuCost": 8,
       "thrust": 11000
@@ -893,7 +893,7 @@
       "id": 158,
       "name": "BOT_MOD_FORGE",
       "health": 2500,
-      "mass": 300,
+      "mass": 400,
       "cost": 10000,
       "cpuCost": 100
     },
