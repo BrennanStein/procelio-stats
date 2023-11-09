@@ -1,6 +1,6 @@
 {
   "blocks": [
-  
+
     {
       "id": 81,
       "name": "Brenn",
@@ -50,15 +50,15 @@
     },
 
 
-	
+
 	{
       "id": 1,
       "name": "Core1",
-      "health": 500,
+      "health": 1000,
       "mass": 35,
       "shield": 2000,
       "shieldCharge": 2000,
-      "shieldChargeDelay": 5000,
+      "shieldChargeDelay": 4000,
       "cost": 0,
       "cpuCost": 0
     },
@@ -339,55 +339,55 @@
     {
       "id": 39,
       "name": "ElectroplateA_L",
-      "health": 200,
-      "mass": 200,
+      "health": 1000,
+      "mass": 120,
       "shield": 2000,
-      "shieldCharge": 250,
-      "shieldChargeDelay": 10000,
+      "shieldCharge": 2000,
+      "shieldChargeDelay": 5000,
       "cost": 950,
       "cpuCost": 36
     },
     {
       "id": 40,
       "name": "ElectroplateA_R",
-      "health": 200,
-      "mass": 200,
+      "health": 1000,
+      "mass": 120,
       "shield": 2000,
-      "shieldCharge": 250,
-      "shieldChargeDelay": 10000,
+      "shieldCharge": 2000,
+      "shieldChargeDelay": 5000,
       "cost": 950,
       "cpuCost": 36
     },
     {
       "id": 41,
       "name": "ElectroplateB_L",
-      "health": 200,
-      "mass": 180,
+      "health": 750,
+      "mass": 100,
       "shield": 1800,
-      "shieldCharge": 250,
-      "shieldChargeDelay": 10000,
+      "shieldCharge": 1800,
+      "shieldChargeDelay": 5000,
       "cost": 825,
       "cpuCost": 30
     },
     {
       "id": 42,
       "name": "ElectroplateB_R",
-      "health": 200,
-      "mass": 180,
+      "health": 750,
+      "mass": 100,
       "shield": 1800,
-      "shieldCharge": 250,
-      "shieldChargeDelay": 10000,
+      "shieldCharge": 1800,
+      "shieldChargeDelay": 5000,
       "cost": 825,
       "cpuCost": 30
     },
     {
       "id": 43,
       "name": "ElectroplateC",
-      "health": 200,
-      "mass": 135,
+      "health": 500,
+      "mass": 80,
       "shield": 1500,
-      "shieldCharge": 250,
-      "shieldChargeDelay": 10000,
+      "shieldCharge": 1500,
+      "shieldChargeDelay": 4000,
       "cost": 700,
       "cpuCost": 28
     },
@@ -423,7 +423,7 @@
       "id": 14,
       "name": "BOT_MOV_WHEEL_MEDIUM",
       "health": 1000,
-      "mass": 1050,
+      "mass": 1000,
       "cost": 450,
       "cpuCost": 14
     },
@@ -466,7 +466,7 @@
       "health": 5400,
       "mass": 5000,
       "cost": 3500,
-      "cpuCost": 35
+      "cpuCost": 40
     },
 	{
       "id": 75,
@@ -474,7 +474,7 @@
       "health": 5400,
       "mass": 5000,
       "cost": 3500,
-      "cpuCost": 35
+      "cpuCost": 40
     },
 	{
       "id": 76,
@@ -516,7 +516,7 @@
       "health": 1200,
       "mass": 200,
       "cost": 800,
-      "cpuCost": 28
+      "cpuCost": 28,
 	  "thrust": 60000
     },
 	{
@@ -525,7 +525,7 @@
       "health": 800,
       "mass": 100,
       "cost": 600,
-      "cpuCost": 18
+      "cpuCost": 18,
 	  "thrust": 32000
     },
     {
@@ -534,7 +534,7 @@
       "health": 400,
       "mass": 30,
       "cost": 620,
-      "cpuCost": 8
+      "cpuCost": 8,
 	  "thrust": 17000
     },
 	{
@@ -546,7 +546,7 @@
       "cpuCost": 8,
       "thrust": 17000
     },
-	
+
 	{
       "id": 44,
       "name": "BOT_MOV_LTA_112",
@@ -555,7 +555,7 @@
       "cost": 400,
       "cpuCost": 8,
       "lift": 400,
-      "spec1_minlift": 50,
+      "spec1_minlift": 40,
       "spec2_ctrlspeed": 200
     },
     {
@@ -566,7 +566,7 @@
       "cost": 500,
       "cpuCost": 10,
       "lift": 550,
-      "spec1_minlift": 100,
+      "spec1_minlift": 55,
       "spec2_ctrlspeed": 200
     },
     {
@@ -577,7 +577,7 @@
       "cost": 600,
       "cpuCost": 12,
       "lift": 1200,
-      "spec1_minlift": 200,
+      "spec1_minlift": 120,
       "spec2_ctrlspeed": 180
     },
     {
@@ -588,7 +588,7 @@
       "cost": 700,
       "cpuCost": 20,
       "lift": 2000,
-      "spec1_minlift": 500,
+      "spec1_minlift": 200,
       "spec2_ctrlspeed": 140
     },
     {
@@ -599,7 +599,7 @@
       "cost": 800,
       "cpuCost": 28,
       "lift": 4200,
-      "spec1_minlift": 1050,
+      "spec1_minlift": 420,
       "spec2_ctrlspeed": 140
     },
     {
@@ -617,12 +617,12 @@
       "health": 1200,
       "mass": 100,
       "cost": 1500,
-      "cpuCost": 25
+      "cpuCost": 20
     },
 	{
       "id": 141,
       "name": "BOT_MOV_WING_SWEPT",
-      "health": 2200,
+      "health": 2500,
       "mass": 120,
       "cost": 2000,
       "cpuCost": 35
@@ -633,9 +633,9 @@
       "health": 4000,
       "mass": 200,
       "cost": 4000,
-      "cpuCost": 50
+      "cpuCost": 60
     },
-	  
+
 	{
       "id": 143,
       "name": "BOT_MOV_RUDDER_FLAT",
@@ -647,7 +647,7 @@
 	{
       "id": 144,
       "name": "BOT_MOV_RUDDER_SWEPT",
-      "health": 500,
+      "health": 750,
       "mass": 40,
       "cost": 1000,
       "cpuCost": 10
@@ -655,7 +655,7 @@
 	{
       "id": 145,
       "name": "BOT_MOV_RUDDER_DELTA",
-      "health": 500,
+      "health": 750,
       "mass": 40,
       "cost": 1000,
       "cpuCost": 10
@@ -788,7 +788,7 @@
       "id": 57,
       "name": "BOT_WEP_SEC_AUTOCANNON",
       "health": 1300,
-      "mass": 80,
+      "mass": 75,
       "cost": 2000,
       "cpuCost": 70,
       "rotationSpeed": 1080,
@@ -800,9 +800,9 @@
       "id": 34,
       "name": "BOT_WEP_SEC_MINELAYER",
       "health": 1500,
-      "mass": 50,
+      "mass": 30,
       "cost": 1500,
-      "cpuCost": 50,
+      "cpuCost": 35,
       "functionHealth": 700
     },
 	  {
@@ -817,16 +817,16 @@
       "id": 36,
       "name": "BOT_WEP_SEC_MISSILEPOD",
       "health": 1400,
-      "mass": 50,
+      "mass": 30,
       "cost": 1500,
-      "cpuCost": 55,
+      "cpuCost": 50,
       "rotationSpeed": 300,
       "functionHealth": 600
     },
 	  {
       "id": 37,
       "name": "BOT_WEP_SEC_SMOKE",
-      "health": 5,
+      "health": 500,
       "mass": 25,
       "cost": 5,
       "cpuCost": 5
@@ -835,7 +835,7 @@
       "id": 38,
       "name": "BOT_WEP_SEC_CASCUTTER",
       "health": 1500,
-      "mass": 1000,
+      "mass": 45,
       "cost": 1500,
       "cpuCost": 45,
       "functionHealth": 350
@@ -847,7 +847,7 @@
       "health": 2000,
       "mass": 150,
       "cost": 10000,
-      "cpuCost": 70
+      "cpuCost": 100
     },
     {
       "id": 153,
@@ -879,7 +879,7 @@
       "health": 1500,
       "mass": 100,
       "cost": 10000,
-      "cpuCost": 60
+      "cpuCost": 75
     },
     {
       "id": 157,
@@ -887,12 +887,12 @@
       "health": 1000,
       "mass": 50,
       "cost": 10000,
-      "cpuCost": 100
+      "cpuCost": 50
     },
     {
       "id": 158,
       "name": "BOT_MOD_FORGE",
-      "health": 2500,
+      "health": 3500,
       "mass": 400,
       "cost": 10000,
       "cpuCost": 100
@@ -1148,7 +1148,7 @@
 	  "cost": 1000,
       "cpuCost": 1
     },
-	  
+
 	{
       "id": 135,
       "name": "Cosmetic Pan9k",
@@ -1499,8 +1499,8 @@
       "cosmeticPremiumCost": 0,
       "config": []
     },
-	
-	
+
+
     {
       "id": 1,
       "name": "EP Red",
@@ -1550,9 +1550,9 @@
       "cosmeticPremiumCost": 0,
       "config": []
     },
-	
-	
-	
+
+
+
   	{
       "id": 6,
       "name": "EP Bee",
@@ -1617,11 +1617,11 @@
       "config": []
     },
 
-	
-	
-	
-	
-	
+
+
+
+
+
     {
       "id": 1000,
       "name": "Thruster Cryo",
@@ -1734,8 +1734,8 @@
       "cosmeticPremiumCost": 5,
       "config": []
     },
-	
-	
+
+
 	{
       "id": 2000,
       "name": "EP Pattern 1 Cube",
@@ -1799,8 +1799,8 @@
       "cosmeticPremiumCost": 10,
       "config": []
     },
-	
-	
+
+
 	{
       "id": 2006,
       "name": "EP Pattern Halloween 1 2022",
@@ -1829,7 +1829,7 @@
       "cosmeticPremiumCost": 0,
       "config": []
     },
-	
+
 	{
       "id": 3000,
       "name": "Rivet Rifle Camo Skin",
@@ -1850,35 +1850,35 @@
       "cosmeticCost": 1000,
       "cosmeticPremiumCost": 0,
       "config": []
-    },	
+    },
 	{
       "id": 3003,
       "name": "Gauss Camo Skin",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 10,
       "config": []
-    },	
+    },
 	{
       "id": 3004,
       "name": "Nano Skin",
       "cosmeticCost": 5000,
       "cosmeticPremiumCost": 0,
       "config": []
-    },	
+    },
 	{
       "id": 3005,
       "name": "Weapon Skin Gold Gauss",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 100,
       "config": []
-    },	
+    },
 	{
       "id": 3006,
       "name": "Weapon Skin Carbon Gauss",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 25,
       "config": []
-    },	
+    },
 	{
       "id": 3007,
       "name": "Weapon Skin Placeholder",
@@ -1892,7 +1892,7 @@
       "cosmeticCost": 10000,
       "cosmeticPremiumCost": 0,
       "config": []
-    },	
+    },
 	  	{
       "id": 4001,
       "name": "Fed Wing",
