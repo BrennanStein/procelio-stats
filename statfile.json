@@ -517,7 +517,7 @@
       "mass": 200,
       "cost": 800,
       "cpuCost": 28
-	  "thrust": 52500
+	  "thrust": 60000
     },
 	{
       "id": 64,
@@ -526,7 +526,7 @@
       "mass": 100,
       "cost": 600,
       "cpuCost": 18
-	  "thrust": 27000
+	  "thrust": 32000
     },
     {
       "id": 17,
@@ -535,7 +535,7 @@
       "mass": 30,
       "cost": 620,
       "cpuCost": 8
-	  "thrust": 10000
+	  "thrust": 17000
     },
 	{
       "id": 27,
@@ -544,7 +544,7 @@
       "mass": 35,
       "cost": 800,
       "cpuCost": 8,
-      "thrust": 11000
+      "thrust": 17000
     },
 	
 	{
