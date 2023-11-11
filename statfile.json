@@ -871,9 +871,9 @@
       "health": 2000,
       "mass": 150,
       "cost": 10000,
-      "cpuCost": 200,
-	  "spec1_PushForce": 120000,
-	  "spec3_Radius": 75
+      "cpuCost": 100,
+	  "spec1_PushForce": 90000,
+	  "spec3_Radius": 100
     },
     {
       "id": 156,
