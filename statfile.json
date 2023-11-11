@@ -872,7 +872,7 @@
       "mass": 150,
       "cost": 10000,
       "cpuCost": 200,
-	  "spec1_PushForce": 45000,
+	  "spec1_PushForce": 4500,
 	  "spec3_Radius": 75
     },
     {
