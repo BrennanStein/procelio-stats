@@ -555,8 +555,8 @@
       "cost": 400,
       "cpuCost": 8,
       "lift": 400,
-      "spec1_minlift": 40,
-      "spec2_ctrlspeed": 200
+      "spec0_minlift": 40,
+      "spec1_ctrlspeed": 200
     },
     {
       "id": 45,
@@ -566,8 +566,8 @@
       "cost": 500,
       "cpuCost": 10,
       "lift": 550,
-      "spec1_minlift": 55,
-      "spec2_ctrlspeed": 200
+      "spec0_minlift": 55,
+      "spec1_ctrlspeed": 200
     },
     {
       "id": 46,
@@ -577,8 +577,8 @@
       "cost": 600,
       "cpuCost": 12,
       "lift": 1200,
-      "spec1_minlift": 120,
-      "spec2_ctrlspeed": 180
+      "spec0_minlift": 120,
+      "spec1_ctrlspeed": 180
     },
     {
       "id": 47,
@@ -588,8 +588,8 @@
       "cost": 700,
       "cpuCost": 20,
       "lift": 2000,
-      "spec1_minlift": 200,
-      "spec2_ctrlspeed": 140
+      "spec0_minlift": 200,
+      "spec1_ctrlspeed": 140
     },
     {
       "id": 48,
@@ -599,8 +599,8 @@
       "cost": 800,
       "cpuCost": 28,
       "lift": 4200,
-      "spec1_minlift": 420,
-      "spec2_ctrlspeed": 140
+      "spec0_minlift": 420,
+      "spec1_ctrlspeed": 140
     },
     {
       "id": 49,
@@ -793,8 +793,8 @@
       "cpuCost": 70,
       "rotationSpeed": 1080,
       "functionHealth": 750,
-      "spec1_distance": 200000,
-      "spec2_lockon": 1
+      "spec0_distance": 200000,
+      "spec1_lockon": 1
     },
 	  {
       "id": 34,
@@ -872,8 +872,8 @@
       "mass": 150,
       "cost": 10000,
       "cpuCost": 100,
-	  "spec1_PushForce": 90000,
-	  "spec3_Radius": 120
+	  "spec0_PushForce": 90000,
+	  "spec2_Radius": 120
     },
     {
       "id": 156,
