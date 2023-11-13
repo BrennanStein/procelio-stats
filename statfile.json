@@ -873,7 +873,7 @@
       "cost": 10000,
       "cpuCost": 100,
 	  "spec1_PushForce": 90000,
-	  "spec3_Radius": 100
+	  "spec3_Radius": 120
     },
     {
       "id": 156,
