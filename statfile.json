@@ -555,8 +555,8 @@
       "cost": 400,
       "cpuCost": 8,
       "lift": 400,
-      "spec1_minlift": 40,
-      "spec2_ctrlspeed": 200
+      "spec0_minlift": 40,
+      "spec1_ctrlspeed": 200
     },
     {
       "id": 45,
@@ -566,8 +566,8 @@
       "cost": 500,
       "cpuCost": 10,
       "lift": 550,
-      "spec1_minlift": 55,
-      "spec2_ctrlspeed": 200
+      "spec0_minlift": 55,
+      "spec1_ctrlspeed": 200
     },
     {
       "id": 46,
@@ -577,8 +577,8 @@
       "cost": 600,
       "cpuCost": 12,
       "lift": 1200,
-      "spec1_minlift": 120,
-      "spec2_ctrlspeed": 180
+      "spec0_minlift": 120,
+      "spec1_ctrlspeed": 180
     },
     {
       "id": 47,
@@ -588,8 +588,8 @@
       "cost": 700,
       "cpuCost": 20,
       "lift": 2000,
-      "spec1_minlift": 200,
-      "spec2_ctrlspeed": 140
+      "spec0_minlift": 200,
+      "spec1_ctrlspeed": 140
     },
     {
       "id": 48,
@@ -599,8 +599,8 @@
       "cost": 800,
       "cpuCost": 28,
       "lift": 4200,
-      "spec1_minlift": 420,
-      "spec2_ctrlspeed": 140
+      "spec0_minlift": 420,
+      "spec1_ctrlspeed": 140
     },
     {
       "id": 49,
@@ -793,8 +793,8 @@
       "cpuCost": 70,
       "rotationSpeed": 1080,
       "functionHealth": 750,
-      "spec1_distance": 200000,
-      "spec2_lockon": 1
+      "spec0_distance": 200000,
+      "spec1_lockon": 1
     },
 	  {
       "id": 34,
@@ -847,7 +847,11 @@
       "health": 2000,
       "mass": 150,
       "cost": 10000,
-      "cpuCost": 150
+      "cpuCost": 150,
+      "spec0_cooldown": 20,
+      "spec1_refire": 20,
+      "spec2_dashtime": 45,
+      "spec3_dashspeed": 250
     },
     {
       "id": 153,
@@ -855,7 +859,11 @@
       "health": 1500,
       "mass": 50,
       "cost": 10000,
-      "cpuCost": 40
+      "cpuCost": 40,
+      "spec0_cooldown": 15,
+      "spec1_refire": 3,
+      "spec2_buffduration": 4,
+      "spec3_cloudduration": 10
     },
     {
       "id": 154,
@@ -863,7 +871,15 @@
       "health": 1500,
       "mass": 100,
       "cost": 10000,
-      "cpuCost": 50
+      "cpuCost": 50,
+      "spec0_capacity": 100,
+      "spec1_rechargerate": 10,
+      "spec2_refire": 30,
+      "spec3_passivedrain": 5,
+      "spec4_activedrain": 20,
+      "spec5_activationcost": 10,
+      "spec6_thrustmultiplier": 3
+
     },
     {
       "id": 155,
@@ -872,8 +888,10 @@
       "mass": 150,
       "cost": 10000,
       "cpuCost": 100,
-	  "spec1_PushForce": 90000,
-	  "spec3_Radius": 120
+      "spec0_knockback": 90000,
+      "spec1_cooldown": 20,
+      "spec2_Radius": 120,
+      "spec3_refire": 30
     },
     {
       "id": 156,
@@ -881,7 +899,10 @@
       "health": 1500,
       "mass": 100,
       "cost": 10000,
-      "cpuCost": 75
+      "cpuCost": 75,
+      "spec0_shieldcapacity": 10000,
+      "spec1_rechargerate": 1000,
+      "spec2_rechargedelay": 10
     },
     {
       "id": 157,
@@ -889,7 +910,14 @@
       "health": 1000,
       "mass": 50,
       "cost": 10000,
-      "cpuCost": 50
+      "cpuCost": 50,
+      "spec0_capacity": 100,
+      "spec1_rechargerate": 2,
+      "spec2_cooldown": 3,
+      "spec3_activedrain": 4,
+      "spec4_activationcost": 2,
+      "spec5_refire": 30
+
     },
     {
       "id": 158,
@@ -897,7 +925,9 @@
       "health": 3500,
       "mass": 400,
       "cost": 10000,
-      "cpuCost": 100
+      "cpuCost": 100,
+      "spec0_restockpersecond": 100
+
     },
     {
       "id": 159,
