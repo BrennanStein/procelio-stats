@@ -850,7 +850,7 @@
       "cpuCost": 150,
       "spec0_cooldown": 20,
       "spec1_refire": 2,
-      "spec2_dashtime": 0.45,
+      "spec2_dashtimeINms": 450,
       "spec3_dashspeed": 250
     },
     {
@@ -861,7 +861,7 @@
       "cost": 10000,
       "cpuCost": 40,
       "spec0_cooldown": 15,
-      "spec1_refire": 0.35,
+      "spec1_refireINms": 300,
       "spec2_buffduration": 4,
       "spec3_cloudduration": 10
     },
@@ -872,12 +872,12 @@
       "mass": 100,
       "cost": 10000,
       "cpuCost": 50,
-      "spec0_capacity": 10,
-      "spec1_rechargerate": 1,
+      "spec0_capacity": 100,
+      "spec1_rechargerate": 10,
       "spec2_cooldown": 3,
-      "spec3_passivedrain": 0.5,
-      "spec4_activedrain": 2,
-      "spec5_activationcost": 1,
+      "spec3_passivedrain": 5,
+      "spec4_activedrain": 20,
+      "spec5_activationcost": 10,
       "spec6_thrustmultiplier": 3
 
     },
