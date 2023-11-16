@@ -267,73 +267,73 @@
       "id": 77,
       "name": "1x3Airframe",
       "health": 200,
-      "mass": 30,
+      "mass": 10,
       "cost": 300,
-      "cpuCost": 3
+      "cpuCost": 2
     },
 	{
       "id": 79,
       "name": "1x3Airframe Flat",
       "health": 150,
-      "mass": 25,
+      "mass": 8,
       "cost": 300,
-      "cpuCost": 3
+      "cpuCost": 2
     },
     {
       "id": 21,
       "name": "1x4Airframe",
       "health": 300,
-      "mass": 40,
+      "mass": 12,
       "cost": 300,
-      "cpuCost": 4
+      "cpuCost": 3
     },
 	{
       "id": 78,
       "name": "1x5Airframe",
       "health": 400,
-      "mass": 50,
+      "mass": 14,
       "cost": 300,
-      "cpuCost": 5
+      "cpuCost": 3
     },
 	{
       "id": 80,
       "name": "1x5Airframe Flat",
       "health": 275,
-      "mass": 50,
+      "mass": 12,
       "cost": 300,
-      "cpuCost": 5
+      "cpuCost": 3
     },
 	  {
       "id": 22,
       "name": "1x6Airframe",
       "health": 500,
-      "mass": 60,
+      "mass": 16,
       "cost": 500,
-      "cpuCost": 6
+      "cpuCost": 4
     },
 	  {
       "id": 23,
       "name": "3CurveAirframe",
       "health": 200,
-      "mass": 30,
+      "mass": 10,
       "cost": 350,
-      "cpuCost": 4
+      "cpuCost": 3
     },
 	{
       "id": 24,
       "name": "5CurveAirframe",
       "health": 300,
-      "mass": 50,
+      "mass": 14,
       "cost": 650,
-      "cpuCost": 6
+      "cpuCost": 3
     },
     {
       "id": 25,
       "name": "3TAirframe",
       "health": 350,
-      "mass": 35,
+      "mass": 20,
       "cost": 725,
-      "cpuCost": 8
+      "cpuCost": 5
     },
 
     {
