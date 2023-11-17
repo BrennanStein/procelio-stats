@@ -512,27 +512,27 @@
 
     {
       "id": 16,
-      "name": "BigThruster",
-      "health": 1200,
-      "mass": 200,
+      "name": "BOT_MOV_THRUST_LARGE",
+      "health": 2000,
+      "mass": 100,
       "cost": 800,
       "cpuCost": 28,
-	  "thrust": 60000
+	  "thrust": 80000
     },
 	{
       "id": 64,
       "name": "BOT_MOV_THRUST_Middle",
-      "health": 800,
-      "mass": 100,
+      "health": 900,
+      "mass": 50,
       "cost": 600,
       "cpuCost": 18,
-	  "thrust": 32000
+	  "thrust": 40000
     },
     {
       "id": 17,
       "name": "BOT_MOV_THRUST_Small",
-      "health": 400,
-      "mass": 30,
+      "health": 300,
+      "mass": 25,
       "cost": 620,
       "cpuCost": 8,
 	  "thrust": 17000
@@ -540,9 +540,9 @@
 	{
       "id": 27,
       "name": "BOT_MOV_THRUST_TopSmall",
-      "health": 400,
-      "mass": 35,
-      "cost": 800,
+      "health": 300,
+      "mass": 25,
+      "cost": 620,
       "cpuCost": 8,
       "thrust": 17000
     },
