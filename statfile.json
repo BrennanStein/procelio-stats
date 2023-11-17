@@ -341,55 +341,55 @@
       "name": "ElectroplateA_L",
       "health": 1000,
       "mass": 120,
-      "shield": 2000,
-      "shieldCharge": 2000,
-      "shieldChargeDelay": 5000,
+      "shield": 2050,
+      "shieldCharge": 500,
+      "shieldChargeDelay": 100,
       "cost": 950,
-      "cpuCost": 36
+      "cpuCost": 32
     },
     {
       "id": 40,
       "name": "ElectroplateA_R",
       "health": 1000,
       "mass": 120,
-      "shield": 2000,
-      "shieldCharge": 2000,
-      "shieldChargeDelay": 5000,
+      "shield": 2050,
+      "shieldCharge": 500,
+      "shieldChargeDelay": 100,
       "cost": 950,
-      "cpuCost": 36
+      "cpuCost": 32
     },
     {
       "id": 41,
       "name": "ElectroplateB_L",
       "health": 750,
       "mass": 100,
-      "shield": 1800,
-      "shieldCharge": 1800,
-      "shieldChargeDelay": 5000,
+      "shield": 1850,
+      "shieldCharge": 500,
+      "shieldChargeDelay": 100,
       "cost": 825,
-      "cpuCost": 30
+      "cpuCost": 28
     },
     {
       "id": 42,
       "name": "ElectroplateB_R",
       "health": 750,
       "mass": 100,
-      "shield": 1800,
-      "shieldCharge": 1800,
-      "shieldChargeDelay": 5000,
+      "shield": 1850,
+      "shieldCharge": 500,
+      "shieldChargeDelay": 100,
       "cost": 825,
-      "cpuCost": 30
+      "cpuCost": 28
     },
     {
       "id": 43,
       "name": "ElectroplateC",
       "health": 500,
       "mass": 80,
-      "shield": 1500,
-      "shieldCharge": 1500,
-      "shieldChargeDelay": 4000,
+      "shield": 1550,
+      "shieldCharge": 500,
+      "shieldChargeDelay": 100,
       "cost": 700,
-      "cpuCost": 28
+      "cpuCost": 22
     },
 
 
