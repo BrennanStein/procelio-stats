@@ -621,7 +621,11 @@
       "health": 1200,
       "mass": 100,
       "cost": 1500,
-      "cpuCost": 20
+      "cpuCost": 20,
+      "spec0_control": 20000,
+      "spec1_lift": 4000,
+      "spec2_stability": 30000,
+      "spec3_drag": 1000
     },
 	{
       "id": 141,
@@ -629,7 +633,11 @@
       "health": 2500,
       "mass": 120,
       "cost": 2000,
-      "cpuCost": 35
+      "cpuCost": 35,
+      "spec0_control": 50000,
+      "spec1_lift": 60000,
+      "spec2_stability": 5,
+      "spec3_drag": 3000
     },
 	{
       "id": 142,
@@ -637,7 +645,11 @@
       "health": 4000,
       "mass": 200,
       "cost": 4000,
-      "cpuCost": 60
+      "cpuCost": 60,
+      "spec0_control": 150000,
+      "spec1_lift": 1000,
+      "spec2_stability": 50000,
+      "spec3_drag": 5000
     },
 
 	{
@@ -646,7 +658,11 @@
       "health": 500,
       "mass": 40,
       "cost": 1000,
-      "cpuCost": 10
+      "cpuCost": 10,
+      "spec0_control": 25000,
+      "spec1_lift": 500,
+      "spec2_stability": 40000,
+      "spec3_drag": 1000
     },
 	{
       "id": 144,
@@ -654,7 +670,11 @@
       "health": 750,
       "mass": 40,
       "cost": 1000,
-      "cpuCost": 10
+      "cpuCost": 10,
+      "spec0_control": 25000,
+      "spec1_lift": 500,
+      "spec2_stability": 40000,
+      "spec3_drag": 1000
     },
 	{
       "id": 145,
@@ -662,7 +682,11 @@
       "health": 750,
       "mass": 40,
       "cost": 1000,
-      "cpuCost": 10
+      "cpuCost": 10,
+      "spec0_control": 25000,
+      "spec1_lift": 500,
+      "spec2_stability": 40000,
+      "spec3_drag": 1000
     },
     {
       "id": 28,
