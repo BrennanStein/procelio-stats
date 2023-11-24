@@ -635,7 +635,7 @@
       "cost": 2000,
       "cpuCost": 35,
       "spec0_control": 50000,
-      "spec1_lift": 60000,
+      "spec1_lift": 16000,
       "spec2_stability": 5,
       "spec3_drag": 3000
     },
@@ -647,7 +647,7 @@
       "cost": 4000,
       "cpuCost": 60,
       "spec0_control": 150000,
-      "spec1_lift": 1000,
+      "spec1_lift": 10000,
       "spec2_stability": 50000,
       "spec3_drag": 5000
     },
