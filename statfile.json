@@ -622,9 +622,9 @@
       "mass": 100,
       "cost": 1500,
       "cpuCost": 20,
-      "spec0_control": 10000,
-      "spec1_lift": 2000,
-      "spec2_stability": 8000,
+      "spec0_control": 20000,
+      "spec1_lift": 4000,
+      "spec2_stability": 10000,
       "spec3_drag": 1000
     },
 	{
@@ -634,9 +634,9 @@
       "mass": 120,
       "cost": 2000,
       "cpuCost": 35,
-      "spec0_control": 25000,
-      "spec1_lift": 8000,
-      "spec2_stability": 30000,
+      "spec0_control": 50000,
+      "spec1_lift": 16000,
+      "spec2_stability": 40000,
       "spec3_drag": 3000
     },
 	{
@@ -646,9 +646,9 @@
       "mass": 200,
       "cost": 4000,
       "cpuCost": 60,
-      "spec0_control": 60000,
-      "spec1_lift": 5000,
-      "spec2_stability": 1200,
+      "spec0_control": 150000,
+      "spec1_lift": 10000,
+      "spec2_stability": 20000,
       "spec3_drag": 5000
     },
 
@@ -661,8 +661,8 @@
       "cpuCost": 10,
       "spec0_control": 20000,
       "spec1_lift": 400,
-      "spec2_stability": 15000,
-      "spec3_drag": 1000
+      "spec2_stability": 40000,
+      "spec3_drag": 800
     },
 	{
       "id": 144,
@@ -672,8 +672,8 @@
       "cost": 1000,
       "cpuCost": 10,
       "spec0_control": 20000,
-      "spec1_lift": 500,
-      "spec2_stability": 15000,
+      "spec1_lift": 400,
+      "spec2_stability": 20000,
       "spec3_drag": 800
     },
 	{
@@ -684,8 +684,8 @@
       "cost": 1000,
       "cpuCost": 10,
       "spec0_control": 20000,
-      "spec1_lift": 500,
-      "spec2_stability": 15000,
+      "spec1_lift": 400,
+      "spec2_stability": 20000,
       "spec3_drag": 800
     },
     {
@@ -954,7 +954,7 @@
       "mass": 400,
       "cost": 10000,
       "cpuCost": 100,
-      "spec0_restockpersecond": 150
+      "spec0_restockpersecond": 200
 
     },
     {
