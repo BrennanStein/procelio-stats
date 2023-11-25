@@ -610,8 +610,8 @@
       "cost": 1500,
       "cpuCost": 35,
       "spec0_cooldown": 20,
-      "spec1_refire": 1,
-      "spec2_buffduration": 5,
+      "spec1_refire": 20,
+      "spec2_buffduration": 1,
       "spec3_dampen": 85
     },
 
@@ -622,9 +622,9 @@
       "mass": 100,
       "cost": 1500,
       "cpuCost": 20,
-      "spec0_control": 5000,
-      "spec1_lift": 1500,
-      "spec2_stability": 30000,
+      "spec0_control": 20000,
+      "spec1_lift": 4000,
+      "spec2_stability": 10000,
       "spec3_drag": 1000
     },
 	{
@@ -634,9 +634,9 @@
       "mass": 120,
       "cost": 2000,
       "cpuCost": 35,
-      "spec0_control": 10000,
-      "spec1_lift": 8000,
-      "spec2_stability": 5,
+      "spec0_control": 50000,
+      "spec1_lift": 16000,
+      "spec2_stability": 40000,
       "spec3_drag": 3000
     },
 	{
@@ -646,9 +646,9 @@
       "mass": 200,
       "cost": 4000,
       "cpuCost": 60,
-      "spec0_control": 15000,
-      "spec1_lift": 4000,
-      "spec2_stability": 50000,
+      "spec0_control": 150000,
+      "spec1_lift": 10000,
+      "spec2_stability": 20000,
       "spec3_drag": 5000
     },
 
@@ -659,8 +659,8 @@
       "mass": 40,
       "cost": 1000,
       "cpuCost": 10,
-      "spec0_control": 4000,
-      "spec1_lift": 200,
+      "spec0_control": 25000,
+      "spec1_lift": 500,
       "spec2_stability": 40000,
       "spec3_drag": 1000
     },
@@ -671,8 +671,8 @@
       "mass": 40,
       "cost": 1000,
       "cpuCost": 10,
-      "spec0_control": 4000,
-      "spec1_lift": 200,
+      "spec0_control": 25000,
+      "spec1_lift": 500,
       "spec2_stability": 40000,
       "spec3_drag": 1000
     },
@@ -683,8 +683,8 @@
       "mass": 40,
       "cost": 1000,
       "cpuCost": 10,
-      "spec0_control": 4000,
-      "spec1_lift": 200,
+      "spec0_control": 25000,
+      "spec1_lift": 500,
       "spec2_stability": 40000,
       "spec3_drag": 1000
     },
@@ -879,7 +879,7 @@
       "spec0_cooldown": 20,
       "spec1_refire": 20,
       "spec2_dashtime": 450,
-      "spec3_dashspeed": 250
+      "spec3_dashspeed": 270
     },
     {
       "id": 153,
@@ -928,7 +928,7 @@
       "mass": 100,
       "cost": 10000,
       "cpuCost": 75,
-      "spec0_shieldcapacity": 10000,
+      "spec0_shieldcapacity": 2000,
       "spec1_rechargerate": 1000,
       "spec2_rechargedelay": 10
     },
@@ -954,7 +954,7 @@
       "mass": 400,
       "cost": 10000,
       "cpuCost": 100,
-      "spec0_restockpersecond": 100
+      "spec0_restockpersecond": 150
 
     },
     {
