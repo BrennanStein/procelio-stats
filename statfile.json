@@ -824,7 +824,7 @@
       "spec0_distance": 200000,
       "spec1_lockon": 1
     },
-	  {
+	{
       "id": 34,
       "name": "BOT_WEP_SEC_MINELAYER",
       "health": 1500,
@@ -918,7 +918,7 @@
       "cpuCost": 80,
       "spec0_knockback": 80000,
       "spec1_cooldown": 20,
-      "spec2_Radius": 130,
+      "spec2_Radius": 140,
       "spec3_refire": 30
     },
     {
