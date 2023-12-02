@@ -1481,7 +1481,7 @@
     {
       "id": 1,
       "name": "alphaSMGProjectile",
-      "damage": 460
+      "damage": 550
     },
     {
       "id": 2,
@@ -1491,17 +1491,17 @@
     {
       "id": 3,
       "name": "alphaRailgunProjectile",
-      "damage": 4500
+      "damage": 4000
     },
     {
       "id": 4,
       "name": "nanoWeapon",
-      "damage": 200
+      "damage": 220
     },
 	{
       "id": 11,
       "name": "nanoHeal",
-      "damage": 450
+      "damage": 380
     },
     {
       "id": 5,
