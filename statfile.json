@@ -107,7 +107,7 @@
       "name": "HeavyCube",
       "health": 120,
       "mass": 45,
-      "cost": 125,
+      "cost": 50,
       "cpuCost": 1
     },
     {
@@ -115,7 +115,7 @@
       "name": "HeavyInner",
       "health": 120,
       "mass": 45,
-      "cost": 125,
+      "cost": 50,
       "cpuCost": 1
     },
     {
@@ -123,7 +123,7 @@
       "name": "HeavyTetra",
       "health": 120,
       "mass": 45,
-      "cost": 125,
+      "cost": 50,
       "cpuCost": 1
     },
     {
@@ -131,7 +131,7 @@
       "name": "HeavyPrism",
       "health": 120,
       "mass": 45,
-      "cost": 125,
+      "cost": 50,
       "cpuCost": 1
     },
 	{
@@ -139,7 +139,7 @@
       "name": "HeavyPyramid",
       "health": 120,
       "mass": 45,
-      "cost": 125,
+      "cost": 50,
       "cpuCost": 1
     },
     {
@@ -147,7 +147,7 @@
       "name": "GlassCube",
       "health": 75,
       "mass": 10,
-      "cost": 125,
+      "cost": 50,
       "cpuCost": 1
     },
     {
@@ -155,7 +155,7 @@
       "name": "GlassInner",
       "health": 75,
       "mass": 10,
-      "cost": 125,
+      "cost": 50,
       "cpuCost": 1
     },
     {
@@ -163,7 +163,7 @@
       "name": "GlassTetra",
       "health": 75,
       "mass": 10,
-      "cost": 125,
+      "cost": 50,
       "cpuCost": 1
     },
     {
@@ -171,7 +171,7 @@
       "name": "GlassPrism",
       "health": 75,
       "mass": 10,
-      "cost": 125,
+      "cost": 50,
       "cpuCost": 1
     },
 	{
@@ -179,7 +179,7 @@
       "name": "GlassPyramid",
       "health": 75,
       "mass": 10,
-      "cost": 125,
+      "cost": 50,
       "cpuCost": 1
     },
 	{
@@ -227,7 +227,7 @@
       "name": "CarbonCube",
       "health": 75,
       "mass": 10,
-      "cost": 250,
+      "cost": 100,
       "cpuCost": 1
     },
     {
@@ -235,7 +235,7 @@
       "name": "CarbonInner",
       "health": 75,
       "mass": 10,
-      "cost": 250,
+      "cost": 100,
       "cpuCost": 1
     },
     {
@@ -243,7 +243,7 @@
       "name": "CarbonTetra",
       "health": 75,
       "mass": 10,
-      "cost": 250,
+      "cost": 100,
       "cpuCost": 1
     },
     {
@@ -251,7 +251,7 @@
       "name": "CarbonPrism",
       "health": 75,
       "mass": 10,
-      "cost": 250,
+      "cost": 100,
       "cpuCost": 1
     },
 	{
@@ -259,7 +259,7 @@
       "name": "CarbonPyramid",
       "health": 75,
       "mass": 10,
-      "cost": 250,
+      "cost": 100,
       "cpuCost": 1
     },
 
@@ -866,7 +866,7 @@
       "mass": 45,
       "cost": 1500,
       "cpuCost": 45,
-      "functionHealth": 350
+      "functionHealth": 250
     },
 
     {
@@ -875,7 +875,7 @@
       "health": 2000,
       "mass": 150,
       "cost": 10000,
-      "cpuCost": 150,
+      "cpuCost": 125,
       "spec0_cooldown": 20,
       "spec1_refire": 20,
       "spec2_dashtime": 450,
@@ -887,7 +887,7 @@
       "health": 1500,
       "mass": 50,
       "cost": 10000,
-      "cpuCost": 40,
+      "cpuCost": 30,
       "spec0_cooldown": 15,
       "spec1_refire": 3,
       "spec2_buffduration": 4,
@@ -899,7 +899,7 @@
       "health": 1500,
       "mass": 100,
       "cost": 10000,
-      "cpuCost": 50,
+      "cpuCost": 35,
       "spec0_capacity": 100,
       "spec1_rechargerate": 10,
       "spec2_refire": 30,
@@ -915,10 +915,10 @@
       "health": 2000,
       "mass": 150,
       "cost": 10000,
-      "cpuCost": 100,
-      "spec0_knockback": 75000,
+      "cpuCost": 80,
+      "spec0_knockback": 80000,
       "spec1_cooldown": 20,
-      "spec2_Radius": 120,
+      "spec2_Radius": 130,
       "spec3_refire": 30
     },
     {
@@ -927,7 +927,7 @@
       "health": 1500,
       "mass": 100,
       "cost": 10000,
-      "cpuCost": 75,
+      "cpuCost": 70,
       "spec0_shieldcapacity": 2000,
       "spec1_rechargerate": 1000,
       "spec2_rechargedelay": 10
