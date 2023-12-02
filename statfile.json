@@ -1496,12 +1496,12 @@
     {
       "id": 4,
       "name": "nanoWeapon",
-      "damage": 220
+      "damage": 190
     },
 	{
       "id": 11,
       "name": "nanoHeal",
-      "damage": 380
+      "damage": 350
     },
     {
       "id": 5,
