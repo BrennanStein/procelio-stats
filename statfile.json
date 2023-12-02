@@ -618,7 +618,7 @@
 	{
       "id": 140,
       "name": "BOT_MOV_WING_FLAT",
-      "health": 1200,
+      "health": 1800,
       "mass": 100,
       "cost": 1500,
       "cpuCost": 20,
@@ -1496,12 +1496,12 @@
     {
       "id": 4,
       "name": "nanoWeapon",
-      "damage": 220
+      "damage": 190
     },
 	{
       "id": 11,
       "name": "nanoHeal",
-      "damage": 380
+      "damage": 350
     },
     {
       "id": 5,
