@@ -820,7 +820,7 @@
       "cost": 2000,
       "cpuCost": 70,
       "rotationSpeed": 1080,
-      "functionHealth": 750,
+      "functionHealth": 550,
       "spec0_distance": 200000,
       "spec1_lockon": 1
     },
