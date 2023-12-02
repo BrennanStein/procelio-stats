@@ -1481,7 +1481,7 @@
     {
       "id": 1,
       "name": "alphaSMGProjectile",
-      "damage": 550
+      "damage": 520
     },
     {
       "id": 2,
@@ -1491,7 +1491,7 @@
     {
       "id": 3,
       "name": "alphaRailgunProjectile",
-      "damage": 4000
+      "damage": 4100
     },
     {
       "id": 4,
