@@ -1486,21 +1486,21 @@
     {
       "id": 2,
       "name": "NOVA PROJECTILE",
-      "damage": 1300
+      "damage": 1450
     },
     {
       "id": 3,
-      "name": "alphaRailgunProjectile",
+      "name": "GAUSS PROJECTILE",
       "damage": 4100
     },
     {
       "id": 4,
-      "name": "nanoWeapon",
-      "damage": 190
+      "name": "FLUX ATTACK",
+      "damage": 170
     },
 	{
       "id": 11,
-      "name": "nanoHeal",
+      "name": "FLUX HEAL",
       "damage": 350
     },
     {
@@ -1510,7 +1510,7 @@
     },
     {
       "id": 6,
-      "name": "rocket launch",
+      "name": "MISSILE",
       "damage": 2500
     },
     {
@@ -1520,7 +1520,7 @@
     },
     {
       "id": 8,
-      "name": "alphaRivetProjectile",
+      "name": "RIVET PROJECTILE",
       "damage": 1600
     },
 	  {
@@ -1530,7 +1530,7 @@
     },
 	{
       "id": 10,
-      "name": "Autocannon",
+      "name": "AUTOCANNON PROJECTILE",
       "damage": 200
     },
 	{
