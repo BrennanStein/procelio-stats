@@ -399,15 +399,15 @@
       "health": 1000,
       "mass": 35,
       "cost": 400,
-      "cpuCost": 8
+      "cpuCost": 5
     },
     {
       "id": 73,
       "name": "RepulsorPad",
       "health":1000,
       "mass": 35,
-      "cost": 2000,
-      "cpuCost": 15
+      "cost": 1000,
+      "cpuCost": 10
     },
     {
       "id": 15,
