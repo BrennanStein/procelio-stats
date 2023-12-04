@@ -608,9 +608,9 @@
       "health": 1200,
       "mass": 85,
       "cost": 1500,
-      "cpuCost": 35,
-      "spec0_cooldown": 20,
-      "spec1_refire": 20,
+      "cpuCost": 20,
+      "spec0_cooldown": 2,
+      "spec1_refire": 2,
       "spec2_buffduration": 1,
       "spec3_dampen": 85
     },
