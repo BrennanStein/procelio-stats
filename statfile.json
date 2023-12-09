@@ -1140,7 +1140,7 @@
       "name": "Cosmetic KITT",
       "health": 150,
       "mass": 30,
-      "premiumCost": 125,
+      "premiumCost": 25,
       "cpuCost": 7
     },
 	{
