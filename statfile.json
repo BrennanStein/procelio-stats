@@ -862,11 +862,11 @@
 	{
       "id": 38,
       "name": "BOT_WEP_SEC_CASCUTTER",
-      "health": 1500,
-      "mass": 45,
+      "health": 1600,
+      "mass": 40,
       "cost": 1500,
       "cpuCost": 45,
-      "functionHealth": 250
+      "functionHealth": 200
     },
 
     {
@@ -1486,7 +1486,7 @@
     {
       "id": 2,
       "name": "NOVA PROJECTILE",
-      "damage": 1450
+      "damage": 1550
     },
     {
       "id": 3,
@@ -1515,8 +1515,8 @@
     },
     {
       "id": 7,
-      "name": "melee tesla",
-      "damage": 8000
+      "name": "SECONDARY CAS CUTTER TESLA",
+      "damage": 8500
     },
     {
       "id": 8,
