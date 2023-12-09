@@ -422,7 +422,7 @@
     {
       "id": 14,
       "name": "BOT_MOV_WHEEL_MEDIUM",
-      "health": 1000,
+      "health": 1800,
       "mass": 1000,
       "cost": 450,
       "cpuCost": 14
@@ -430,7 +430,7 @@
     {
       "id": 59,
       "name": "BOT_MOV_WHEEL_MEDIUM_NONSTEER",
-      "health": 1100,
+      "health": 1800,
       "mass": 1000,
       "cost": 350,
       "cpuCost": 10
