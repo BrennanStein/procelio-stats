@@ -1011,6 +1011,7 @@
       "name": "BOT_COSM_CRAIG_XMAS_2022",
       "health": 100,
       "mass": 1,
+	  "cost": 10000,
       "cpuCost": 2
     },
 	{
