@@ -572,7 +572,7 @@
     {
       "id": 46,
       "name": "BOT_MOV_LTA_224",
-      "health": 1200,
+      "health": 1000,
       "mass": 80,
       "cost": 600,
       "cpuCost": 12,
@@ -583,7 +583,7 @@
     {
       "id": 47,
       "name": "BOT_MOV_LTA_335",
-      "health": 2600,
+      "health": 1800,
       "mass": 180,
       "cost": 700,
       "cpuCost": 20,
@@ -594,7 +594,7 @@
     {
       "id": 48,
       "name": "BOT_MOV_LTA_348",
-      "health": 4800,
+      "health": 2800,
       "mass": 360,
       "cost": 800,
       "cpuCost": 28,
