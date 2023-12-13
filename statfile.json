@@ -422,7 +422,7 @@
     {
       "id": 14,
       "name": "BOT_MOV_WHEEL_MEDIUM",
-      "health": 1000,
+      "health": 1800,
       "mass": 1000,
       "cost": 450,
       "cpuCost": 14
@@ -430,7 +430,7 @@
     {
       "id": 59,
       "name": "BOT_MOV_WHEEL_MEDIUM_NONSTEER",
-      "health": 1100,
+      "health": 1800,
       "mass": 1000,
       "cost": 350,
       "cpuCost": 10
@@ -572,7 +572,7 @@
     {
       "id": 46,
       "name": "BOT_MOV_LTA_224",
-      "health": 1200,
+      "health": 1000,
       "mass": 80,
       "cost": 600,
       "cpuCost": 12,
@@ -583,7 +583,7 @@
     {
       "id": 47,
       "name": "BOT_MOV_LTA_335",
-      "health": 2600,
+      "health": 1800,
       "mass": 180,
       "cost": 700,
       "cpuCost": 20,
@@ -594,7 +594,7 @@
     {
       "id": 48,
       "name": "BOT_MOV_LTA_348",
-      "health": 4800,
+      "health": 2800,
       "mass": 360,
       "cost": 800,
       "cpuCost": 28,
@@ -862,11 +862,11 @@
 	{
       "id": 38,
       "name": "BOT_WEP_SEC_CASCUTTER",
-      "health": 1500,
-      "mass": 45,
+      "health": 1600,
+      "mass": 40,
       "cost": 1500,
       "cpuCost": 45,
-      "functionHealth": 250
+      "functionHealth": 200
     },
 
     {
@@ -1011,6 +1011,7 @@
       "name": "BOT_COSM_CRAIG_XMAS_2022",
       "health": 100,
       "mass": 1,
+	  "cost": 10000,
       "cpuCost": 2
     },
 	{
@@ -1140,7 +1141,7 @@
       "name": "Cosmetic KITT",
       "health": 150,
       "mass": 30,
-      "premiumCost": 125,
+      "premiumCost": 25,
       "cpuCost": 7
     },
 	{
@@ -1486,7 +1487,7 @@
     {
       "id": 2,
       "name": "NOVA PROJECTILE",
-      "damage": 1450
+      "damage": 1550
     },
     {
       "id": 3,
@@ -1515,8 +1516,8 @@
     },
     {
       "id": 7,
-      "name": "melee tesla",
-      "damage": 8000
+      "name": "SECONDARY CAS CUTTER TESLA",
+      "damage": 8500
     },
     {
       "id": 8,
