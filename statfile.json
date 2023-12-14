@@ -609,9 +609,9 @@
       "mass": 85,
       "cost": 1500,
       "cpuCost": 20,
-      "spec0_cooldown": 2,
+      "spec0_cooldown": 15,
       "spec1_refire": 2,
-      "spec2_buffduration": 1,
+      "spec2_buffduration": 2,
       "spec3_dampen": 85
     },
 
