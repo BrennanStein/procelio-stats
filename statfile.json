@@ -766,6 +766,8 @@
       "cost": 1200,
       "cpuCost": 45,
       "rotationSpeed": 360
+      "spec0_falloffstart": 900,
+      "spec1_falloffend": 900,
     },
 	  {
       "id": 31,
@@ -775,6 +777,7 @@
       "cost": 2500,
       "cpuCost": 50,
       "rotationSpeed": 145
+
     },
 	  {
       "id": 32,
@@ -793,6 +796,8 @@
       "cost": 1700,
       "cpuCost": 45,
       "rotationSpeed": 270
+      "spec0_falloffstart": 1200,
+      "spec1_falloffend": 1200,
     },
 	  {
       "id": 33,
@@ -823,6 +828,8 @@
       "functionHealth": 1200,
       "spec0_distance": 200000,
       "spec1_lockon": 1
+      "spec2_falloffstart": 600,
+      "spec3_falloffend": 600,
     },
 	{
       "id": 34,
