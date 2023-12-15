@@ -765,7 +765,7 @@
       "mass": 80,
       "cost": 1200,
       "cpuCost": 45,
-      "rotationSpeed": 360
+      "rotationSpeed": 360,
       "spec0_falloffstart": 900,
       "spec1_falloffend": 900
     },
@@ -795,7 +795,7 @@
       "mass": 70,
       "cost": 1700,
       "cpuCost": 45,
-      "rotationSpeed": 270
+      "rotationSpeed": 270,
       "spec0_falloffstart": 1200,
       "spec1_falloffend": 1200
     },
