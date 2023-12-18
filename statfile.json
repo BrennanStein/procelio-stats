@@ -817,6 +817,15 @@
       "cpuCost": 45,
       "rotationSpeed": 270
     },
+	{
+      "id": 181,
+      "name": "BOT_WEP_PRIM_MISSILESALVO",
+      "health": 2200,
+      "mass": 45,
+      "cost": 1500,
+      "cpuCost": 45,
+      "rotationSpeed": 270
+    },
     {
       "id": 57,
       "name": "BOT_WEP_SEC_AUTOCANNON",
