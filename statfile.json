@@ -1555,10 +1555,10 @@
       "name": "INSTAKILL",
       "damage": 999999999
     },
-	  	{
+	{
       "id": 13,
-      "name": "PLACEHOLDER",
-      "damage": 1000
+      "name": "MISSILE SALVO PROJECTILE",
+      "damage": 2500
     }
   ],
   "cosmetics": [
