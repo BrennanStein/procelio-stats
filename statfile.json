@@ -1540,7 +1540,7 @@
       "name": "RIVET PROJECTILE",
       "damage": 1600
     },
-	  {
+	{
       "id": 9,
       "name": "MWV",
       "damage": 1000
@@ -1558,7 +1558,7 @@
 	{
       "id": 13,
       "name": "MISSILE SALVO PROJECTILE",
-      "damage": 2500
+      "damage": 1000
     }
   ],
   "cosmetics": [
