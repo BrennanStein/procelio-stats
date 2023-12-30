@@ -874,7 +874,7 @@
       "mass": 25,
       "cost": 5,
       "cpuCost": 5,
-	  "rotationSpeed":360,
+	  "rotationSpeed": 360,
 	  "functionHealth": 200
     },
 	{
