@@ -488,7 +488,7 @@
     {
       "id": 125,
       "name": "InsectSmall",
-      "health": 500,
+      "health": 1000,
       "mass": 100,
       "cost": 10000,
       "cpuCost": 22
@@ -496,17 +496,17 @@
 	{
       "id": 126,
       "name": "LegInsectMedium",
-      "health": 1000,
+      "health": 2000,
       "mass": 250,
-      "cost": 35000,
+      "cost": 15000,
       "cpuCost": 38
     },
 	{
       "id": 127,
       "name": "LegInsectLarge",
-      "health": 1500,
+      "health": 4000,
       "mass": 500,
-      "cost": 65000,
+      "cost": 20000,
       "cpuCost": 44
     },
 
@@ -873,7 +873,9 @@
       "health": 500,
       "mass": 25,
       "cost": 5,
-      "cpuCost": 5
+      "cpuCost": 5,
+	  "rotationSpeed": 360,
+	  "functionHealth": 200
     },
 	{
       "id": 38,
