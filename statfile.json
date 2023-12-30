@@ -870,10 +870,10 @@
 	  {
       "id": 37,
       "name": "BOT_WEP_SEC_SMOKE",
-      "health": 500,
+      "health": 1000,
       "mass": 25,
-      "cost": 5,
-      "cpuCost": 5,
+      "cost": 500,
+      "cpuCost": 15,
 	  "rotationSpeed": 360,
 	  "functionHealth": 200
     },
