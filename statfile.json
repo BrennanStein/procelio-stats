@@ -875,8 +875,7 @@
       "cost": 500,
       "cpuCost": 15,
 	  "rotationSpeed": 360,
-	  "functionHealth": 600,
-	  "spec0_ammocost": 200
+	  "functionHealth": 600
     },
 	{
       "id": 38,
