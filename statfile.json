@@ -875,7 +875,8 @@
       "cost": 500,
       "cpuCost": 15,
 	  "rotationSpeed": 360,
-	  "functionHealth": 400
+	  "functionHealth": 600,
+	  "spec0_ammocost": 200
     },
 	{
       "id": 38,
@@ -1561,6 +1562,11 @@
       "id": 13,
       "name": "MISSILE SALVO PROJECTILE",
       "damage": 1000
+    }
+	{
+      "id": 14,
+      "name": "SMOKE PROJECTILE",
+      "damage": 100
     }
   ],
   "cosmetics": [
