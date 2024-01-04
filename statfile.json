@@ -875,7 +875,8 @@
       "cost": 500,
       "cpuCost": 15,
 	  "rotationSpeed": 360,
-	  "functionHealth": 400
+	  "functionHealth": 800,
+	  "spec0_repairCost": 200
     },
 	{
       "id": 38,
