@@ -875,8 +875,7 @@
       "cost": 500,
       "cpuCost": 15,
 	  "rotationSpeed": 360,
-	  "functionHealth": 800,
-	  "spec0_repairCost": 200
+	  "functionHealth": 600
     },
 	{
       "id": 38,
@@ -926,7 +925,6 @@
       "spec4_activedrain": 20,
       "spec5_activationcost": 10,
       "spec6_thrustmultiplier": 3
-
     },
     {
       "id": 155,
