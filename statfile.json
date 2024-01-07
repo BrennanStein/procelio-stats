@@ -779,14 +779,16 @@
       "rotationSpeed": 145
 
     },
-	  {
+    {
       "id": 32,
       "name": "BOT_WEP_PRIM_NOVA",
       "health": 2200,
       "mass": 80,
       "cost": 1700,
       "cpuCost": 45,
-      "rotationSpeed": 250
+      "rotationSpeed": 250,
+      "spec0_aoeRadius": 27,
+      "spec1_aoeFalloff": 25
     },
     {
       "id": 55,
@@ -817,14 +819,16 @@
       "cpuCost": 45,
       "rotationSpeed": 270
     },
-	{
+    {
       "id": 181,
       "name": "BOT_WEP_PRIM_MISSILESALVO",
       "health": 2200,
       "mass": 45,
       "cost": 1500,
       "cpuCost": 45,
-      "rotationSpeed": 270
+      "rotationSpeed": 270,
+      "spec0_aoeRadius": 27,
+      "spec1_aoeFalloff": 50
     },
     {
       "id": 57,
@@ -840,14 +844,16 @@
       "spec2_falloffstart": 600,
       "spec3_falloffend": 600
     },
-	{
+    {
       "id": 34,
       "name": "BOT_WEP_SEC_MINELAYER",
       "health": 1500,
       "mass": 30,
       "cost": 1500,
       "cpuCost": 35,
-      "functionHealth": 700
+      "functionHealth": 700,
+      "spec0_aoeRadius": 60,
+      "spec1_aoeFalloff": 50
     },
 	  {
       "id": 35,
