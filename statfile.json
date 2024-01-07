@@ -796,8 +796,8 @@
       "cost": 1700,
       "cpuCost": 45,
       "rotationSpeed": 270,
-      "spec0_falloffstart": 1200,
-      "spec1_falloffend": 1200
+      "spec0_falloffstart": 900,
+      "spec1_falloffend": 900
     },
 	  {
       "id": 33,
