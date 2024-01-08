@@ -850,7 +850,7 @@
       "health": 1500,
       "mass": 30,
       "cost": 1500,
-      "cpuCost": 35,
+      "cpuCost": 40,
       "functionHealth": 700,
       "spec0_aoeRadius": 60,
       "spec1_aoeFalloff": 50
@@ -879,9 +879,9 @@
       "health": 1000,
       "mass": 25,
       "cost": 500,
-      "cpuCost": 15,
+      "cpuCost": 20,
 	  "rotationSpeed": 360,
-	  "functionHealth": 600
+	  "functionHealth": 400
     },
 	{
       "id": 38,
@@ -889,7 +889,7 @@
       "health": 1600,
       "mass": 40,
       "cost": 1500,
-      "cpuCost": 45,
+      "cpuCost": 35,
       "functionHealth": 200
     },
 
