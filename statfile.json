@@ -833,7 +833,7 @@
     {
       "id": 57,
       "name": "BOT_WEP_SEC_AUTOCANNON",
-      "health": 1300,
+      "health": 1400,
       "mass": 75,
       "cost": 2000,
       "cpuCost": 70,
@@ -866,7 +866,7 @@
 	  {
       "id": 36,
       "name": "BOT_WEP_SEC_MISSILEPOD",
-      "health": 1400,
+      "health": 1200,
       "mass": 30,
       "cost": 1500,
       "cpuCost": 50,
