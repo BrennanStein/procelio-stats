@@ -798,7 +798,12 @@
       "cost": 1700,
       "cpuCost": 45,
       "rotationSpeed": 270,
+<<<<<<< HEAD
       "spec1_falloffend": 900
+=======
+      "spec0_falloffstart": 600,
+      "spec1_falloffend": 1200
+>>>>>>> origin/master
     },
 	  {
       "id": 33,
@@ -832,7 +837,7 @@
     {
       "id": 57,
       "name": "BOT_WEP_SEC_AUTOCANNON",
-      "health": 1300,
+      "health": 1400,
       "mass": 75,
       "cost": 2000,
       "cpuCost": 70,
@@ -865,7 +870,7 @@
 	  {
       "id": 36,
       "name": "BOT_WEP_SEC_MISSILEPOD",
-      "health": 1400,
+      "health": 1200,
       "mass": 30,
       "cost": 1500,
       "cpuCost": 50,
@@ -1544,7 +1549,7 @@
     {
       "id": 8,
       "name": "RIVET PROJECTILE",
-      "damage": 1600
+      "damage": 1250
     },
 	{
       "id": 9,
