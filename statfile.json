@@ -1534,7 +1534,7 @@
       "cpuCost": 1
     },
 	{
-      "id": 120,
+      "id": 200,
       "name": "1x1 StickerNumber 4",
       "health": 1,
       "mass": 1,
@@ -1542,7 +1542,7 @@
       "cpuCost": 1
     },
 	{
-      "id": 121,
+      "id": 201,
       "name": "1x1 StickerNumber 5",
       "health": 1,
       "mass": 1,
@@ -1550,15 +1550,7 @@
       "cpuCost": 1
     },
 	{
-      "id": 122,
-      "name": "1x1 StickerNumber 5",
-      "health": 1,
-      "mass": 1,
-      "cost": 500,
-      "cpuCost": 1
-    },
-	{
-      "id": 123,
+      "id": 202,
       "name": "1x1 StickerNumber 6",
       "health": 1,
       "mass": 1,
@@ -1566,23 +1558,7 @@
       "cpuCost": 1
     },
 	{
-      "id": 124,
-      "name": "1x1 StickerNumber 5",
-      "health": 1,
-      "mass": 1,
-      "cost": 500,
-      "cpuCost": 1
-    },
-	{
-      "id": 125,
-      "name": "1x1 StickerNumber 6",
-      "health": 1,
-      "mass": 1,
-      "cost": 500,
-      "cpuCost": 1
-    },
-	{
-      "id": 126,
+      "id": 203,
       "name": "1x1 StickerNumber 7",
       "health": 1,
       "mass": 1,
@@ -1590,7 +1566,7 @@
       "cpuCost": 1
     },
 	{
-      "id": 127,
+      "id": 204,
       "name": "1x1 StickerNumber 8",
       "health": 1,
       "mass": 1,
@@ -1598,7 +1574,7 @@
       "cpuCost": 1
     },
 	{
-      "id": 128,
+      "id": 205,
       "name": "1x1 StickerNumber 9",
       "health": 1,
       "mass": 1,
