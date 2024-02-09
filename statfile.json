@@ -339,55 +339,55 @@
     {
       "id": 39,
       "name": "ElectroplateA_L",
-      "health": 1000,
+      "health": 1150,
       "mass": 120,
       "shield": 2050,
       "shieldCharge": 500,
-      "shieldChargeDelay": 100,
+      "shieldChargeDelay": 500,
       "cost": 950,
       "cpuCost": 32
     },
     {
       "id": 40,
       "name": "ElectroplateA_R",
-      "health": 1000,
+      "health": 1150,
       "mass": 120,
       "shield": 2050,
       "shieldCharge": 500,
-      "shieldChargeDelay": 100,
+      "shieldChargeDelay": 500,
       "cost": 950,
       "cpuCost": 32
     },
     {
       "id": 41,
       "name": "ElectroplateB_L",
-      "health": 750,
+      "health": 850,
       "mass": 100,
       "shield": 1850,
       "shieldCharge": 500,
-      "shieldChargeDelay": 100,
+      "shieldChargeDelay": 500,
       "cost": 825,
       "cpuCost": 28
     },
     {
       "id": 42,
       "name": "ElectroplateB_R",
-      "health": 750,
+      "health": 850,
       "mass": 100,
       "shield": 1850,
       "shieldCharge": 500,
-      "shieldChargeDelay": 100,
+      "shieldChargeDelay": 500,
       "cost": 825,
       "cpuCost": 28
     },
     {
       "id": 43,
       "name": "ElectroplateC",
-      "health": 500,
+      "health": 550,
       "mass": 80,
       "shield": 1550,
       "shieldCharge": 500,
-      "shieldChargeDelay": 100,
+      "shieldChargeDelay": 500,
       "cost": 700,
       "cpuCost": 22
     },
@@ -535,7 +535,7 @@
       "mass": 25,
       "cost": 620,
       "cpuCost": 8,
-	  "thrust": 17000
+	  "thrust": 15000
     },
 	{
       "id": 27,
@@ -544,7 +544,7 @@
       "mass": 25,
       "cost": 620,
       "cpuCost": 8,
-      "thrust": 17000
+      "thrust": 15000
     },
 
 	{
@@ -655,7 +655,7 @@
 	{
       "id": 143,
       "name": "BOT_MOV_RUDDER_FLAT",
-      "health": 500,
+      "health": 550,
       "mass": 40,
       "cost": 1000,
       "cpuCost": 10,
@@ -866,7 +866,7 @@
 	  {
       "id": 36,
       "name": "BOT_WEP_SEC_MISSILEPOD",
-      "health": 1200,
+      "health": 1000,
       "mass": 30,
       "cost": 1500,
       "cpuCost": 50,
