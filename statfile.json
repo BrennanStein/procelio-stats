@@ -974,7 +974,7 @@
       "id": 158,
       "name": "BOT_MOD_FORGE",
       "health": 1750,
-      "mass": 400,
+      "mass": 300,
       "cost": 10000,
       "cpuCost": 50,
       "spec0_restockpersecond": 100
