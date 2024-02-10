@@ -788,7 +788,7 @@
       "cpuCost": 45,
       "rotationSpeed": 250,
       "spec0_aoeRadius": 27,
-      "spec1_aoeFalloff": 25
+      "spec1_aoeFalloff": 0
     },
     {
       "id": 55,
@@ -827,7 +827,7 @@
       "cost": 1500,
       "cpuCost": 45,
       "rotationSpeed": 270,
-      "spec0_aoeRadius": 27,
+      "spec0_aoeRadius": 25,
       "spec1_aoeFalloff": 50
     },
     {
@@ -852,7 +852,7 @@
       "cost": 1500,
       "cpuCost": 40,
       "functionHealth": 700,
-      "spec0_aoeRadius": 60,
+      "spec0_aoeRadius": 50,
       "spec1_aoeFalloff": 50
     },
 	  {
@@ -973,11 +973,11 @@
     {
       "id": 158,
       "name": "BOT_MOD_FORGE",
-      "health": 3500,
+      "health": 1750,
       "mass": 400,
       "cost": 10000,
-      "cpuCost": 100,
-      "spec0_restockpersecond": 200
+      "cpuCost": 50,
+      "spec0_restockpersecond": 100
 
     },
     {
@@ -1606,7 +1606,7 @@
 	{
       "id": 11,
       "name": "FLUX HEAL",
-      "damage": 350
+      "damage": 300
     },
     {
       "id": 5,
