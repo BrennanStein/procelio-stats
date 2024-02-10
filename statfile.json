@@ -838,7 +838,7 @@
       "cost": 2000,
       "cpuCost": 70,
       "rotationSpeed": 1080,
-      "functionHealth": 1200,
+      "functionHealth": 2000,
       "spec0_distance": 200000,
       "spec1_lockon": 1,
       "spec2_falloffstart": 600,
