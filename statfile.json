@@ -605,7 +605,7 @@
     {
       "id": 49,
       "name": "BOT_MOV_GYRO",
-      "health": 1200,
+      "health": 1000,
       "mass": 85,
       "cost": 1500,
       "cpuCost": 20,
@@ -947,7 +947,7 @@
     {
       "id": 156,
       "name": "BOT_MOD_OVERSHIELD",
-      "health": 1500,
+      "health": 1000,
       "mass": 100,
       "cost": 10000,
       "cpuCost": 70,
