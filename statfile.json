@@ -488,7 +488,7 @@
     {
       "id": 125,
       "name": "InsectSmall",
-      "health": 1000,
+      "health": 2000,
       "mass": 1000,
       "cost": 10000,
       "cpuCost": 22
@@ -496,7 +496,7 @@
 	{
       "id": 126,
       "name": "LegInsectMedium",
-      "health": 2000,
+      "health": 3000,
       "mass": 2500,
       "cost": 15000,
       "cpuCost": 38
@@ -504,7 +504,7 @@
 	{
       "id": 127,
       "name": "LegInsectLarge",
-      "health": 4000,
+      "health": 5000,
       "mass": 5000,
       "cost": 20000,
       "cpuCost": 44
@@ -827,8 +827,17 @@
       "cost": 1500,
       "cpuCost": 40,
       "rotationSpeed": 270,
-      "spec0_aoeRadius": 25,
+      "spec0_aoeRadius": 27,
       "spec1_aoeFalloff": 0
+    },
+	{
+      "id": 183,
+      "name": "BOT_WEP_PRIM_SLAB_LAUNCHER",
+      "health": 3000,
+      "mass": 200,
+      "cost": 3000,
+      "cpuCost": 55,
+      "rotationSpeed": 90
     },
     {
       "id": 57,
