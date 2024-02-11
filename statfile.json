@@ -825,10 +825,10 @@
       "health": 2200,
       "mass": 45,
       "cost": 1500,
-      "cpuCost": 45,
+      "cpuCost": 40,
       "rotationSpeed": 270,
       "spec0_aoeRadius": 25,
-      "spec1_aoeFalloff": 50
+      "spec1_aoeFalloff": 0
     },
     {
       "id": 57,
