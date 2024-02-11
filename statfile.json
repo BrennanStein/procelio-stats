@@ -1661,6 +1661,11 @@
       "id": 14,
       "name": "SMOKE PROJECTILE",
       "damage": 100
+    },
+	{
+      "id": 15,
+      "name": "SLAB PROJECTILE",
+      "damage": 5000
     }
   ],
   "cosmetics": [
