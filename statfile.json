@@ -605,7 +605,7 @@
     {
       "id": 49,
       "name": "BOT_MOV_GYRO",
-      "health": 1200,
+      "health": 1000,
       "mass": 85,
       "cost": 1500,
       "cpuCost": 20,
@@ -825,10 +825,10 @@
       "health": 2200,
       "mass": 45,
       "cost": 1500,
-      "cpuCost": 45,
+      "cpuCost": 40,
       "rotationSpeed": 270,
       "spec0_aoeRadius": 25,
-      "spec1_aoeFalloff": 50
+      "spec1_aoeFalloff": 0
     },
     {
       "id": 57,
@@ -838,7 +838,7 @@
       "cost": 2000,
       "cpuCost": 70,
       "rotationSpeed": 1080,
-      "functionHealth": 1200,
+      "functionHealth": 2000,
       "spec0_distance": 200000,
       "spec1_lockon": 1,
       "spec2_falloffstart": 600,
@@ -947,7 +947,7 @@
     {
       "id": 156,
       "name": "BOT_MOD_OVERSHIELD",
-      "health": 1500,
+      "health": 1000,
       "mass": 100,
       "cost": 10000,
       "cpuCost": 70,
@@ -974,7 +974,7 @@
       "id": 158,
       "name": "BOT_MOD_FORGE",
       "health": 1750,
-      "mass": 400,
+      "mass": 300,
       "cost": 10000,
       "cpuCost": 50,
       "spec0_restockpersecond": 100
