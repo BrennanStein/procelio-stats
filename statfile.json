@@ -948,7 +948,7 @@
       "mass": 150,
       "cost": 10000,
       "cpuCost": 80,
-      "spec0_knockback": 1000000,
+      "spec0_knockback": 5000000000,
       "spec1_cooldown": 20,
       "spec2_Radius": 140,
       "spec3_refire": 30
