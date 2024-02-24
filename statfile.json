@@ -533,7 +533,7 @@
       "name": "BOT_MOV_THRUST_Small",
       "health": 300,
       "mass": 25,
-      "cost": 620,
+      "cost": 300,
       "cpuCost": 8,
 	  "thrust": 15000
     },
@@ -542,7 +542,7 @@
       "name": "BOT_MOV_THRUST_TopSmall",
       "health": 300,
       "mass": 25,
-      "cost": 620,
+      "cost": 300,
       "cpuCost": 8,
       "thrust": 15000
     },
@@ -880,7 +880,7 @@
       "cost": 1500,
       "cpuCost": 50,
       "rotationSpeed": 300,
-      "functionHealth": 600
+      "functionHealth": 1000
     },
 	  {
       "id": 37,
