@@ -1589,6 +1589,87 @@
       "mass": 1,
       "cost": 500,
       "cpuCost": 1
+    },
+	
+		{
+      "id": 206,
+      "name": "1x1 StickerNumber 0_M",
+      "health": 1,
+      "mass": 1,
+      "cost": 200,
+      "cpuCost": 1
+    },
+	{
+      "id": 207,
+      "name": "1x1 StickerNumber 1_M",
+      "health": 1,
+      "mass": 1,
+      "cost": 200,
+      "cpuCost": 1
+    },
+	{
+      "id": 208,
+      "name": "1x1 StickerNumber 2_M",
+      "health": 1,
+      "mass": 1,
+      "cost": 200,
+      "cpuCost": 1
+    },
+	{
+      "id": 209,
+      "name": "1x1 StickerNumber 3_M",
+      "health": 1,
+      "mass": 1,
+      "cost": 200,
+      "cpuCost": 1
+    },
+	{
+      "id": 210,
+      "name": "1x1 StickerNumber 4_M",
+      "health": 1,
+      "mass": 1,
+      "cost": 200,
+      "cpuCost": 1
+    },
+	{
+      "id": 211,
+      "name": "1x1 StickerNumber 5_M",
+      "health": 1,
+      "mass": 1,
+      "cost": 200,
+      "cpuCost": 1
+    },
+	{
+      "id": 212,
+      "name": "1x1 StickerNumber 6_M",
+      "health": 1,
+      "mass": 1,
+      "cost": 200,
+      "cpuCost": 1
+    },
+	{
+      "id": 213,
+      "name": "1x1 StickerNumber 7_M",
+      "health": 1,
+      "mass": 1,
+      "cost": 200,
+      "cpuCost": 1
+    },
+	{
+      "id": 214,
+      "name": "1x1 StickerNumber 8_M",
+      "health": 1,
+      "mass": 1,
+      "cost": 200,
+      "cpuCost": 1
+    },
+	{
+      "id": 215,
+      "name": "1x1 StickerNumber 9_M",
+      "health": 1,
+      "mass": 1,
+      "cost": 200,
+      "cpuCost": 1
     }
   ],
   "attacks": [
