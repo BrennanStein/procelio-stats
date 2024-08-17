@@ -830,6 +830,17 @@
       "spec0_aoeRadius": 27,
       "spec1_aoeFalloff": 0
     },
+    {
+      "id": 181,
+      "name": "BOT_WEP_PRIM_MISSILETRACE",
+      "health": 2200,
+      "mass": 45,
+      "cost": 1500,
+      "cpuCost": 40,
+      "rotationSpeed": 270,
+      "spec0_aoeRadius": 27,
+      "spec1_aoeFalloff": 0
+    },
 	{
       "id": 183,
       "name": "BOT_WEP_PRIM_SLAB_LAUNCHER",
@@ -1509,7 +1520,7 @@
       "cost": 2500,
       "cpuCost": 1
     },
-	
+
 	{
       "id": 196,
       "name": "1x1 StickerNumber 0",
@@ -1590,7 +1601,7 @@
       "cost": 500,
       "cpuCost": 1
     },
-	
+
 		{
       "id": 206,
       "name": "1x1 StickerNumber 0_M",
