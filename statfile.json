@@ -1758,6 +1758,16 @@
       "id": 15,
       "name": "SLAB PROJECTILE",
       "damage": 8000
+    },
+    {
+        "id": 16,
+        "name": "TRACE PROJECTILE",
+        "damage": 1400
+    },
+    {
+        "id": 17,
+        "name": "SHOCKWAVE PROJECTILE",
+        "damage": 1000
     }
   ],
   "cosmetics": [
