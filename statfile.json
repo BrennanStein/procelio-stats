@@ -932,10 +932,10 @@
       "mass": 50,
       "cost": 10000,
       "cpuCost": 30,
-      "spec0_cooldown": 15,
-      "spec1_refire": 3,
-      "spec2_buffduration": 4,
-      "spec3_cloudduration": 10
+      "spec0_cooldown": 25,
+      "spec1_refire": 1,
+      "spec2_buffduration": 3,
+      "spec3_cloudduration": 15
     },
     {
       "id": 154,
