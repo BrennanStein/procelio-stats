@@ -1,6 +1,14 @@
 {
   "blocks": [
-
+	{
+      "id": 1000000,
+      "name": "General Reward Multiplier",
+      "health": 1,
+      "mass": 1,
+      "cost": 1,
+      "cpuCost": 1
+      "SPECIAL0": 190
+    },
     {
       "id": 81,
       "name": "Brenn",
