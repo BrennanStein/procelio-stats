@@ -1469,7 +1469,7 @@
       "name": "1x2 Hazard Stripe Sticker Mirror",
       "health": 1,
       "mass": 1,
-      "cost": 2500,
+      "cost": 1000,
       "cpuCost": 1
     },
 	{
@@ -1477,7 +1477,7 @@
       "name": "1x3 Hazard Stripe Sticker Mirror",
       "health": 1,
       "mass": 1,
-      "cost": 2500,
+      "cost": 1000,
       "cpuCost": 1
     },
 	  	{
