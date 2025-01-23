@@ -1265,15 +1265,15 @@
       "id": 135,
       "name": "Cosmetic Pan9k",
       "health": 50,
-      "mass": 10,
+      "mass": 15,
 	  "cost": 5000,
       "cpuCost": 1
     },
 	{
       "id": 136,
       "name": "Cosmetic Pan9kA",
-      "health": 100,
-      "mass": 10,
+      "health": 50,
+      "mass": 15,
 	  "cost": 5000,
       "cpuCost": 1
     },
