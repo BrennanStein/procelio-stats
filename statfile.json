@@ -777,7 +777,7 @@
       "spec0_falloffstart": 600,
       "spec1_falloffend": 900
     },
-	  {
+	{
       "id": 31,
       "name": "BOT_WEP_PRIM_GAUSS",
       "health": 2700,
@@ -787,7 +787,7 @@
       "rotationSpeed": 120,
       "spec0_bloomRate": 5,
       "spec1_bloomRecovery": 2,
-      "spec2_gaussRotGate": 0.9,
+      "spec2_gaussRotGate": 90,
       "spec3_gaussVelGate": 80
     },
     {
