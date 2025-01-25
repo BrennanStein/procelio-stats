@@ -7,7 +7,7 @@
       "mass": 1,
       "cost": 1,
       "cpuCost": 1,
-      "SPECIAL0": 190
+      "SPECIAL0": 175
     },
     {
       "id": 81,
@@ -784,8 +784,11 @@
       "mass": 125,
       "cost": 2500,
       "cpuCost": 50,
-      "rotationSpeed": 145
-
+      "rotationSpeed": 120,
+      "spec0_bloomRate": 5,
+      "spec1_bloomRecovery": 2,
+      "spec2_gaussRotGate": 0.9,
+      "spec3_gaussVelGate": 80
     },
     {
       "id": 32,
