@@ -161,7 +161,7 @@
     {
       "id": 11,
       "name": "GlassInner",
-      "health": 60,
+      "health": 70,
       "mass": 10,
       "cost": 50,
       "cpuCost": 1
@@ -169,7 +169,7 @@
     {
       "id": 12,
       "name": "GlassTetra",
-      "health": 60,
+      "health": 70,
       "mass": 10,
       "cost": 50,
       "cpuCost": 1
@@ -177,7 +177,7 @@
     {
       "id": 13,
       "name": "GlassPrism",
-      "health": 60,
+      "health": 70,
       "mass": 10,
       "cost": 50,
       "cpuCost": 1
@@ -185,7 +185,7 @@
 	{
       "id": 62,
       "name": "GlassPyramid",
-      "health": 60,
+      "health": 70,
       "mass": 10,
       "cost": 50,
       "cpuCost": 1
@@ -233,7 +233,7 @@
 	{
       "id": 99,
       "name": "CarbonCube",
-      "health": 60,
+      "health": 70,
       "mass": 10,
       "cost": 100,
       "cpuCost": 1
@@ -241,7 +241,7 @@
     {
       "id": 100,
       "name": "CarbonInner",
-      "health": 60,
+      "health": 70,
       "mass": 10,
       "cost": 100,
       "cpuCost": 1
@@ -249,7 +249,7 @@
     {
       "id": 101,
       "name": "CarbonTetra",
-      "health": 60,
+      "health": 70,
       "mass": 10,
       "cost": 100,
       "cpuCost": 1
@@ -257,7 +257,7 @@
     {
       "id": 102,
       "name": "CarbonPrism",
-      "health": 60,
+      "health": 70,
       "mass": 10,
       "cost": 100,
       "cpuCost": 1
@@ -265,7 +265,7 @@
 	{
       "id": 103,
       "name": "CarbonPyramid",
-      "health": 60,
+      "health": 70,
       "mass": 10,
       "cost": 100,
       "cpuCost": 1
@@ -1128,7 +1128,7 @@
 	{
       "id": 66,
       "name": "Diag Painted Normal Cube",
-      "health": 100,
+      "health": 110,
       "mass": 20,
       "cost": 200,
       "cpuCost": 1
@@ -1136,7 +1136,7 @@
     {
       "id": 67,
       "name": "Half Painted Normal Cube",
-      "health": 100,
+      "health": 110,
       "mass": 20,
       "cost": 200,
       "cpuCost": 1
