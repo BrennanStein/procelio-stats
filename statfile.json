@@ -902,7 +902,14 @@
       "cost": 1500,
       "cpuCost": 50,
       "rotationSpeed": 300,
-      "functionHealth": 1000
+      "functionHealth": 1000,
+      "spec0_projLifetime": 250,
+      "spec1_projSpeed": 160,
+      "spec2_projAccel": 150,
+      "spec3_MSL_TopSpeed": 1000,
+      "spec4_MSL_P2Duration": 12,
+      "spec5_MSL_P2Tracking": 130,
+      "spec6_MSL_P3Tracking": 100
     },
 	  {
       "id": 37,
@@ -1718,7 +1725,7 @@
 	{
       "id": 11,
       "name": "FLUX HEAL",
-      "damage": 250
+      "damage": 210
     },
     {
       "id": 5,
