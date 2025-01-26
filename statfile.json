@@ -153,7 +153,7 @@
     {
       "id": 10,
       "name": "GlassCube",
-      "health": 60,
+      "health": 70,
       "mass": 10,
       "cost": 50,
       "cpuCost": 1
