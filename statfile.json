@@ -992,7 +992,7 @@
       "spec0_shieldcapacity": 2000,
       "spec1_rechargerate": 1000,
       "spec2_rechargedelay": 10,
-      "spec1_nominacount": 3
+      "spec3_nominacount": 3
     },
     {
       "id": 157,
