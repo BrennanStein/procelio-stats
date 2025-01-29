@@ -1129,7 +1129,7 @@
 	{
       "id": 66,
       "name": "Diag Painted Normal Cube",
-      "health": 110,
+      "health": 100,
       "mass": 20,
       "cost": 200,
       "cpuCost": 1
@@ -1137,7 +1137,7 @@
     {
       "id": 67,
       "name": "Half Painted Normal Cube",
-      "health": 110,
+      "health": 100,
       "mass": 20,
       "cost": 200,
       "cpuCost": 1
