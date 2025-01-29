@@ -1016,7 +1016,7 @@
       "mass": 300,
       "cost": 10000,
       "cpuCost": 50,
-      "spec0_restockpersecond": 100,
+      "spec0_restockpersecond": 250,
       "spec1_nominacount": 3
     },
     {
