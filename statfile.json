@@ -1741,7 +1741,7 @@
     {
       "id": 7,
       "name": "SECONDARY CAS CUTTER TESLA",
-      "damage": 8500
+      "damage": 5500
     },
     {
       "id": 8,
@@ -1766,7 +1766,7 @@
 	{
       "id": 13,
       "name": "MISSILE SALVO PROJECTILE",
-      "damage": 1400
+      "damage": 1200
     },
 	{
       "id": 14,
