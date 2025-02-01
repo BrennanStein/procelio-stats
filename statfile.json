@@ -350,7 +350,7 @@
       "health": 1150,
       "mass": 120,
       "shield": 2050,
-      "shieldCharge": 500,
+      "shieldCharge": 300,
       "shieldChargeDelay": 500,
       "cost": 950,
       "cpuCost": 32
@@ -361,7 +361,7 @@
       "health": 1150,
       "mass": 120,
       "shield": 2050,
-      "shieldCharge": 500,
+      "shieldCharge": 300,
       "shieldChargeDelay": 500,
       "cost": 950,
       "cpuCost": 32
@@ -372,7 +372,7 @@
       "health": 850,
       "mass": 100,
       "shield": 1850,
-      "shieldCharge": 500,
+      "shieldCharge": 300,
       "shieldChargeDelay": 500,
       "cost": 825,
       "cpuCost": 28
@@ -383,7 +383,7 @@
       "health": 850,
       "mass": 100,
       "shield": 1850,
-      "shieldCharge": 500,
+      "shieldCharge": 300,
       "shieldChargeDelay": 500,
       "cost": 825,
       "cpuCost": 28
@@ -394,7 +394,7 @@
       "health": 550,
       "mass": 80,
       "shield": 1550,
-      "shieldCharge": 500,
+      "shieldCharge": 300,
       "shieldChargeDelay": 500,
       "cost": 700,
       "cpuCost": 22
