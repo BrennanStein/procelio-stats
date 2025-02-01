@@ -351,7 +351,7 @@
       "mass": 120,
       "shield": 2050,
       "shieldCharge": 300,
-      "shieldChargeDelay": 500,
+      "shieldChargeDelay": 750,
       "cost": 950,
       "cpuCost": 32
     },
@@ -362,7 +362,7 @@
       "mass": 120,
       "shield": 2050,
       "shieldCharge": 300,
-      "shieldChargeDelay": 500,
+      "shieldChargeDelay": 750,
       "cost": 950,
       "cpuCost": 32
     },
@@ -373,7 +373,7 @@
       "mass": 100,
       "shield": 1850,
       "shieldCharge": 300,
-      "shieldChargeDelay": 500,
+      "shieldChargeDelay": 750,
       "cost": 825,
       "cpuCost": 28
     },
@@ -384,7 +384,7 @@
       "mass": 100,
       "shield": 1850,
       "shieldCharge": 300,
-      "shieldChargeDelay": 500,
+      "shieldChargeDelay": 750,
       "cost": 825,
       "cpuCost": 28
     },
@@ -395,7 +395,7 @@
       "mass": 80,
       "shield": 1550,
       "shieldCharge": 300,
-      "shieldChargeDelay": 500,
+      "shieldChargeDelay": 750,
       "cost": 700,
       "cpuCost": 22
     },
