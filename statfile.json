@@ -839,7 +839,8 @@
       "cpuCost": 40,
       "rotationSpeed": 270,
       "spec0_aoeRadius": 27,
-      "spec1_aoeFalloff": 0
+      "spec1_aoeFalloff": 0,
+      "spec2_bloomFactor": 20
     },
     {
       "id": 182,
