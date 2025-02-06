@@ -788,7 +788,8 @@
       "spec0_bloomRate": 5,
       "spec1_bloomRecovery": 2,
       "spec2_gaussRotGate": 90,
-      "spec3_gaussVelGate": 80
+      "spec3_gaussVelGate": 80,
+      "spec4_bloomFactor": 100
     },
     {
       "id": 32,
