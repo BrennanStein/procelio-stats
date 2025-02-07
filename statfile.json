@@ -1151,7 +1151,7 @@
       "health": 100,
       "mass": 5,
       "cost": 1000,
-      "cpuCost": 2
+      "cpuCost": 1
     },
 	  	  {
       "id": 130,
@@ -1159,7 +1159,7 @@
       "health": 100,
       "mass": 5,
       "cost": 1000,
-      "cpuCost": 2
+      "cpuCost": 1
     },
 	  	  {
       "id": 131,
@@ -1167,7 +1167,7 @@
       "health": 100,
       "mass": 5,
       "cost": 2000,
-      "cpuCost": 2
+      "cpuCost": 1
     },
 	  	  {
       "id": 132,
@@ -1183,7 +1183,7 @@
       "health": 100,
       "mass": 15,
       "cost": 3000,
-      "cpuCost": 2
+      "cpuCost": 1
     },
 	{
       "id": 91,
@@ -1191,7 +1191,7 @@
       "health": 100,
       "mass": 10,
       "cost": 5000,
-      "cpuCost": 2
+      "cpuCost": 1
     },
     {
       "id": 92,
@@ -1264,7 +1264,7 @@
       "health": 100,
       "mass": 15,
 	  "cost": 5000,
-      "cpuCost": 2
+      "cpuCost": 1
     },
 	{
       "id": 134,
@@ -1298,7 +1298,7 @@
       "health": 110,
       "mass": 25,
       "cost": 1000,
-      "cpuCost": 2
+      "cpuCost": 1
     },
     {
       "id": 163,
@@ -1306,7 +1306,7 @@
       "health": 100,
       "mass": 25,
       "cost": 3000,
-      "cpuCost": 2
+      "cpuCost": 1
     },
     {
       "id": 164,
