@@ -915,7 +915,10 @@
       "spec4_MSL_P2Duration": 12,
       "spec5_MSL_P2Tracking": 130,
       "spec6_MSL_P3Tracking": 100,
-      "spec7_MSL_GroundTracking": 60
+      "spec7_MSL_GroundTracking": 60,
+      "spec8_magazineCap": 6,
+      "spec9_reserveAmmo": 2,
+      "spec10_reloadDelay": 10
     },
 	  {
       "id": 37,
