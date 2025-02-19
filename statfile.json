@@ -1073,16 +1073,13 @@
     },
     {
       "id": 217,
-      "name": "BOT_MOD_AMMOBOX_SMALL",
+      "name": "BOT_MOD_AMMOBOX_LARGE",
       "health": 2000,
       "mass": 500,
-      "cost": 2500,
+      "cost": 5000,
       "cpuCost": 60,
       "spec0_ammovalue": 15000,
     },
-
-
-
     {
       "id": 50,
       "name": "BOT_MOD_RADAR",
