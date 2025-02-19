@@ -886,7 +886,10 @@
       "cpuCost": 40,
       "functionHealth": 700,
       "spec0_aoeRadius": 50,
-      "spec1_aoeFalloff": 50
+      "spec1_aoeFalloff": 50,
+      "spec2_magazineCap": 8,
+      "spec3_reserveAmmo": 2,
+      "spec4_reloadDelay": 20
     },
 	  {
       "id": 35,
