@@ -875,8 +875,13 @@
       "spec0_distance": 200000,
       "spec1_lockon": 1,
       "spec2_falloffstart": 600,
-      "spec3_falloffend": 600
+      "spec3_falloffend": 600,
+      "spec4_magazineCap": 4,
+      "spec5_reserveAmmo": 3,
+      "spec6_reloadDelay": 5,
+      "spec7_chargesPerPart": 5
     },
+
     {
       "id": 34,
       "name": "BOT_WEP_SEC_MINELAYER",
@@ -928,7 +933,10 @@
       "cost": 500,
       "cpuCost": 20,
 	  "rotationSpeed": 360,
-	  "functionHealth": 400
+	  "functionHealth": 400,
+      "spec0_magazineCap": 8,
+      "spec1_reserveAmmo": 2,
+      "spec2_reloadDelay": 5
     },
 	{
       "id": 38,
@@ -937,7 +945,9 @@
       "mass": 40,
       "cost": 1500,
       "cpuCost": 35,
-      "functionHealth": 200
+      "functionHealth": 200,
+      "spec0_reserveAmmo": 3,
+      "spec1_reloadDelay": 5
     },
 
     {
