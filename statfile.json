@@ -1069,7 +1069,7 @@
       "mass": 75,
       "cost": 2500,
       "cpuCost": 25,
-      "functionHealth": 6000,
+      "functionHealth": 6000
     },
     {
       "id": 217,
@@ -1078,7 +1078,7 @@
       "mass": 500,
       "cost": 5000,
       "cpuCost": 60,
-      "functionHealth": 15000,
+      "functionHealth": 15000
     },
     {
       "id": 50,
