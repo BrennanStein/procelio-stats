@@ -1065,19 +1065,19 @@
     {
       "id": 216,
       "name": "BOT_MOD_AMMOBOX_SMALL",
-      "health": 1000,
+      "health": 600,
       "mass": 75,
       "cost": 2500,
-      "cpuCost": 25,
+      "cpuCost": 20,
       "functionHealth": 6000
     },
     {
       "id": 217,
       "name": "BOT_MOD_AMMOBOX_LARGE",
-      "health": 2000,
+      "health": 1800,
       "mass": 500,
       "cost": 5000,
-      "cpuCost": 60,
+      "cpuCost": 50,
       "functionHealth": 15000
     },
     {
