@@ -1211,6 +1211,14 @@
       "cost": 5000,
       "cpuCost": 20
     },
+    	  	  {
+      "id": 218,
+      "name": "SpinningSirenOrange",
+      "health": 200,
+      "mass": 15,
+      "cost": 5000,
+      "cpuCost": 20
+    },
 	  {
       "id": 72,
       "name": "CosmeticLargeAntenna",
