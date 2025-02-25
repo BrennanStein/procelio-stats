@@ -1218,6 +1218,13 @@
       "mass": 15,
       "cost": 5000,
       "cpuCost": 20
+    }, {
+      "id": 219,
+      "name": "Horn",
+      "health": 50,
+      "mass": 15,
+      "cost": 50000,
+      "cpuCost": 5
     },
 	  {
       "id": 72,
