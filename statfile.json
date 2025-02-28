@@ -799,7 +799,8 @@
       "mass": 50,
       "cost": 1000,
       "cpuCost": 40,
-      "rotationSpeed": 720
+      "rotationSpeed": 720,
+      "spec0_restockRatePerTick": 50
     },
     {
       "id": 56,
