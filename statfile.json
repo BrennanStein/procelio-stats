@@ -1,6 +1,6 @@
 {
   "blocks": [
-	{
+    {
       "id": 1000000,
       "name": "General Reward Multiplier",
       "health": 1,
@@ -16,7 +16,7 @@
       "mass": 1,
       "cpuCost": 1
     },
-	{
+    {
       "id": 82,
       "name": "Pan",
       "health": 251,
@@ -24,7 +24,7 @@
       "cost": 20000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 83,
       "name": "Kip",
       "health": 250,
@@ -32,7 +32,7 @@
       "cost": 20000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 84,
       "name": "Snip",
       "health": 250,
@@ -40,7 +40,7 @@
       "cost": 20000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 85,
       "name": "Blade",
       "health": 250,
@@ -48,7 +48,7 @@
       "cost": 20000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 139,
       "name": "DevHaxAntigrav",
       "health": 100,
@@ -56,10 +56,7 @@
       "premiumCost": 100000,
       "cpuCost": 10000
     },
-
-
-
-	{
+    {
       "id": 1,
       "name": "Core1",
       "health": 1000,
@@ -102,7 +99,7 @@
       "cost": 0,
       "cpuCost": 1
     },
-	{
+    {
       "id": 20,
       "name": "NormalPyramid",
       "health": 100,
@@ -142,7 +139,7 @@
       "cost": 50,
       "cpuCost": 1
     },
-	{
+    {
       "id": 61,
       "name": "HeavyPyramid",
       "health": 120,
@@ -182,7 +179,7 @@
       "cost": 50,
       "cpuCost": 1
     },
-	{
+    {
       "id": 62,
       "name": "GlassPyramid",
       "health": 70,
@@ -190,7 +187,7 @@
       "cost": 50,
       "cpuCost": 1
     },
-	{
+    {
       "id": 94,
       "name": "CopperCube",
       "health": 100,
@@ -222,7 +219,7 @@
       "cost": 100,
       "cpuCost": 1
     },
-	{
+    {
       "id": 98,
       "name": "CopperPyramid",
       "health": 100,
@@ -230,7 +227,7 @@
       "cost": 100,
       "cpuCost": 1
     },
-	{
+    {
       "id": 99,
       "name": "CarbonCube",
       "health": 70,
@@ -262,7 +259,7 @@
       "cost": 100,
       "cpuCost": 1
     },
-	{
+    {
       "id": 103,
       "name": "CarbonPyramid",
       "health": 70,
@@ -270,7 +267,6 @@
       "cost": 100,
       "cpuCost": 1
     },
-
     {
       "id": 77,
       "name": "1x3Airframe",
@@ -279,7 +275,7 @@
       "cost": 300,
       "cpuCost": 2
     },
-	{
+    {
       "id": 79,
       "name": "1x3Airframe Flat",
       "health": 150,
@@ -295,7 +291,7 @@
       "cost": 300,
       "cpuCost": 3
     },
-	{
+    {
       "id": 78,
       "name": "1x5Airframe",
       "health": 400,
@@ -303,7 +299,7 @@
       "cost": 300,
       "cpuCost": 3
     },
-	{
+    {
       "id": 80,
       "name": "1x5Airframe Flat",
       "health": 275,
@@ -311,7 +307,7 @@
       "cost": 300,
       "cpuCost": 3
     },
-	  {
+    {
       "id": 22,
       "name": "1x6Airframe",
       "health": 500,
@@ -319,7 +315,7 @@
       "cost": 500,
       "cpuCost": 4
     },
-	  {
+    {
       "id": 23,
       "name": "3CurveAirframe",
       "health": 200,
@@ -327,7 +323,7 @@
       "cost": 350,
       "cpuCost": 3
     },
-	{
+    {
       "id": 24,
       "name": "5CurveAirframe",
       "health": 300,
@@ -343,7 +339,6 @@
       "cost": 725,
       "cpuCost": 5
     },
-
     {
       "id": 39,
       "name": "ElectroplateA_L",
@@ -399,8 +394,6 @@
       "cost": 700,
       "cpuCost": 22
     },
-
-
     {
       "id": 26,
       "name": "Sled",
@@ -412,7 +405,7 @@
     {
       "id": 73,
       "name": "RepulsorPad",
-      "health":1000,
+      "health": 1000,
       "mass": 35,
       "cost": 1000,
       "cpuCost": 10
@@ -425,8 +418,6 @@
       "cost": 1200,
       "cpuCost": 22
     },
-
-
     {
       "id": 14,
       "name": "BOT_MOV_WHEEL_MEDIUM",
@@ -467,8 +458,7 @@
       "cost": 350,
       "cpuCost": 8
     },
-
-	{
+    {
       "id": 74,
       "name": "TankLeft",
       "health": 5400,
@@ -476,7 +466,7 @@
       "cost": 3500,
       "cpuCost": 40
     },
-	{
+    {
       "id": 75,
       "name": "TankRight",
       "health": 5400,
@@ -484,7 +474,7 @@
       "cost": 3500,
       "cpuCost": 40
     },
-	{
+    {
       "id": 76,
       "name": "TankSymmetric",
       "health": 6000,
@@ -492,7 +482,6 @@
       "cost": 3500,
       "cpuCost": 35
     },
-
     {
       "id": 125,
       "name": "InsectSmall",
@@ -501,7 +490,7 @@
       "cost": 10000,
       "cpuCost": 22
     },
-	{
+    {
       "id": 126,
       "name": "LegInsectMedium",
       "health": 3000,
@@ -509,7 +498,7 @@
       "cost": 15000,
       "cpuCost": 38
     },
-	{
+    {
       "id": 127,
       "name": "LegInsectLarge",
       "health": 5000,
@@ -517,7 +506,6 @@
       "cost": 20000,
       "cpuCost": 44
     },
-
     {
       "id": 16,
       "name": "BOT_MOV_THRUST_LARGE",
@@ -525,16 +513,16 @@
       "mass": 100,
       "cost": 800,
       "cpuCost": 28,
-	  "thrust": 80000
+      "thrust": 80000
     },
-	{
+    {
       "id": 64,
       "name": "BOT_MOV_THRUST_Middle",
       "health": 900,
       "mass": 50,
       "cost": 600,
       "cpuCost": 18,
-	  "thrust": 40000
+      "thrust": 40000
     },
     {
       "id": 17,
@@ -543,9 +531,9 @@
       "mass": 25,
       "cost": 300,
       "cpuCost": 8,
-	  "thrust": 15000
+      "thrust": 15000
     },
-	{
+    {
       "id": 27,
       "name": "BOT_MOV_THRUST_TopSmall",
       "health": 300,
@@ -554,8 +542,7 @@
       "cpuCost": 8,
       "thrust": 15000
     },
-
-	{
+    {
       "id": 44,
       "name": "BOT_MOV_LTA_112",
       "health": 250,
@@ -622,8 +609,7 @@
       "spec2_buffduration": 2,
       "spec3_dampen": 85
     },
-
-	{
+    {
       "id": 140,
       "name": "BOT_MOV_WING_FLAT",
       "health": 1800,
@@ -635,7 +621,7 @@
       "spec2_stability": 10000,
       "spec3_drag": 1000
     },
-	{
+    {
       "id": 141,
       "name": "BOT_MOV_WING_SWEPT",
       "health": 2500,
@@ -647,7 +633,7 @@
       "spec2_stability": 40000,
       "spec3_drag": 3000
     },
-	{
+    {
       "id": 142,
       "name": "BOT_MOV_WING_DELTA",
       "health": 4000,
@@ -659,8 +645,7 @@
       "spec2_stability": 20000,
       "spec3_drag": 5000
     },
-
-	{
+    {
       "id": 143,
       "name": "BOT_MOV_RUDDER_FLAT",
       "health": 550,
@@ -672,7 +657,7 @@
       "spec2_stability": 40000,
       "spec3_drag": 800
     },
-	{
+    {
       "id": 144,
       "name": "BOT_MOV_RUDDER_SWEPT",
       "health": 750,
@@ -684,7 +669,7 @@
       "spec2_stability": 20000,
       "spec3_drag": 800
     },
-	{
+    {
       "id": 145,
       "name": "BOT_MOV_RUDDER_DELTA",
       "health": 750,
@@ -704,7 +689,7 @@
       "cost": 1400,
       "cpuCost": 24
     },
-	  {
+    {
       "id": 29,
       "name": "OLD_SweptWingRight",
       "health": 2500,
@@ -712,7 +697,7 @@
       "cost": 1400,
       "cpuCost": 24
     },
-	{
+    {
       "id": 68,
       "name": "OLD_FlatWingLeft",
       "health": 3000,
@@ -720,7 +705,7 @@
       "cost": 1700,
       "cpuCost": 26
     },
-	{
+    {
       "id": 69,
       "name": "OLD_FlatWingRight",
       "health": 3000,
@@ -728,7 +713,7 @@
       "cost": 1700,
       "cpuCost": 26
     },
-	{
+    {
       "id": 30,
       "name": "OLD_SweptRudder",
       "health": 1000,
@@ -736,7 +721,7 @@
       "cost": 1000,
       "cpuCost": 20
     },
-	  {
+    {
       "id": 70,
       "name": "OLD_LargeRudder",
       "health": 1500,
@@ -744,7 +729,7 @@
       "cost": 1300,
       "cpuCost": 22
     },
-	{
+    {
       "id": 123,
       "name": "OLD_Inactive Rudder",
       "health": 1000,
@@ -752,7 +737,7 @@
       "cost": 1000,
       "cpuCost": 18
     },
-	{
+    {
       "id": 124,
       "name": "OLD_Inactive Rudder Large",
       "health": 1500,
@@ -760,12 +745,6 @@
       "cost": 1300,
       "cpuCost": 20
     },
-
-
-
-
-
-
     {
       "id": 18,
       "name": "BOT_WEP_PRIM_ELECTROLASER",
@@ -777,7 +756,7 @@
       "spec0_falloffstart": 600,
       "spec1_falloffend": 900
     },
-	{
+    {
       "id": 31,
       "name": "BOT_WEP_PRIM_GAUSS",
       "health": 2700,
@@ -813,7 +792,7 @@
       "spec0_falloffstart": 600,
       "spec1_falloffend": 1200
     },
-	  {
+    {
       "id": 33,
       "name": "BOT_WEP_PRIM_FLUX",
       "health": 2200,
@@ -854,7 +833,7 @@
       "spec0_aoeRadius": 27,
       "spec1_aoeFalloff": 0
     },
-	{
+    {
       "id": 183,
       "name": "BOT_WEP_PRIM_SLAB_LAUNCHER",
       "health": 3000,
@@ -881,7 +860,6 @@
       "spec6_reloadDelay": 5,
       "spec7_chargesPerPart": 5
     },
-
     {
       "id": 34,
       "name": "BOT_WEP_SEC_MINELAYER",
@@ -896,7 +874,7 @@
       "spec3_reserveAmmo": 1,
       "spec4_reloadDelay": 20
     },
-	  {
+    {
       "id": 35,
       "name": "BOT_WEP_SEC_SHIELDPROJECTOR",
       "health": 3500,
@@ -904,7 +882,7 @@
       "cost": 2100,
       "cpuCost": 60
     },
-	  {
+    {
       "id": 36,
       "name": "BOT_WEP_SEC_MISSILEPOD",
       "health": 1000,
@@ -925,20 +903,20 @@
       "spec9_reserveAmmo": 1,
       "spec10_reloadDelay": 10
     },
-	  {
+    {
       "id": 37,
       "name": "BOT_WEP_SEC_SMOKE",
       "health": 1000,
       "mass": 25,
       "cost": 500,
       "cpuCost": 20,
-	  "rotationSpeed": 360,
-	  "functionHealth": 400,
+      "rotationSpeed": 360,
+      "functionHealth": 400,
       "spec0_magazineCap": 8,
       "spec1_reserveAmmo": 2,
       "spec2_reloadDelay": 5
     },
-	{
+    {
       "id": 38,
       "name": "BOT_WEP_SEC_CASCUTTER",
       "health": 1600,
@@ -949,7 +927,6 @@
       "spec0_reserveAmmo": 2,
       "spec1_reloadDelay": 5
     },
-
     {
       "id": 152,
       "name": "BOT_MOD_DASH",
@@ -1026,7 +1003,6 @@
       "spec3_activedrain": 4,
       "spec4_activationcost": 2,
       "spec5_refire": 30
-
     },
     {
       "id": 158,
@@ -1096,7 +1072,6 @@
       "cost": 1500,
       "cpuCost": 30
     },
-
     {
       "id": 58,
       "name": "BOT_COSM_CRAIG_OG",
@@ -1110,18 +1085,16 @@
       "name": "BOT_COSM_CRAIG_XMAS_2022",
       "health": 100,
       "mass": 1,
-	  "cost": 10000,
+      "cost": 10000,
       "cpuCost": 2
     },
-	{
+    {
       "id": 129,
       "name": "BOT_COSM_CRAIG_NEWYEARS_2022",
       "health": 100,
       "mass": 1,
       "cpuCost": 2
     },
-
-
     {
       "id": 52,
       "name": "BOT_COSM_LIGHT_FLAT",
@@ -1146,8 +1119,7 @@
       "cost": 50000,
       "cpuCost": 10
     },
-
-	{
+    {
       "id": 60,
       "name": "Vaportrail",
       "health": 5,
@@ -1155,7 +1127,7 @@
       "cost": 5000,
       "cpuCost": 4
     },
-	{
+    {
       "id": 63,
       "name": "Vent Cube",
       "health": 100,
@@ -1163,7 +1135,7 @@
       "cost": 2000,
       "cpuCost": 2
     },
-	{
+    {
       "id": 66,
       "name": "Diag Painted Normal Cube",
       "health": 100,
@@ -1179,7 +1151,7 @@
       "cost": 200,
       "cpuCost": 1
     },
-	  {
+    {
       "id": 71,
       "name": "CosmeticSmallAntenna",
       "health": 100,
@@ -1187,7 +1159,7 @@
       "cost": 1000,
       "cpuCost": 1
     },
-	  	  {
+    {
       "id": 130,
       "name": "CosmeticSmallSideAntenna",
       "health": 100,
@@ -1195,7 +1167,7 @@
       "cost": 1000,
       "cpuCost": 1
     },
-	  	  {
+    {
       "id": 131,
       "name": "CosmeticAntennaPH",
       "health": 100,
@@ -1203,7 +1175,7 @@
       "cost": 2000,
       "cpuCost": 1
     },
-	  	  {
+    {
       "id": 132,
       "name": "SpinningSiren",
       "health": 200,
@@ -1211,14 +1183,15 @@
       "cost": 5000,
       "cpuCost": 20
     },
-    	  	  {
+    {
       "id": 218,
       "name": "SpinningSirenOrange",
       "health": 200,
       "mass": 15,
       "cost": 5000,
       "cpuCost": 20
-    }, {
+    },
+    {
       "id": 219,
       "name": "Horn",
       "health": 50,
@@ -1226,7 +1199,7 @@
       "cost": 50000,
       "cpuCost": 5
     },
-	  {
+    {
       "id": 72,
       "name": "CosmeticLargeAntenna",
       "health": 100,
@@ -1234,7 +1207,7 @@
       "cost": 3000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 91,
       "name": "Cosmetic Servo Arm",
       "health": 100,
@@ -1258,7 +1231,7 @@
       "premiumCost": 25,
       "cpuCost": 4
     },
-	{
+    {
       "id": 104,
       "name": "Small Spike Cosmetic",
       "health": 10,
@@ -1266,7 +1239,7 @@
       "cost": 1000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 105,
       "name": "Large Spike Cosmetic",
       "health": 20,
@@ -1274,7 +1247,7 @@
       "cost": 1000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 106,
       "name": "Small Tailspike Cosmetic",
       "health": 50,
@@ -1282,7 +1255,7 @@
       "cost": 1000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 107,
       "name": "Large Tailspike Cosmetic",
       "health": 75,
@@ -1290,7 +1263,7 @@
       "cost": 1000,
       "cpuCost": 1
     },
-	  	{
+    {
       "id": 137,
       "name": "Small Nosecone Cosmetic",
       "health": 50,
@@ -1298,7 +1271,7 @@
       "cost": 1000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 138,
       "name": "Large Nosecone Cosmetic",
       "health": 75,
@@ -1306,41 +1279,38 @@
       "cost": 1000,
       "cpuCost": 1
     },
-
-	{
+    {
       "id": 133,
       "name": "Cosmetic MechHead",
       "health": 100,
       "mass": 15,
-	  "cost": 5000,
+      "cost": 5000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 134,
       "name": "Cosmetic Screw Greeble",
       "health": 1,
       "mass": 1,
-	  "cost": 250,
+      "cost": 250,
       "cpuCost": 1
     },
-
-	{
+    {
       "id": 135,
       "name": "Cosmetic Pan9k",
       "health": 50,
       "mass": 15,
-	  "cost": 5000,
+      "cost": 5000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 136,
       "name": "Cosmetic Pan9kA",
       "health": 50,
       "mass": 15,
-	  "cost": 5000,
+      "cost": 5000,
       "cpuCost": 1
     },
-
     {
       "id": 162,
       "name": "COSM_VENT_LONG",
@@ -1413,8 +1383,6 @@
       "cost": 3000,
       "cpuCost": 2
     },
-
-
     {
       "id": 65,
       "name": "1x2 Osprey Sticker",
@@ -1423,7 +1391,7 @@
       "cost": 500,
       "cpuCost": 1
     },
-	{
+    {
       "id": 108,
       "name": "2x2 Spacetek Sticker",
       "health": 1,
@@ -1431,7 +1399,7 @@
       "cost": 1000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 109,
       "name": "2x3 Hypox Sticker",
       "health": 1,
@@ -1439,7 +1407,7 @@
       "cost": 1000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 110,
       "name": "1x2 Osprey Bird Sticker",
       "health": 1,
@@ -1447,7 +1415,7 @@
       "cost": 1000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 111,
       "name": "2x2 Frontiermen Sticker",
       "health": 1,
@@ -1455,7 +1423,7 @@
       "cost": 1000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 112,
       "name": "2x3 RSRCO. Sticker",
       "health": 1,
@@ -1463,7 +1431,7 @@
       "cost": 1000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 113,
       "name": "1x2 Hazard Stripe Sticker",
       "health": 1,
@@ -1471,7 +1439,7 @@
       "cost": 1000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 114,
       "name": "1x3 Hazard Stripe Sticker",
       "health": 1,
@@ -1479,7 +1447,7 @@
       "cost": 1000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 115,
       "name": "2x2 Medic Sticker",
       "health": 1,
@@ -1487,7 +1455,7 @@
       "cost": 1000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 116,
       "name": "2x2 Vertec Sticker",
       "health": 1,
@@ -1495,7 +1463,7 @@
       "cost": 1000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 117,
       "name": "2x2 Nova Sticker",
       "health": 1,
@@ -1503,7 +1471,7 @@
       "cost": 1000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 118,
       "name": "2x2 Brawler Sticker",
       "health": 1,
@@ -1511,7 +1479,7 @@
       "cost": 1000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 119,
       "name": "Money Sticker",
       "health": 1,
@@ -1519,7 +1487,7 @@
       "cost": 100000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 120,
       "name": "Premium Money Sticker",
       "health": 1,
@@ -1527,7 +1495,7 @@
       "premiumCost": 100,
       "cpuCost": 1
     },
-	{
+    {
       "id": 121,
       "name": "1x2 Hazard Stripe Sticker Mirror",
       "health": 1,
@@ -1535,7 +1503,7 @@
       "cost": 1000,
       "cpuCost": 1
     },
-	{
+    {
       "id": 122,
       "name": "1x3 Hazard Stripe Sticker Mirror",
       "health": 1,
@@ -1543,7 +1511,7 @@
       "cost": 1000,
       "cpuCost": 1
     },
-	  	{
+    {
       "id": 146,
       "name": "1x2 Sticker PH",
       "health": 1,
@@ -1551,7 +1519,7 @@
       "cost": 2500,
       "cpuCost": 1
     },
-	{
+    {
       "id": 147,
       "name": "1x2 Sticker PH",
       "health": 1,
@@ -1559,7 +1527,7 @@
       "cost": 2500,
       "cpuCost": 1
     },
-	{
+    {
       "id": 148,
       "name": "2x2 Sticker PH",
       "health": 1,
@@ -1567,7 +1535,7 @@
       "cost": 2500,
       "cpuCost": 1
     },
-	{
+    {
       "id": 149,
       "name": "2x2 Sticker PH",
       "health": 1,
@@ -1575,7 +1543,7 @@
       "cost": 2500,
       "cpuCost": 1
     },
-	{
+    {
       "id": 150,
       "name": "2x3 Sticker PH",
       "health": 1,
@@ -1583,7 +1551,7 @@
       "cost": 2500,
       "cpuCost": 1
     },
-	{
+    {
       "id": 151,
       "name": "2x3 Sticker PH",
       "health": 1,
@@ -1591,8 +1559,7 @@
       "cost": 2500,
       "cpuCost": 1
     },
-
-	{
+    {
       "id": 196,
       "name": "1x1 StickerNumber 0",
       "health": 1,
@@ -1600,7 +1567,7 @@
       "cost": 500,
       "cpuCost": 1
     },
-	{
+    {
       "id": 197,
       "name": "1x1 StickerNumber 1",
       "health": 1,
@@ -1608,7 +1575,7 @@
       "cost": 500,
       "cpuCost": 1
     },
-	{
+    {
       "id": 198,
       "name": "1x1 StickerNumber 2",
       "health": 1,
@@ -1616,7 +1583,7 @@
       "cost": 500,
       "cpuCost": 1
     },
-	{
+    {
       "id": 199,
       "name": "1x1 StickerNumber 3",
       "health": 1,
@@ -1624,7 +1591,7 @@
       "cost": 500,
       "cpuCost": 1
     },
-	{
+    {
       "id": 200,
       "name": "1x1 StickerNumber 4",
       "health": 1,
@@ -1632,7 +1599,7 @@
       "cost": 500,
       "cpuCost": 1
     },
-	{
+    {
       "id": 201,
       "name": "1x1 StickerNumber 5",
       "health": 1,
@@ -1640,7 +1607,7 @@
       "cost": 500,
       "cpuCost": 1
     },
-	{
+    {
       "id": 202,
       "name": "1x1 StickerNumber 6",
       "health": 1,
@@ -1648,7 +1615,7 @@
       "cost": 500,
       "cpuCost": 1
     },
-	{
+    {
       "id": 203,
       "name": "1x1 StickerNumber 7",
       "health": 1,
@@ -1656,7 +1623,7 @@
       "cost": 500,
       "cpuCost": 1
     },
-	{
+    {
       "id": 204,
       "name": "1x1 StickerNumber 8",
       "health": 1,
@@ -1664,7 +1631,7 @@
       "cost": 500,
       "cpuCost": 1
     },
-	{
+    {
       "id": 205,
       "name": "1x1 StickerNumber 9",
       "health": 1,
@@ -1672,8 +1639,7 @@
       "cost": 500,
       "cpuCost": 1
     },
-
-		{
+    {
       "id": 206,
       "name": "1x1 StickerNumber 0_M",
       "health": 1,
@@ -1681,7 +1647,7 @@
       "cost": 200,
       "cpuCost": 1
     },
-	{
+    {
       "id": 207,
       "name": "1x1 StickerNumber 1_M",
       "health": 1,
@@ -1689,7 +1655,7 @@
       "cost": 200,
       "cpuCost": 1
     },
-	{
+    {
       "id": 208,
       "name": "1x1 StickerNumber 2_M",
       "health": 1,
@@ -1697,7 +1663,7 @@
       "cost": 200,
       "cpuCost": 1
     },
-	{
+    {
       "id": 209,
       "name": "1x1 StickerNumber 3_M",
       "health": 1,
@@ -1705,7 +1671,7 @@
       "cost": 200,
       "cpuCost": 1
     },
-	{
+    {
       "id": 210,
       "name": "1x1 StickerNumber 4_M",
       "health": 1,
@@ -1713,7 +1679,7 @@
       "cost": 200,
       "cpuCost": 1
     },
-	{
+    {
       "id": 211,
       "name": "1x1 StickerNumber 5_M",
       "health": 1,
@@ -1721,7 +1687,7 @@
       "cost": 200,
       "cpuCost": 1
     },
-	{
+    {
       "id": 212,
       "name": "1x1 StickerNumber 6_M",
       "health": 1,
@@ -1729,7 +1695,7 @@
       "cost": 200,
       "cpuCost": 1
     },
-	{
+    {
       "id": 213,
       "name": "1x1 StickerNumber 7_M",
       "health": 1,
@@ -1737,7 +1703,7 @@
       "cost": 200,
       "cpuCost": 1
     },
-	{
+    {
       "id": 214,
       "name": "1x1 StickerNumber 8_M",
       "health": 1,
@@ -1745,7 +1711,7 @@
       "cost": 200,
       "cpuCost": 1
     },
-	{
+    {
       "id": 215,
       "name": "1x1 StickerNumber 9_M",
       "health": 1,
@@ -1775,7 +1741,7 @@
       "name": "FLUX ATTACK",
       "damage": 170
     },
-	{
+    {
       "id": 11,
       "name": "FLUX HEAL",
       "damage": 210
@@ -1800,45 +1766,45 @@
       "name": "RIVET PROJECTILE",
       "damage": 1250
     },
-	{
+    {
       "id": 9,
       "name": "MWV",
       "damage": 1000
     },
-	{
+    {
       "id": 10,
       "name": "AUTOCANNON PROJECTILE",
       "damage": 180
     },
-	{
+    {
       "id": 12,
       "name": "INSTAKILL",
       "damage": 999999999
     },
-	{
+    {
       "id": 13,
       "name": "MISSILE SALVO PROJECTILE",
       "damage": 1200
     },
-	{
+    {
       "id": 14,
       "name": "SMOKE PROJECTILE",
       "damage": 100
     },
-	{
+    {
       "id": 15,
       "name": "SLAB PROJECTILE",
       "damage": 8000
     },
     {
-        "id": 16,
-        "name": "TRACE PROJECTILE",
-        "damage": 1400
+      "id": 16,
+      "name": "TRACE PROJECTILE",
+      "damage": 1400
     },
     {
-        "id": 17,
-        "name": "SHOCKWAVE PROJECTILE",
-        "damage": 1000
+      "id": 17,
+      "name": "SHOCKWAVE PROJECTILE",
+      "damage": 1000
     }
   ],
   "cosmetics": [
@@ -1849,15 +1815,13 @@
       "cosmeticPremiumCost": 0,
       "config": []
     },
-	{
+    {
       "id": 2100,
       "name": "DEV CRYSTAL",
       "cosmeticCost": 20000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-
-
     {
       "id": 1,
       "name": "EP Red",
@@ -1879,106 +1843,97 @@
       "cosmeticPremiumCost": 0,
       "config": []
     },
-  	{
+    {
       "id": 4,
       "name": "EP Orange",
       "cosmeticCost": 5000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-  	{
+    {
       "id": 5,
       "name": "EP Purple",
       "cosmeticCost": 5000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-	{
+    {
       "id": 16,
       "name": "EP Blue",
       "cosmeticCost": 5000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-	{
+    {
       "id": 7,
       "name": "EP White",
       "cosmeticCost": 10000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-
-
-
-  	{
+    {
       "id": 6,
       "name": "EP Bee",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 10,
       "config": []
     },
-	{
+    {
       "id": 8,
       "name": "EP Black",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 20,
       "config": []
     },
-	{
+    {
       "id": 9,
       "name": "EP Rainbow",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 40,
       "config": []
     },
-	{
+    {
       "id": 10,
       "name": "EP Ice",
       "cosmeticCost": 10000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-	{
+    {
       "id": 11,
       "name": "EP Military",
       "cosmeticCost": 10000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-	{
+    {
       "id": 12,
       "name": "EP Dark Red",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 10,
       "config": []
     },
-	{
+    {
       "id": 13,
       "name": "EP Purple Pulse",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 10,
       "config": []
     },
-	{
+    {
       "id": 14,
       "name": "EP Thunder",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 30,
       "config": []
     },
-	{
+    {
       "id": 15,
       "name": "EP Earth",
       "cosmeticCost": 10000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-
-
-
-
-
-
     {
       "id": 1000,
       "name": "Thruster Cryo",
@@ -1986,142 +1941,140 @@
       "cosmeticPremiumCost": 0,
       "config": []
     },
-	  {
+    {
       "id": 1001,
       "name": "ThrusterMusic",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 5,
       "config": []
     },
-  	{
+    {
       "id": 1002,
       "name": "ThrusterNova",
       "cosmeticCost": 3000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-  	{
+    {
       "id": 1003,
       "name": "ThrusterGlow",
       "cosmeticCost": 4000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-  	{
+    {
       "id": 1004,
       "name": "ThrusterJacked",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 5,
       "config": []
     },
-	{
+    {
       "id": 1005,
       "name": "ThrusterGreen",
       "cosmeticCost": 3000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-	{
+    {
       "id": 1006,
       "name": "ThrusterRings",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 5,
       "config": []
     },
-	{
+    {
       "id": 1007,
       "name": "ThrusterClassic",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 5,
       "config": []
     },
-	  {
+    {
       "id": 1008,
       "name": "ThrusterHexGlow",
       "cosmeticCost": 5000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-	  {
+    {
       "id": 1009,
       "name": "ThrusterWireframe",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 10,
       "config": []
     },
-	{
+    {
       "id": 1010,
       "name": "ThrusterSpiral",
       "cosmeticCost": 5000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-	{
+    {
       "id": 1011,
       "name": "ThrusterPurple",
       "cosmeticCost": 3000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-	  {
+    {
       "id": 1012,
       "name": "ThrusterPH3",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 5,
       "config": []
     },
-	  {
+    {
       "id": 1013,
       "name": "ThrusterPH4",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 5,
       "config": []
     },
-	  	  {
+    {
       "id": 1014,
       "name": "ThrusterPH5",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 5,
       "config": []
     },
-	  	  	  {
+    {
       "id": 1015,
       "name": "ThrusterPH6",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 5,
       "config": []
     },
-
-
-	{
+    {
       "id": 2000,
       "name": "EP Pattern 1 Cube",
       "cosmeticCost": 5000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-	{
+    {
       "id": 2001,
       "name": "EP Pattern 2 Triangle 1",
       "cosmeticCost": 4000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-	{
+    {
       "id": 2002,
       "name": "EP Pattern 3 Triangle 2",
       "cosmeticCost": 4000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-	{
+    {
       "id": 2003,
       "name": "EP Pattern 4 Triangle 3",
       "cosmeticCost": 4000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-	{
+    {
       "id": 2004,
       "name": "EP Pattern 5 Carbon Fiber",
       "cosmeticCost": 0,
@@ -2135,124 +2088,135 @@
       "cosmeticPremiumCost": 5,
       "config": []
     },
-	{
+    {
       "id": 2010,
       "name": "EP Pattern 7 Low Poly",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 5,
       "config": []
     },
-	{
+    {
       "id": 2011,
       "name": "EP Pattern 8 Hazard Stripe",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 5,
       "config": []
     },
-	{
+    {
       "id": 2012,
       "name": "EP Pattern 9 Square",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 5,
       "config": []
     },
-
-
-	{
+    {
       "id": 2006,
       "name": "EP Pattern Halloween 1 2022",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-	{
+    {
       "id": 2007,
       "name": "EP Pattern Halloween 2 2022",
       "cosmeticCost": 10000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-	{
+    {
       "id": 2008,
       "name": "EP Pattern Xmas 1 2022",
       "cosmeticCost": 10000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-	{
+    {
       "id": 2009,
       "name": "EP Pattern Xmas 2 2022",
       "cosmeticCost": 10000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-
-	{
+    {
       "id": 3000,
       "name": "Rivet Rifle Camo Skin",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 5,
       "config": []
     },
-	{
+    {
       "id": 3001,
       "name": "ELC Camo Skin ?",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 5,
       "config": []
     },
-	{
+    {
       "id": 3002,
       "name": "Nova Cannon Skin",
       "cosmeticCost": 1000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-	{
+    {
       "id": 3003,
       "name": "Gauss Camo Skin",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 5,
       "config": []
     },
-	{
+    {
       "id": 3004,
       "name": "Nano Skin",
       "cosmeticCost": 5000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-	{
+    {
       "id": 3005,
       "name": "Weapon Skin Gold Gauss",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 100,
       "config": []
     },
-	{
+    {
       "id": 3006,
       "name": "Weapon Skin Carbon Gauss",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 25,
       "config": []
     },
-	{
+    {
       "id": 3007,
       "name": "Weapon Skin Placeholder",
       "cosmeticCost": 0,
       "cosmeticPremiumCost": 50,
       "config": []
     },
-	  	{
+    {
       "id": 4000,
       "name": "Camo Wing",
       "cosmeticCost": 10000,
       "cosmeticPremiumCost": 0,
       "config": []
     },
-	  	{
+    {
       "id": 4001,
       "name": "Fed Wing",
+      "cosmeticCost": 10000,
+      "cosmeticPremiumCost": 0,
+      "config": []
+    },
+    {
+      "id": 5000,
+      "name": "DevHornTrain",
+      "cosmeticCost": 10000,
+      "cosmeticPremiumCost": 0,
+      "config": []
+    },
+    {
+      "id": 5001,
+      "name": "DevHornMariachi",
       "cosmeticCost": 10000,
       "cosmeticPremiumCost": 0,
       "config": []
