@@ -2206,6 +2206,20 @@
       "cosmeticCost": 10000,
       "cosmeticPremiumCost": 0,
       "config": []
+    },
+    {
+      "id": 5000,
+      "name": "DevHornTrain",
+      "cosmeticCost": 10000,
+      "cosmeticPremiumCost": 0,
+      "config": []
+    },
+    {
+      "id": 5001,
+      "name": "DevHornMariachi",
+      "cosmeticCost": 10000,
+      "cosmeticPremiumCost": 0,
+      "config": []
     }
   ]
 }
