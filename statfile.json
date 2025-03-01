@@ -1102,7 +1102,7 @@
       "health": 800,
       "mass": 10,
       "cost": 1000,
-      "cpuCost": 10
+      "cpuCost": 6
     },
     {
       "id": 53,
@@ -1182,7 +1182,7 @@
       "health": 200,
       "mass": 15,
       "cost": 5000,
-      "cpuCost": 20
+      "cpuCost": 12
     },
     {
       "id": 218,
@@ -1190,7 +1190,7 @@
       "health": 200,
       "mass": 15,
       "cost": 5000,
-      "cpuCost": 20
+      "cpuCost": 12
     },
     {
       "id": 219,
