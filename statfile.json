@@ -853,7 +853,7 @@
       "rotationSpeed": 1080,
       "functionHealth": 2000,
       "spec0_bloomFactor": 20,
-      "spec1_lockon": 1,
+      "spec1_firingCooldown": 10,
       "spec2_falloffstart": 600,
       "spec3_falloffend": 600,
       "spec4_magazineCap": 4,
