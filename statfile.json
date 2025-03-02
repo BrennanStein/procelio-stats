@@ -853,13 +853,13 @@
       "rotationSpeed": 1080,
       "functionHealth": 2000,
       "spec0_bloomFactor": 20,
-      "spec1_firingCooldown": 10,
+      "spec1_firingCooldown": 5,
       "spec2_falloffstart": 600,
       "spec3_falloffend": 600,
       "spec4_magazineCap": 4,
       "spec5_reserveAmmo": 2,
       "spec6_reloadDelay": 5,
-      "spec7_chargesPerPart": 5
+      "spec7_chargesPerPart": 10
     },
     {
       "id": 34,
@@ -1012,7 +1012,7 @@
       "mass": 750,
       "cost": 10000,
       "cpuCost": 70,
-      "spec0_restockpersecond": 125,
+      "spec0_restockpersecond": 175,
       "spec1_nominacount": 3
     },
     {
@@ -1043,7 +1043,7 @@
       "id": 216,
       "name": "BOT_MOD_AMMOBOX_SMALL",
       "health": 600,
-      "mass": 75,
+      "mass": 50,
       "cost": 2500,
       "cpuCost": 20,
       "functionHealth": 6000
@@ -1052,10 +1052,10 @@
       "id": 217,
       "name": "BOT_MOD_AMMOBOX_LARGE",
       "health": 1800,
-      "mass": 375,
+      "mass": 250,
       "cost": 5000,
       "cpuCost": 50,
-      "functionHealth": 15000
+      "functionHealth": 20000
     },
     {
       "id": 50,
