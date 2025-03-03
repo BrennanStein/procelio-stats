@@ -928,6 +928,21 @@
       "spec0_reserveAmmo": 2,
       "spec1_reloadDelay": 5
     },
+        {
+      "id": 184,
+      "name": "BOT_WEP_SEC_PH1",
+      "health": 1500,
+      "mass": 50,
+      "cost": 5000,
+      "cpuCost": 50,
+      "functionHealth": 2000,
+      "spec0_aoeRadius": 50,
+      "spec1_aoeFalloff": 50,
+      "spec2_magazineCap": 2,
+      "spec3_reserveAmmo": 1,
+      "spec4_reloadDelay": 10
+    },
+
     {
       "id": 152,
       "name": "BOT_MOD_DASH",
