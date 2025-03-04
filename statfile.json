@@ -1821,7 +1821,13 @@
       "id": 17,
       "name": "SHOCKWAVE PROJECTILE",
       "damage": 1000
+    },
+    {
+      "id": 18,
+      "name": "BOT_WEP_SEC_PH1 PROJECTILE",
+      "damage": 6000
     }
+
   ],
   "cosmetics": [
     {
