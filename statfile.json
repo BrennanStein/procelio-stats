@@ -938,7 +938,7 @@
       "functionHealth": 2000,
       "spec0_aoeRadius": 50,
       "spec1_aoeFalloff": 50,
-      "spec2_magazineCap": 2,
+      "spec2_magazineCap": 4,
       "spec3_reserveAmmo": 1,
       "spec4_reloadDelay": 10
     },
@@ -1825,7 +1825,7 @@
     {
       "id": 18,
       "name": "BOT_WEP_SEC_PH1 PROJECTILE",
-      "damage": 6000
+      "damage": 3000
     }
 
   ],
