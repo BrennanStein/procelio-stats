@@ -461,7 +461,7 @@
     {
       "id": 74,
       "name": "TankLeft",
-      "health": 5400,
+      "health": 5000,
       "mass": 5000,
       "cost": 3500,
       "cpuCost": 40
@@ -469,7 +469,7 @@
     {
       "id": 75,
       "name": "TankRight",
-      "health": 5400,
+      "health": 4800,
       "mass": 5000,
       "cost": 3500,
       "cpuCost": 40
@@ -477,10 +477,10 @@
     {
       "id": 76,
       "name": "TankSymmetric",
-      "health": 6000,
-      "mass": 4500,
+      "health": 4800,
+      "mass": 5000,
       "cost": 3500,
-      "cpuCost": 35
+      "cpuCost": 40
     },
     {
       "id": 125,
@@ -963,8 +963,8 @@
       "cost": 10000,
       "cpuCost": 30,
       "spec0_cooldown": 25,
-      "spec1_refire": 1,
-      "spec2_buffduration": 3,
+      "spec1_refire": 4,
+      "spec2_buffduration": 1,
       "spec3_cloudduration": 15
     },
     {
