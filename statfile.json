@@ -461,7 +461,7 @@
     {
       "id": 74,
       "name": "TankLeft",
-      "health": 5000,
+      "health": 4800,
       "mass": 5000,
       "cost": 3500,
       "cpuCost": 40
