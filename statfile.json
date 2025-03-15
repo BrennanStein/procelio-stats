@@ -868,12 +868,12 @@
       "mass": 30,
       "cost": 1000,
       "cpuCost": 40,
-      "functionHealth": 700,
+      "functionHealth": 1000,
       "spec0_aoeRadius": 50,
       "spec1_aoeFalloff": 50,
       "spec2_magazineCap": 8,
       "spec3_reserveAmmo": 1,
-      "spec4_reloadDelay": 20
+      "spec4_reloadDelay": 15
     },
     {
       "id": 35,
@@ -890,7 +890,6 @@
       "mass": 30,
       "cost": 1500,
       "cpuCost": 50,
-      "rotationSpeed": 300,
       "functionHealth": 1000,
       "spec0_projLifetime": 250,
       "spec1_projSpeed": 160,
@@ -912,7 +911,7 @@
       "cost": 500,
       "cpuCost": 20,
       "rotationSpeed": 360,
-      "functionHealth": 400,
+      "functionHealth": 500,
       "spec0_magazineCap": 8,
       "spec1_reserveAmmo": 2,
       "spec2_reloadDelay": 5
