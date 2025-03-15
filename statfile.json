@@ -962,7 +962,7 @@
       "cost": 10000,
       "cpuCost": 30,
       "spec0_cooldown": 25,
-      "spec1_refire": 4,
+      "spec1_refire": 40,
       "spec2_buffduration": 1,
       "spec3_cloudduration": 15
     },
