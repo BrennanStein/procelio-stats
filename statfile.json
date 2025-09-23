@@ -844,6 +844,20 @@
       "rotationSpeed": 90
     },
     {
+      "id": 185,
+      "name": "BOT_WEP_PROTO",
+      "health": 2700,
+      "mass": 125,
+      "cost": 2500,
+      "cpuCost": 50,
+      "rotationSpeed": 120,
+      "spec0_bloomRate": 5,
+      "spec1_bloomRecovery": 2,
+      "spec2_gaussRotGate": 90,
+      "spec3_gaussVelGate": 80,
+      "spec4_bloomFactor": 100
+    },
+    {
       "id": 57,
       "name": "BOT_WEP_SEC_AUTOCANNON",
       "health": 1400,
