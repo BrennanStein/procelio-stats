@@ -858,6 +858,20 @@
       "spec4_bloomFactor": 100
     },
     {
+      "id": 187,
+      "name": "BOT_WEP_PROTO_2",
+      "health": 2200,
+      "mass": 50,
+      "cost": 1000,
+      "cpuCost": 40,
+      "rotationSpeed": 360,
+      "spec0_bloomRate": 5,
+      "spec1_bloomRecovery": 2,
+      "spec2_gaussRotGate": 90,
+      "spec3_gaussVelGate": 80,
+      "spec4_bloomFactor": 100
+    },
+    {
       "id": 57,
       "name": "BOT_WEP_SEC_AUTOCANNON",
       "health": 1400,
@@ -1860,7 +1874,17 @@
     {
       "id": 20,
       "name": "BOT_WEP_SEC_PH2 PROJECTILE",
-      "damage": 600
+      "damage": 2500
+    },
+    {
+      "id": 21,
+      "name": "BOT_WEP_PROTO_2 PROJECTILE",
+      "damage": 2000 
+    },
+        {
+      "id": 22,
+      "name": "BOT_WEP_PROTO_2 PROJECTILE HEAL",
+      "damage": 3000
     }
 
   ],
