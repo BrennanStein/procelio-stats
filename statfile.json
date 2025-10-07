@@ -831,8 +831,15 @@
       "cost": 1500,
       "cpuCost": 40,
       "rotationSpeed": 270,
-      "spec0_aoeRadius": 27,
-      "spec1_aoeFalloff": 0
+      "spec0_aoeRadius": 25,
+      "spec1_aoeFalloff": 0,
+      "spec2_projLifetime": 250,
+      "spec3_projSpeed": 160,
+      "spec4_projAccel": 160,
+      "spec5_MSL_TopSpeed": 800,
+      "spec6_MSL_P2Duration": 2,
+      "spec7_MSL_P2Tracking": 180,
+      "spec8_MSL_P3Tracking": 120,
     },
     {
       "id": 183,
@@ -1854,7 +1861,7 @@
     {
       "id": 16,
       "name": "TRACE PROJECTILE",
-      "damage": 1400
+      "damage": 1600
     },
     {
       "id": 17,
