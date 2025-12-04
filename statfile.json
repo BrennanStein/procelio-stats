@@ -445,10 +445,12 @@
     {
       "id": 172,
       "name": "BOT_MOV_PH2",
-      "health": 800,
-      "mass": 440,
-      "cost": 350,
-      "cpuCost": 8
+      "health": 2000,
+      "mass": 100,
+      "cost": 1,
+      "cpuCost": 100,
+      "thrust": 120000,
+      "spec0_vthrust": 5000
     },
     {
       "id": 173,
