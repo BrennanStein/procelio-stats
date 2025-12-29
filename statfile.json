@@ -1998,7 +1998,7 @@
     {
       "id": 10,
       "name": "EP Ice",
-      "cosmeticCost": 10000,
+      "cosmeticCost": 0,
       "cosmeticPremiumCost": 10,
       "cosmCmplx": 2,
       "config": []
