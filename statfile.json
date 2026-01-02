@@ -1578,10 +1578,10 @@
     },
     {
       "id": 146,
-      "name": "1x2 Sticker PH",
+      "name": "2x2 Alpha Lousy Sticker",
       "health": 1,
       "mass": 1,
-      "cost": 2500,
+      "cost": 0,
       "cosmCmplx": 1
     },
     {
