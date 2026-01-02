@@ -1586,10 +1586,10 @@
     },
     {
       "id": 147,
-      "name": "1x2 Sticker PH",
+      "name": "1x3 Alpha Sticker,
       "health": 1,
       "mass": 1,
-      "cost": 2500,
+      "cost": 0,
       "cosmCmplx": 1
     },
     {
