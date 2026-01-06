@@ -444,21 +444,13 @@
     },
     {
       "id": 172,
-      "name": "BOT_MOV_PH2",
-      "health": 2000,
+      "name": "BOT_MOV_TURBOFAN",
+      "health": 3600,
       "mass": 100,
       "cost": 0,
       "cpuCost": 100,
-      "thrust": 120000,
-      "spec0_vthrust": 5000
-    },
-    {
-      "id": 173,
-      "name": "BOT_MOV_PH3",
-      "health": 800,
-      "mass": 440,
-      "cost": 0,
-      "cpuCost": 8
+      "thrust": 150000,
+      "spec0_vthrust": 10000
     },
     {
       "id": 74,
@@ -682,6 +674,39 @@
       "spec1_lift": 400,
       "spec2_stability": 20000,
       "spec3_drag": 800
+    },
+    {
+      "id": 173,
+      "name": "BOT_MOV_PH1",
+      "health": 2000,
+      "mass": 50,
+      "cost": 0,
+      "cpuCost": 30,
+      "lift": 5000,
+      "spec0_minlift": 500,
+      "spec1_ctrlspeed": 2500
+    },
+        {
+      "id": 174,
+      "name": "BOT_MOV_PH2",
+      "health": 4000,
+      "mass": 85,
+      "cost": 0,
+      "cpuCost": 60,
+      "lift": 20000,
+      "spec0_minlift": 1000,
+      "spec1_ctrlspeed": 5000
+    },
+        {
+      "id": 175,
+      "name": "BOT_MOV_PH3",
+      "health": 1500,
+      "mass": 30,
+      "cost": 0,
+      "cpuCost": 20,
+      "lift": 2000,
+      "spec0_minlift": 0,
+      "spec1_ctrlspeed": 1000
     },
     {
       "id": 28,
