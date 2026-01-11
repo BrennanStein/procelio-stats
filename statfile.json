@@ -991,7 +991,7 @@
     },
     {
       "id": 184,
-      "name": "BOT_WEP_SEC_PH1",
+      "name": "BOT_WEP_SEC_PH_BOMB",
       "health": 1500,
       "mass": 50,
       "cost": 0,
@@ -1005,7 +1005,7 @@
     },
     {
       "id": 186,
-      "name": "BOT_WEP_SEC_PH2",
+      "name": "BOT_WEP_SEC_PH_TRIP",
       "health": 1500,
       "mass": 50,
       "cost": 0,
@@ -1015,7 +1015,23 @@
       "spec1_reserveAmmo": 1,
       "spec2_reloadDelay": 15
     },
-
+    {
+      "id": 188,
+      "name": "BOT_WEP_SEC_ROCKETPOD",
+      "health": 1000,
+      "mass": 30,
+      "cost": 0,
+      "cpuCost": 50,
+      "functionHealth": 500,
+      "spec0_projLifetime": 20,
+      "spec1_projSpeed": 200,
+      "spec2_projAccel": 200,
+      "spec3_projTopSpeed": 1200,
+      "spec4_burnDuration": 40,
+      "spec8_magazineCap": 12,
+      "spec9_reserveAmmo": 3,
+      "spec10_reloadDelay": 10
+    },
     {
       "id": 152,
       "name": "BOT_MOD_DASH",
