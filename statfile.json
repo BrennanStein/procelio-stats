@@ -1914,7 +1914,7 @@
     },
     {
       "id": 18,
-      "name": "BOT_WEP_SEC_PH1 PROJECTILE",
+      "name": "BOMB PROJECTILE",
       "damage": 3000
     },
         {
@@ -1924,18 +1924,23 @@
     },
     {
       "id": 20,
-      "name": "BOT_WEP_SEC_PH2 PROJECTILE",
+      "name": "TRIP PROJECTILE",
       "damage": 2500
     },
     {
       "id": 21,
-      "name": "BOT_WEP_PROTO_2 PROJECTILE",
+      "name": "FLUX VARIANT PROJECTILE",
       "damage": 2000 
     },
         {
       "id": 22,
-      "name": "BOT_WEP_PROTO_2 PROJECTILE HEAL",
+      "name": "FLUX VARIANT PROJECTILE HEAL",
       "damage": 3000
+    },
+        {
+      "id": 23,
+      "name": "ROCKET PROJECTILE",
+      "damage": 15000
     }
 
   ],
