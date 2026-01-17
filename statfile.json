@@ -2391,6 +2391,30 @@
       "config": []
     },
     {
+      "id": 3008,
+      "name": "Primary Weapon Skin Supporter",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 0,
+      "cosmCmplx": 1,
+      "config": []
+    },
+    {
+      "id": 3009,
+      "name": "Secondary Weapon Skin Supporter",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 0,
+      "cosmCmplx": 1,
+      "config": []
+    },
+    {
+      "id": 3051,
+      "name": "Module Skin Supporter",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 0,
+      "cosmCmplx": 1,
+      "config": []
+    },
+    {
       "id": 4000,
       "name": "Camo Wing",
       "cosmeticCost": 10000,
@@ -2402,6 +2426,14 @@
       "id": 4001,
       "name": "Fed Wing",
       "cosmeticCost": 10000,
+      "cosmeticPremiumCost": 0,
+      "cosmCmplx": 1,
+      "config": []
+    },
+        {
+      "id": 4002,
+      "name": "Supporter Wing",
+      "cosmeticCost": 0,
       "cosmeticPremiumCost": 0,
       "cosmCmplx": 1,
       "config": []
