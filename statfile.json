@@ -682,8 +682,9 @@
       "mass": 50,
       "cost": 0,
       "cpuCost": 30,
-      "lift": 5000,
-      "spec0_minlift": 500,
+      "lift": 4000,
+      "thrust": 60000,
+      "spec0_minlift": 100,
       "spec1_ctrlspeed": 2500
     },
         {
@@ -693,8 +694,9 @@
       "mass": 85,
       "cost": 0,
       "cpuCost": 60,
-      "lift": 20000,
-      "spec0_minlift": 1000,
+      "lift": 12000,
+      "thrust": 90000,
+      "spec0_minlift": 100,
       "spec1_ctrlspeed": 5000
     },
         {
@@ -704,7 +706,8 @@
       "mass": 30,
       "cost": 0,
       "cpuCost": 20,
-      "lift": 2000,
+      "lift": 1000,
+      "thrust": 30000,
       "spec0_minlift": 0,
       "spec1_ctrlspeed": 1000
     },
