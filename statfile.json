@@ -778,7 +778,7 @@
     {
       "id": 18,
       "name": "BOT_WEP_PRIM_ELECTROLASER",
-      "health": 2200,
+      "health": 1100,
       "mass": 80,
       "cost": 0,
       "cpuCost": 45,
@@ -789,11 +789,11 @@
     {
       "id": 31,
       "name": "BOT_WEP_PRIM_GAUSS",
-      "health": 2700,
+      "health": 1400,
       "mass": 125,
       "cost": 0,
       "cpuCost": 50,
-      "rotationSpeed": 120,
+      "rotationSpeed": 180,
       "spec0_bloomRate": 5,
       "spec1_bloomRecovery": 2,
       "spec2_gaussRotGate": 90,
@@ -803,7 +803,7 @@
     {
       "id": 32,
       "name": "BOT_WEP_PRIM_NOVA",
-      "health": 2200,
+      "health": 1100,
       "mass": 80,
       "cost": 0,
       "cpuCost": 45,
@@ -814,7 +814,7 @@
     {
       "id": 55,
       "name": "BOT_WEP_PRIM_RIVETRIFLE",
-      "health": 2200,
+      "health": 1100,
       "mass": 70,
       "cost": 0,
       "cpuCost": 45,
@@ -825,7 +825,7 @@
     {
       "id": 33,
       "name": "BOT_WEP_PRIM_FLUX",
-      "health": 2200,
+      "health": 1100,
       "mass": 50,
       "cost": 0,
       "cpuCost": 40,
@@ -911,7 +911,7 @@
     {
       "id": 57,
       "name": "BOT_WEP_SEC_AUTOCANNON",
-      "health": 1400,
+      "health": 500,
       "mass": 75,
       "cost": 0,
       "cpuCost": 70,
@@ -929,7 +929,7 @@
     {
       "id": 34,
       "name": "BOT_WEP_SEC_MINELAYER",
-      "health": 1500,
+      "health": 750,
       "mass": 30,
       "cost": 0,
       "cpuCost": 40,
@@ -951,18 +951,18 @@
     {
       "id": 36,
       "name": "BOT_WEP_SEC_MISSILEPOD",
-      "health": 1000,
+      "health": 500,
       "mass": 30,
       "cost": 0,
       "cpuCost": 50,
       "functionHealth": 1000,
-      "spec0_projLifetime": 250,
+      "spec0_projLifetime": 140,
       "spec1_projSpeed": 160,
-      "spec2_projAccel": 150,
+      "spec2_projAccel": 250,
       "spec3_MSL_TopSpeed": 1000,
       "spec4_MSL_P2Duration": 12,
       "spec5_MSL_P2Tracking": 130,
-      "spec6_MSL_P3Tracking": 100,
+      "spec6_MSL_P3Tracking": 110,
       "spec7_MSL_GroundTracking": 60,
       "spec8_magazineCap": 6,
       "spec9_reserveAmmo": 1,
@@ -971,7 +971,7 @@
     {
       "id": 37,
       "name": "BOT_WEP_SEC_SMOKE",
-      "health": 1000,
+      "health": 500,
       "mass": 25,
       "cost": 0,
       "cpuCost": 20,
@@ -984,7 +984,7 @@
     {
       "id": 38,
       "name": "BOT_WEP_SEC_CASCUTTER",
-      "health": 1600,
+      "health": 750,
       "mass": 40,
       "cost": 0,
       "cpuCost": 35,
@@ -995,7 +995,7 @@
     {
       "id": 184,
       "name": "BOT_WEP_SEC_PH_BOMB",
-      "health": 1500,
+      "health": 750,
       "mass": 50,
       "cost": 0,
       "cpuCost": 50,
@@ -1009,7 +1009,7 @@
     {
       "id": 186,
       "name": "BOT_WEP_SEC_PH_TRIP",
-      "health": 1500,
+      "health": 750,
       "mass": 50,
       "cost": 0,
       "cpuCost": 40,
@@ -1021,7 +1021,7 @@
     {
       "id": 188,
       "name": "BOT_WEP_SEC_ROCKETPOD",
-      "health": 1000,
+      "health": 500,
       "mass": 30,
       "cost": 0,
       "cpuCost": 50,
@@ -1849,7 +1849,7 @@
     {
       "id": 3,
       "name": "GAUSS PROJECTILE",
-      "damage": 4100
+      "damage": 4500
     },
     {
       "id": 4,
@@ -1899,7 +1899,7 @@
     {
       "id": 13,
       "name": "MISSILE SALVO PROJECTILE",
-      "damage": 1200
+      "damage": 1000
     },
     {
       "id": 14,
