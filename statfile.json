@@ -929,7 +929,7 @@
     {
       "id": 34,
       "name": "BOT_WEP_SEC_MINELAYER",
-      "health": 750,
+      "health": 1000,
       "mass": 30,
       "cost": 0,
       "cpuCost": 40,
@@ -943,7 +943,7 @@
     {
       "id": 35,
       "name": "BOT_WEP_SEC_SHIELDPROJECTOR",
-      "health": 3500,
+      "health": 1000,
       "mass": 70,
       "cost": 0,
       "cpuCost": 60
@@ -951,7 +951,7 @@
     {
       "id": 36,
       "name": "BOT_WEP_SEC_MISSILEPOD",
-      "health": 500,
+      "health": 1000,
       "mass": 30,
       "cost": 0,
       "cpuCost": 50,
@@ -971,7 +971,7 @@
     {
       "id": 37,
       "name": "BOT_WEP_SEC_SMOKE",
-      "health": 500,
+      "health": 1000,
       "mass": 25,
       "cost": 0,
       "cpuCost": 20,
@@ -984,7 +984,7 @@
     {
       "id": 38,
       "name": "BOT_WEP_SEC_CASCUTTER",
-      "health": 750,
+      "health": 1000,
       "mass": 40,
       "cost": 0,
       "cpuCost": 35,
@@ -995,7 +995,7 @@
     {
       "id": 184,
       "name": "BOT_WEP_SEC_PH_BOMB",
-      "health": 750,
+      "health": 1000,
       "mass": 50,
       "cost": 0,
       "cpuCost": 50,
@@ -1009,7 +1009,7 @@
     {
       "id": 186,
       "name": "BOT_WEP_SEC_PH_TRIP",
-      "health": 750,
+      "health": 1000,
       "mass": 50,
       "cost": 0,
       "cpuCost": 40,
@@ -1021,7 +1021,7 @@
     {
       "id": 188,
       "name": "BOT_WEP_SEC_ROCKETPOD",
-      "health": 500,
+      "health": 1000,
       "mass": 30,
       "cost": 0,
       "cpuCost": 50,
