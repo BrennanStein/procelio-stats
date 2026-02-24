@@ -429,7 +429,7 @@
     },
     {
       "id": 223,
-      "name": "CHASSIS_SHIELD_4",
+      "name": "CHASSIS_SHIELD_3_M",
       "health": 1150,
       "mass": 120,
       "shield": 2050,
@@ -440,7 +440,7 @@
     },
     {
       "id": 224,
-      "name": "CHASSIS_SHIELD_5",
+      "name": "CHASSIS_SHIELD_4",
       "health": 1150,
       "mass": 120,
       "shield": 2050,
@@ -451,7 +451,7 @@
     },
     {
       "id": 225,
-      "name": "CHASSIS_SHIELD_5_M",
+      "name": "CHASSIS_SHIELD_5",
       "health": 1150,
       "mass": 120,
       "shield": 2050,
@@ -462,7 +462,7 @@
     },
     {
       "id": 226,
-      "name": "CHASSIS_SHIELD_6",
+      "name": "CHASSIS_SHIELD_5_M",
       "health": 1150,
       "mass": 120,
       "shield": 2050,
@@ -473,7 +473,7 @@
     },
     {
       "id": 227,
-      "name": "CHASSIS_SHIELD_6_M",
+      "name": "CHASSIS_SHIELD_6",
       "health": 1150,
       "mass": 120,
       "shield": 2050,
@@ -484,7 +484,7 @@
     },
     {
       "id": 228,
-      "name": "CHASSIS_SHIELD_7",
+      "name": "CHASSIS_SHIELD_6_M",
       "health": 1150,
       "mass": 120,
       "shield": 2050,
@@ -495,7 +495,7 @@
     },
     {
       "id": 229,
-      "name": "CHASSIS_SHIELD_8",
+      "name": "CHASSIS_SHIELD_7",
       "health": 1150,
       "mass": 120,
       "shield": 2050,
@@ -506,7 +506,7 @@
     },
     {
       "id": 230,
-      "name": "CHASSIS_SHIELD_9",
+      "name": "CHASSIS_SHIELD_8",
       "health": 1150,
       "mass": 120,
       "shield": 2050,
@@ -517,7 +517,7 @@
     },
     {
       "id": 231,
-      "name": "CHASSIS_SHIELD_9_M",
+      "name": "CHASSIS_SHIELD_9",
       "health": 1150,
       "mass": 120,
       "shield": 2050,
@@ -528,6 +528,17 @@
     },
     {
       "id": 232,
+      "name": "CHASSIS_SHIELD_9_M",
+      "health": 1150,
+      "mass": 120,
+      "shield": 2050,
+      "shieldCharge": 300,
+      "shieldChargeDelay": 750,
+      "cost": 0,
+      "cpuCost": 32
+    },
+    {
+      "id": 233,
       "name": "CHASSIS_SHIELD_10",
       "health": 1150,
       "mass": 120,
@@ -2600,4 +2611,5 @@
     }
   ]
 }
+
 
