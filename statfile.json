@@ -2460,6 +2460,14 @@
       "cosmCmplx": 1,
       "config": []
     },
+        {
+      "id": 2014,
+      "name": "EP Pattern Classic Honeycomb",
+      "cosmeticCost": 0,
+      "cosmeticPremiumCost": 0,
+      "cosmCmplx": 1,
+      "config": []
+    },
     {
       "id": 2006,
       "name": "EP Pattern Halloween 1 2022",
