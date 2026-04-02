@@ -696,7 +696,7 @@
       "health": 300,
       "mass": 25,
       "cost": 0,
-      "cpuCost": 8,
+      "cpuCost": 5,
       "thrust": 15000
     },
     {
@@ -705,7 +705,7 @@
       "health": 300,
       "mass": 25,
       "cost": 0,
-      "cpuCost": 8,
+      "cpuCost": 5,
       "thrust": 15000
     },
     {
@@ -714,8 +714,8 @@
       "health": 900,
       "mass": 50,
       "cost": 0,
-      "cpuCost": 18,
-      "thrust": 40000
+      "cpuCost": 15,
+      "thrust": 45000
     },
     {
       "id": 179,
@@ -723,8 +723,8 @@
       "health": 900,
       "mass": 50,
       "cost": 0,
-      "cpuCost": 18,
-      "thrust": 40000
+      "cpuCost": 20,
+      "thrust": 45000
     },
     {
       "id": 180,
@@ -732,8 +732,8 @@
       "health": 2000,
       "mass": 100,
       "cost": 0,
-      "cpuCost": 28,
-      "thrust": 80000
+      "cpuCost": 25,
+      "thrust": 90000
     },
     {
       "id": 44,
@@ -1034,7 +1034,7 @@
     {
       "id": 56,
       "name": "BOT_WEP_PRIM_MACROWAVE",
-      "health": 1000,
+      "health": 1100,
       "mass": 45,
       "cost": 0,
       "cpuCost": 45,
@@ -1043,7 +1043,7 @@
     {
       "id": 181,
       "name": "BOT_WEP_PRIM_MISSILESALVO",
-      "health": 2200,
+      "health": 1100,
       "mass": 45,
       "cost": 0,
       "cpuCost": 40,
@@ -1055,7 +1055,7 @@
     {
       "id": 182,
       "name": "BOT_WEP_PRIM_MISSILETRACE",
-      "health": 2200,
+      "health": 1100,
       "mass": 45,
       "cost": 0,
       "cpuCost": 40,
