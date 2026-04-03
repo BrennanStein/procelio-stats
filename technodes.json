@@ -280,9 +280,9 @@
     {
       "id": 110,
       "name": "Compact Medium Thruster",
-      "cost": 10000,
+      "cost": 15000,
       "prerequisite_tech": [
-        109
+        113
       ],
       "reward": {
         "part_unlock": [
@@ -319,7 +319,7 @@
     },
     {
       "id": 113,
-      "name": "Medium Thruster",
+      "name": "Stadard Medium Thruster",
       "cost": 10000,
       "prerequisite_tech": [
         109
