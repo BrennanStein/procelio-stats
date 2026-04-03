@@ -1,0 +1,1137 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "name": "Electrolaser Carbine",
+      "cost": 100,
+      "prerequisite_tech": [],
+      "reward": {
+        "part_unlock": [
+          18
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Gauss Rifle",
+      "cost": 5000,
+      "prerequisite_tech": [
+        1
+      ],
+      "reward": {
+        "part_unlock": [
+          31
+        ],
+        "cosmetic_unlock": [
+          3006
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Nova Cannon",
+      "cost": 5000,
+      "prerequisite_tech": [
+        1
+      ],
+      "reward": {
+        "part_unlock": [
+          32
+        ],
+        "cosmetic_unlock": [
+          3002
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "name": "Flux Weaver",
+      "cost": 5000,
+      "prerequisite_tech": [
+        1
+      ],
+      "reward": {
+        "part_unlock": [
+          33
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "name": "Rivet Rifle",
+      "cost": 15000,
+      "prerequisite_tech": [
+        2
+      ],
+      "reward": {
+        "part_unlock": [
+          55
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "name": "Cerberus UMRL",
+      "cost": 15000,
+      "prerequisite_tech": [
+        3
+      ],
+      "reward": {
+        "part_unlock": [
+          181
+        ]
+      }
+    },
+    {
+      "id": 51,
+      "name": "Minelayer",
+      "cost": 100,
+      "prerequisite_tech": [],
+      "reward": {
+        "part_unlock": [
+          34
+        ]
+      }
+    },
+    {
+      "id": 52,
+      "name": "Ammo Crates",
+      "cost": 5000,
+      "prerequisite_tech": [
+        51
+      ],
+      "reward": {
+        "part_unlock": [
+          216,
+          217
+        ]
+      }
+    },
+    {
+      "id": 53,
+      "name": "Smokescreen",
+      "cost": 5000,
+      "prerequisite_tech": [
+        52
+      ],
+      "reward": {
+        "part_unlock": [
+          37
+        ]
+      }
+    },
+    {
+      "id": 54,
+      "name": "Missile Pod",
+      "cost": 10000,
+      "prerequisite_tech": [
+        52
+      ],
+      "reward": {
+        "part_unlock": [
+          36
+        ]
+      }
+    },
+    {
+      "id": 55,
+      "name": "Autocannon",
+      "cost": 10000,
+      "prerequisite_tech": [
+        52
+      ],
+      "reward": {
+        "part_unlock": [
+          57
+        ]
+      }
+    },
+    {
+      "id": 56,
+      "name": "CAS",
+      "cost": 5000,
+      "prerequisite_tech": [
+        52
+      ],
+      "reward": {
+        "part_unlock": [
+          38
+        ]
+      }
+    },
+    {
+      "id": 101,
+      "name": "Wheels",
+      "cost": 100,
+      "prerequisite_tech": [],
+      "reward": {
+        "part_unlock": [
+          14,
+          59
+        ]
+      }
+    },
+    {
+      "id": 102,
+      "name": "Tank Tracks",
+      "cost": 5000,
+      "prerequisite_tech": [
+        101
+      ],
+      "reward": {
+        "part_unlock": [
+          74,
+          75
+        ]
+      }
+    },
+    {
+      "id": 103,
+      "name": "Hoverblades",
+      "cost": 10000,
+      "prerequisite_tech": [
+        101
+      ],
+      "reward": {
+        "part_unlock": [
+          15
+        ]
+      }
+    },
+    {
+      "id": 104,
+      "name": "Medium Leg",
+      "cost": 25000,
+      "prerequisite_tech": [
+        102
+      ],
+      "reward": {
+        "part_unlock": [
+          126
+        ]
+      }
+    },
+    {
+      "id": 105,
+      "name": "Large Leg",
+      "cost": 25000,
+      "prerequisite_tech": [
+        104
+      ],
+      "reward": {
+        "part_unlock": [
+          127
+        ]
+      }
+    },
+    {
+      "id": 106,
+      "name": "Small Leg",
+      "cost": 15000,
+      "prerequisite_tech": [
+        104
+      ],
+      "reward": {
+        "part_unlock": [
+          125
+        ]
+      }
+    },
+    {
+      "id": 107,
+      "name": "Skis",
+      "cost": 10000,
+      "prerequisite_tech": [
+        101,
+        110
+      ],
+      "prereqs_and": true,
+      "reward": {
+        "part_unlock": [
+          26
+        ]
+      }
+    },
+    {
+      "id": 108,
+      "name": "A-GRV",
+      "cost": 25000,
+      "prerequisite_tech": [
+        107
+      ],
+      "reward": {
+        "part_unlock": [
+          73
+        ]
+      }
+    },
+    {
+      "id": 109,
+      "name": "Small Thruster",
+      "cost": 100,
+      "prerequisite_tech": [],
+      "reward": {
+        "part_unlock": [
+          176,
+          177
+        ]
+      }
+    },
+    {
+      "id": 110,
+      "name": "Compact Medium Thruster",
+      "cost": 10000,
+      "prerequisite_tech": [
+        109
+      ],
+      "reward": {
+        "part_unlock": [
+          179
+        ]
+      }
+    },
+    {
+      "id": 111,
+      "name": "Large Thruster",
+      "cost": 25000,
+      "prerequisite_tech": [
+        113
+      ],
+      "reward": {
+        "part_unlock": [
+          16,
+          180
+        ]
+      }
+    },
+    {
+      "id": 112,
+      "name": "Turbofan Engine",
+      "cost": 50000,
+      "prerequisite_tech": [
+        111
+      ],
+      "reward": {
+        "part_unlock": [
+          172
+        ]
+      }
+    },
+    {
+      "id": 113,
+      "name": "Medium Thruster",
+      "cost": 10000,
+      "prerequisite_tech": [
+        109
+      ],
+      "reward": {
+        "part_unlock": [
+          178
+        ]
+      }
+    },
+    {
+      "id": 114,
+      "name": "Small LTA Cans",
+      "cost": 5000,
+      "prerequisite_tech": [
+        109
+      ],
+      "reward": {
+        "part_unlock": [
+          44,
+          45,
+          46
+        ]
+      }
+    },
+    {
+      "id": 115,
+      "name": "Big LTA Cans",
+      "cost": 15000,
+      "prerequisite_tech": [
+        114,
+        110
+      ],
+      "prereqs_and": true,
+      "reward": {
+        "part_unlock": [
+          47,
+          48
+        ]
+      }
+    },
+    {
+      "id": 116,
+      "name": "Swept Wings",
+      "cost": 10000,
+      "prerequisite_tech": [
+        110
+      ],
+      "reward": {
+        "part_unlock": [
+          141,
+          144
+        ]
+      }
+    },
+    {
+      "id": 117,
+      "name": "Flat Wings",
+      "cost": 15000,
+      "prerequisite_tech": [
+        116
+      ],
+      "reward": {
+        "part_unlock": [
+          140,
+          143
+        ]
+      }
+    },
+    {
+      "id": 118,
+      "name": "Delta Wings",
+      "cost": 25000,
+      "prerequisite_tech": [
+        116
+      ],
+      "reward": {
+        "part_unlock": [
+          142,
+          145
+        ]
+      }
+    },
+    {
+      "id": 201,
+      "name": "Basic Blocks",
+      "cost": 100,
+      "prerequisite_tech": [],
+      "reward": {
+        "part_unlock": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          20,
+          61,
+          62
+        ]
+      }
+    },
+    {
+      "id": 202,
+      "name": "Carbon / Smooth Blocks",
+      "cost": 5000,
+      "prerequisite_tech": [
+        201
+      ],
+      "reward": {
+        "part_unlock": [
+          99,
+          100,
+          101,
+          102,
+          103,
+          94,
+          95,
+          96,
+          97,
+          98
+        ]
+      }
+    },
+    {
+      "id": 203,
+      "name": "Airframes Pack 1",
+      "cost": 5000,
+      "prerequisite_tech": [
+        201
+      ],
+      "reward": {
+        "part_unlock": [
+          21,
+          22,
+          77,
+          78
+        ]
+      }
+    },
+    {
+      "id": 204,
+      "name": "Airframes Pack 2",
+      "cost": 10000,
+      "prerequisite_tech": [
+        203
+      ],
+      "reward": {
+        "part_unlock": [
+          23,
+          24,
+          25,
+          79
+        ]
+      }
+    },
+    {
+      "id": 205,
+      "name": "Legacy Shield Pack (Hidden In Tree)",
+      "cost": 10000,
+      "prerequisite_tech": [
+        201
+      ],
+      "reward": {
+        "part_unlock": [
+          220,
+          222,
+          223,
+          225,
+          226
+        ]
+      }
+    },
+    {
+      "id": 206,
+      "name": "Arcshield Pack I",
+      "cost": 10000,
+      "prerequisite_tech": [
+        201
+      ],
+      "reward": {
+        "part_unlock": [
+          220,
+          221,
+          222,
+          223,
+          224,
+          225,
+          226
+        ]
+      }
+    },
+    {
+      "id": 207,
+      "name": "Arcshield Pack II",
+      "cost": 15000,
+      "prerequisite_tech": [
+        206
+      ],
+      "reward": {
+        "part_unlock": [
+          227,
+          228,
+          229,
+          230,
+          231,
+          232,
+          233
+        ]
+      }
+    },
+    {
+      "id": 210,
+      "name": "Headlights",
+      "cost": 10000,
+      "prerequisite_tech": [
+        201
+      ],
+      "reward": {
+        "part_unlock": [
+          52
+        ]
+      }
+    },
+    {
+      "id": 211,
+      "name": "Horn Block",
+      "cost": 25000,
+      "prerequisite_tech": [
+        210
+      ],
+      "reward": {
+        "part_unlock": [
+          219
+        ]
+      }
+    },
+    {
+      "id": 212,
+      "name": "Cosmetic Block Pack 1",
+      "cost": 25000,
+      "prerequisite_tech": [
+        202
+      ],
+      "reward": {
+        "part_unlock": [
+          63,
+          66,
+          67,
+          71,
+          72,
+          91,
+          104,
+          105,
+          137,
+          134,
+          162
+        ]
+      }
+    },
+    {
+      "id": 213,
+      "name": "Cosmetic Block Pack 2",
+      "cost": 25000,
+      "prerequisite_tech": [
+        212
+      ],
+      "reward": {
+        "part_unlock": [
+          60,
+          92,
+          93,
+          130,
+          132,
+          133,
+          135,
+          136,
+          218
+        ]
+      }
+    },
+    {
+      "id": 214,
+      "name": "Craig",
+      "cost": 100000,
+      "prerequisite_tech": [
+        213
+      ],
+      "reward": {
+        "part_unlock": [
+          58
+        ],
+        "part_award": [
+          {
+            "item": 58,
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": 251,
+      "name": "Gyroscope",
+      "cost": 10000,
+      "prerequisite_tech": [
+        114
+      ],
+      "reward": {
+        "part_unlock": [
+          49
+        ],
+        "part_award": [
+          {
+            "item": 49,
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": 252,
+      "name": "Countermeasures / Flares",
+      "cost": 10000,
+      "prerequisite_tech": [
+        54
+      ],
+      "reward": {
+        "part_unlock": [
+          153
+        ],
+        "part_award": [
+          {
+            "item": 153,
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": 253,
+      "name": "Turbofuel Injector",
+      "cost": 25000,
+      "prerequisite_tech": [
+        111
+      ],
+      "reward": {
+        "part_unlock": [
+          154
+        ],
+        "part_award": [
+          {
+            "item": 154,
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": 254,
+      "name": "Force Concussor",
+      "cost": 25000,
+      "prerequisite_tech": [
+        102
+      ],
+      "reward": {
+        "part_unlock": [
+          155
+        ],
+        "part_award": [
+          {
+            "item": 155,
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": 255,
+      "name": "Personal Shield Generator",
+      "cost": 25000,
+      "prerequisite_tech": [
+        205
+      ],
+      "reward": {
+        "part_unlock": [
+          156
+        ],
+        "part_award": [
+          {
+            "item": 156,
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": 256,
+      "name": "Mass Distortion Drive",
+      "cost": 40000,
+      "prerequisite_tech": [
+        253,
+        254
+      ],
+      "prereqs_and": true,
+      "reward": {
+        "part_unlock": [
+          152
+        ],
+        "part_award": [
+          {
+            "item": 152,
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": 257,
+      "name": "IFF Spoofer",
+      "cost": 15000,
+      "prerequisite_tech": [],
+      "reward": {
+        "part_unlock": [
+          157
+        ],
+        "part_award": [
+          {
+            "item": 157,
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": 258,
+      "name": "Munitions Forge",
+      "cost": 25000,
+      "prerequisite_tech": [
+        52
+      ],
+      "reward": {
+        "part_unlock": [
+          158
+        ],
+        "part_award": [
+          {
+            "item": 158,
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": 301,
+      "name": "Garage Bay 1 (Primary Weapons)",
+      "cost": 25000,
+      "prerequisite_tech": [
+        2,
+        3,
+        4
+      ],
+      "prereqs_and": false,
+      "reward": {
+        "garage_slots": 1
+      }
+    },
+    {
+      "id": 302,
+      "name": "Garage Bay 2 (Aerial Movement)",
+      "cost": 25000,
+      "prerequisite_tech": [
+        115,
+        116
+      ],
+      "prereqs_and": false,
+      "reward": {
+        "garage_slots": 1
+      }
+    },
+    {
+      "id": 303,
+      "name": "Garage Bay (Ground Movmement)",
+      "cost": 25000,
+      "prerequisite_tech": [
+        102,
+        103,
+        107
+      ],
+      "prereqs_and": false,
+      "reward": {
+        "garage_slots": 1
+      }
+    },
+    {
+      "id": 304,
+      "name": "Garage Bay 4 (Chassis)",
+      "cost": 25000,
+      "prerequisite_tech": [
+        204,
+        205
+      ],
+      "prereqs_and": false,
+      "reward": {
+        "garage_slots": 1
+      }
+    },
+    {
+      "id": 305,
+      "name": "Garage Bay 5 (Exttras)",
+      "cost": 50000,
+      "prerequisite_tech": [],
+      "reward": {
+        "garage_slots": 1
+      }
+    },
+    {
+      "id": 306,
+      "name": "EXTRA Garage Bay 6",
+      "cost": 75000,
+      "prerequisite_tech": [
+        305
+      ],
+      "reward": {
+        "garage_slots": 1
+      }
+    },
+    {
+      "id": 307,
+      "name": "EXTRA Garage Bay 7",
+      "cost": 100000,
+      "prerequisite_tech": [
+        305
+      ],
+      "reward": {
+        "garage_slots": 1
+      }
+    },
+    {
+      "id": 326,
+      "name": "Sticker Pack 1",
+      "cost": 10000,
+      "prerequisite_tech": [
+        202
+      ],
+      "reward": {
+        "part_unlock": [
+          65,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          150
+        ]
+      }
+    },
+    {
+      "id": 327,
+      "name": "Numerical Sticker Pack",
+      "cost": 10000,
+      "prerequisite_tech": [
+        326
+      ],
+      "reward": {
+        "part_unlock": [
+          196,
+          197,
+          198,
+          199,
+          200,
+          201,
+          202,
+          203,
+          204,
+          205,
+          206,
+          207,
+          208,
+          209,
+          210,
+          211,
+          212,
+          213,
+          214,
+          215
+        ]
+      }
+    },
+    {
+      "id": 328,
+      "name": "Shield Cosmetics Pack",
+      "cost": 15000,
+      "prerequisite_tech": [
+        205
+      ],
+      "reward": {
+        "cosmetic_unlock": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          7,
+          8,
+          11,
+          12,
+          16,
+          2000,
+          2001,
+          2002,
+          2003
+        ]
+      }
+    },
+    {
+      "id": 329,
+      "name": "Thruster Cosmetics Pack",
+      "cost": 15000,
+      "prerequisite_tech": [
+        111
+      ],
+      "reward": {
+        "cosmetic_unlock": [
+          1000,
+          1001,
+          1002,
+          1003,
+          1004,
+          1005,
+          1006,
+          1007,
+          1008,
+          1009,
+          1010,
+          1011
+        ]
+      }
+    },
+    {
+      "id": 330,
+      "name": "Wing Cosmetics Pack",
+      "cost": 15000,
+      "prerequisite_tech": [
+        117,
+        118
+      ],
+      "prereqs_and": true,
+      "reward": {
+        "cosmetic_unlock": [
+          4000,
+          4001
+        ],
+        "cosmetic_award": [
+          {
+            "item": 4000,
+            "count": 2
+          },
+          {
+            "item": 4001,
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": 331,
+      "name": "Garage Customizations (Space)",
+      "cost": 25000,
+      "prerequisite_tech": [
+      ],
+      "reward": {
+        "background_unlock": [ 
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+      }
+    },
+    {
+      "id": 332,
+      "name": "Garage Customizations (Locations)",
+      "cost": 25000,
+      "prerequisite_tech": [
+      ],
+      "reward": {
+        "background_unlock": [ 
+            8,
+            9,
+            10,
+            11
+        ]
+      }
+    },
+    {
+      "id": 333,
+      "name": "Garage Customizations (Prints)",
+      "cost": 25000,
+      "prerequisite_tech": [
+      ],
+      "reward": {
+        "background_unlock": [ 
+            12,
+            13,
+            14,
+            15
+        ]
+      }
+    },
+    {
+      "id": 334,
+      "name": "Garage Customizations (Abstract)",
+      "cost": 25000,
+      "prerequisite_tech": [
+      ],
+      "reward": {
+        "background_unlock": [ 
+            7,
+            16,
+            17,
+            18
+        ]
+      }
+    },
+    {
+      "id": 335,
+      "name": "Weaopon DDPAT Skin",
+      "cost": 25000,
+      "prerequisite_tech": [
+      ],
+      "reward": {
+        "cosmetic_unlock": [
+         3000
+        ],
+        "cosmetic_award": [
+          {
+            "item": 3000,
+            "count": 4
+          }
+        ]
+      }
+    },
+    {
+      "id": 336,
+      "name": "I'm not even sure what this skin is.'",
+      "cost": 25000,
+      "prerequisite_tech": [
+      ],
+      "reward": {
+        "cosmetic_unlock": [
+         3003
+        ],
+        "cosmetic_award": [
+          {
+            "item": 3003,
+            "count": 4
+          }
+        ]
+      }
+    }, 
+    {
+      "id": 1001,
+      "name": "DLC Alpha Sticker",
+      "cost": 1000000,
+      "prerequisite_tech": [],
+      "reward": {
+        "part_unlock": [
+          146,
+          147
+        ]
+      }
+    },
+    {
+      "id": 1002,
+      "name": "DLC Supporter Skins",
+      "cost": 1000000,
+      "prerequisite_tech": [],
+      "reward": {
+        "cosmetic_unlock": [
+          3008,
+          3009,
+          3051,
+          4002
+        ]
+      }
+    },
+    {
+      "id": 999999,
+      "name": "Tutorial",
+      "cost": 0,
+      "prerequisite_tech": [],
+      "reward": {
+        "currency_award": 2500
+      }
+    }
+  ]
+}
