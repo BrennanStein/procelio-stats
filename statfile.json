@@ -1375,6 +1375,24 @@
       "functionHealth": 20000
     },
     {
+      "id": 235,
+      "name": "BOT_MOD_CAPACITOR_SMALL",
+      "health": 500,
+      "mass": 30,
+      "cost": 0,
+      "cpuCost": 16,
+      "functionHealth": 1000
+    },
+    {
+      "id": 236,
+      "name": "BOT_MOD_CAPACITOR_LARGE",
+      "health": 1400,
+      "mass": 350,
+      "cost": 0,
+      "cpuCost": 42,
+      "functionHealth": 4500
+    },
+    {
       "id": 50,
       "name": "BOT_MOD_RADAR",
       "health": 1000,
