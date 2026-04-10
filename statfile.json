@@ -6,9 +6,21 @@
       "health": 1,
       "mass": 1,
       "cost": 1,
-      "cpuCost": 1,
+      "cpuCost": 1000000,
       "spec0_rewardmultiplier": 100
     },
+
+    {
+      "id": 1000003,
+      "name": "Module Energy Capacitor Stats",
+      "health": 1,
+      "mass": 1,
+      "cost": 1,
+      "cpuCost": 1000000,
+      "spec0_baseEnergyCapacity": 1000,
+      "spec0_baseEnergyRegen": 50
+    },
+
     {
       "id": 81,
       "name": "Brenn",
@@ -1374,7 +1386,7 @@
       "functionHealth": 20000
     },
     {
-      "id": 235,
+      "id": 234,
       "name": "BOT_MOD_CAPACITOR_SMALL",
       "health": 500,
       "mass": 30,
@@ -1383,7 +1395,7 @@
       "functionHealth": 1000
     },
     {
-      "id": 236,
+      "id": 235,
       "name": "BOT_MOD_CAPACITOR_LARGE",
       "health": 1400,
       "mass": 350,
