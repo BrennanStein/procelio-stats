@@ -18,7 +18,8 @@
       "cost": 1,
       "cpuCost": 1000000,
       "spec0_baseEnergyCapacity": 1000,
-      "spec1_baseEnergyRegen": 50
+      "spec1_baseEnergyRegen": 50,
+      "spec2_overdrawShutdownDuration": 5
     },
 
     {
