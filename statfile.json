@@ -2434,10 +2434,10 @@
     },
     {
       "id": 1012,
-      "name": "ThrusterPH3",
-      "cosmeticCost": 0,
+      "name": "ThrusterPW",
+      "cosmeticCost": 5000,
       "cosmeticPremiumCost": 5,
-      "cosmCmplx": 1,
+      "cosmCmplx": 5,
       "config": []
     },
     {
