@@ -2436,8 +2436,8 @@
       "id": 1012,
       "name": "ThrusterPW",
       "cosmeticCost": 5000,
-      "cosmeticPremiumCost": 5,
-      "cosmCmplx": 5,
+      "cosmeticPremiumCost": 0,
+      "cosmCmplx": 8,
       "config": []
     },
     {
