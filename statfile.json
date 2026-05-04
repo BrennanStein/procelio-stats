@@ -575,7 +575,7 @@
       "health": 1000,
       "mass": 35,
       "cost": 0,
-      "cpuCost": 10
+      "cpuCost": 15
     },
     {
       "id": 15,
@@ -591,7 +591,7 @@
       "health": 1800,
       "mass": 1000,
       "cost": 0,
-      "cpuCost": 14
+      "cpuCost": 28
     },
     {
       "id": 59,
@@ -599,7 +599,7 @@
       "health": 1800,
       "mass": 1000,
       "cost": 0,
-      "cpuCost": 10
+      "cpuCost": 20
     },
     {
       "id": 171,
@@ -607,7 +607,7 @@
       "health": 800,
       "mass": 440,
       "cost": 0,
-      "cpuCost": 8
+      "cpuCost": 16
     },
     {
       "id": 172,
@@ -625,7 +625,7 @@
       "health": 4800,
       "mass": 5000,
       "cost": 0,
-      "cpuCost": 40
+      "cpuCost": 80
     },
     {
       "id": 75,
@@ -633,7 +633,7 @@
       "health": 4800,
       "mass": 5000,
       "cost": 0,
-      "cpuCost": 40
+      "cpuCost": 80
     },
     {
       "id": 76,
@@ -641,7 +641,7 @@
       "health": 4800,
       "mass": 5000,
       "cost": 0,
-      "cpuCost": 40
+      "cpuCost": 80
     },
     {
       "id": 125,
@@ -845,7 +845,7 @@
       "health": 4000,
       "mass": 200,
       "cost": 0,
-      "cpuCost": 60,
+      "cpuCost": 50,
       "spec0_control": 150000,
       "spec1_lift": 10000,
       "spec2_stability": 20000,
@@ -990,7 +990,7 @@
     {
       "id": 18,
       "name": "BOT_WEP_PRIM_ELECTROLASER",
-      "health": 1100,
+      "health": 1300,
       "mass": 80,
       "cost": 0,
       "cpuCost": 45,
@@ -1001,7 +1001,7 @@
     {
       "id": 31,
       "name": "BOT_WEP_PRIM_GAUSS",
-      "health": 1400,
+      "health": 1500,
       "mass": 125,
       "cost": 0,
       "cpuCost": 50,
@@ -1019,7 +1019,7 @@
     {
       "id": 32,
       "name": "BOT_WEP_PRIM_NOVA",
-      "health": 1100,
+      "health": 1300,
       "mass": 80,
       "cost": 0,
       "cpuCost": 45,
@@ -1030,7 +1030,7 @@
     {
       "id": 55,
       "name": "BOT_WEP_PRIM_RIVETRIFLE",
-      "health": 1100,
+      "health": 1300,
       "mass": 70,
       "cost": 0,
       "cpuCost": 45,
@@ -1041,7 +1041,7 @@
     {
       "id": 33,
       "name": "BOT_WEP_PRIM_FLUX",
-      "health": 1100,
+      "health": 1300,
       "mass": 50,
       "cost": 0,
       "cpuCost": 40,
@@ -1051,7 +1051,7 @@
     {
       "id": 56,
       "name": "BOT_WEP_PRIM_MACROWAVE",
-      "health": 1100,
+      "health": 1300,
       "mass": 45,
       "cost": 0,
       "cpuCost": 45,
@@ -1060,7 +1060,7 @@
     {
       "id": 181,
       "name": "BOT_WEP_PRIM_MISSILESALVO",
-      "health": 1100,
+      "health": 1300,
       "mass": 45,
       "cost": 0,
       "cpuCost": 40,
@@ -1076,7 +1076,7 @@
     {
       "id": 182,
       "name": "BOT_WEP_PRIM_MISSILETRACE",
-      "health": 1100,
+      "health": 1300,
       "mass": 45,
       "cost": 0,
       "cpuCost": 40,
