@@ -1,3 +1,3 @@
 #!/bin/bash
-./proceliotool statbin ./statfile.json ./statfile.stat
+~/bin/proceliotool statbin ./statfile.json ./statfile.stat
 
