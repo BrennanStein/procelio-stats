@@ -17,7 +17,7 @@
       "mass": 1,
       "cost": 1,
       "cpuCost": 1000000,
-      "spec0_baseEnergyCapacity": 2000,
+      "spec0_baseEnergyCapacity": 1000,
       "spec1_baseEnergyRegen": 50,
       "spec2_overdrawShutdownDuration": 5
     },
@@ -591,7 +591,7 @@
       "health": 1800,
       "mass": 1000,
       "cost": 0,
-      "cpuCost": 28
+      "cpuCost": 24
     },
     {
       "id": 59,
@@ -599,7 +599,7 @@
       "health": 1800,
       "mass": 1000,
       "cost": 0,
-      "cpuCost": 20
+      "cpuCost": 16
     },
     {
       "id": 171,
@@ -625,7 +625,7 @@
       "health": 4800,
       "mass": 5000,
       "cost": 0,
-      "cpuCost": 80
+      "cpuCost": 75
     },
     {
       "id": 75,
@@ -633,7 +633,7 @@
       "health": 4800,
       "mass": 5000,
       "cost": 0,
-      "cpuCost": 80
+      "cpuCost": 75
     },
     {
       "id": 76,
@@ -641,7 +641,7 @@
       "health": 4800,
       "mass": 5000,
       "cost": 0,
-      "cpuCost": 80
+      "cpuCost": 75
     },
     {
       "id": 125,
@@ -860,7 +860,7 @@
       "cpuCost": 10,
       "spec0_control": 20000,
       "spec1_lift": 400,
-      "spec2_stability": 40000,
+      "spec2_stability": 20000,
       "spec3_drag": 800
     },
     {
@@ -1308,7 +1308,7 @@
       "cost": 5000,
       "cpuCost": 80,
       "spec0_knockback": 50000000,
-      "spec1_cooldown": 20,
+      "spec1_cooldown": 5,
       "spec2_Radius": 140,
       "spec3_refire": 30
     },
@@ -2087,7 +2087,7 @@
     {
       "id": 3,
       "name": "GAUSS PROJECTILE",
-      "damage": 4500
+      "damage": 4000
     },
     {
       "id": 4,
