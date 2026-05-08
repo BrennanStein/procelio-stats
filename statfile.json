@@ -1296,11 +1296,11 @@
       "cost": 5000,
       "cpuCost": 35,
       "spec0_capacity": 100,
-      "spec1_rechargerate": 10,
+      "spec1_drainefficiencyperstack": 20,
       "spec2_refire": 30,
-      "spec3_passivedrain": 5,
-      "spec4_activedrain": 20,
-      "spec5_activationcost": 10,
+      "spec3_passivedrain": 25,
+      "spec4_activedrain": 100,
+      "spec5_activationcost": 25,
       "spec6_thrustmultiplier": 3
     },
     {
@@ -1401,7 +1401,7 @@
       "mass": 30,
       "cost": 0,
       "cpuCost": 16,
-      "functionHealth": 1000
+      "functionHealth": 500
     },
     {
       "id": 235,
@@ -1410,7 +1410,7 @@
       "mass": 350,
       "cost": 0,
       "cpuCost": 42,
-      "functionHealth": 4500
+      "functionHealth": 1500
     },
     {
       "id": 50,
