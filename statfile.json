@@ -575,7 +575,7 @@
       "health": 1000,
       "mass": 35,
       "cost": 0,
-      "cpuCost": 15
+      "cpuCost": 10
     },
     {
       "id": 15,
