@@ -708,7 +708,7 @@
       "name": "Personal Shield Generator",
       "cost": 25000,
       "prerequisite_tech": [
-        207
+        206
       ],
       "reward": {
         "part_unlock": [
