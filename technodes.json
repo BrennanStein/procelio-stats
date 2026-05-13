@@ -708,7 +708,7 @@
       "name": "Personal Shield Generator",
       "cost": 25000,
       "prerequisite_tech": [
-        205
+        207
       ],
       "reward": {
         "part_unlock": [
@@ -930,7 +930,7 @@
       "name": "Shield Cosmetics Pack",
       "cost": 15000,
       "prerequisite_tech": [
-        205
+        206
       ],
       "reward": {
         "cosmetic_unlock": [
