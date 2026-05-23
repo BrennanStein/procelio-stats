@@ -622,7 +622,7 @@
     {
       "id": 74,
       "name": "TankLeft",
-      "health": 4800,
+      "health": 6000,
       "mass": 5000,
       "cost": 0,
       "cpuCost": 50
@@ -630,7 +630,7 @@
     {
       "id": 75,
       "name": "TankRight",
-      "health": 4800,
+      "health": 6000,
       "mass": 5000,
       "cost": 0,
       "cpuCost": 50
@@ -638,7 +638,7 @@
     {
       "id": 76,
       "name": "TankSymmetric",
-      "health": 4800,
+      "health": 6000,
       "mass": 5000,
       "cost": 0,
       "cpuCost": 50
