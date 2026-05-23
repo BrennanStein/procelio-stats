@@ -591,7 +591,7 @@
       "health": 1800,
       "mass": 1000,
       "cost": 0,
-      "cpuCost": 24
+      "cpuCost": 20
     },
     {
       "id": 59,
@@ -599,7 +599,7 @@
       "health": 1800,
       "mass": 1000,
       "cost": 0,
-      "cpuCost": 16
+      "cpuCost": 12
     },
     {
       "id": 171,
@@ -625,7 +625,7 @@
       "health": 4800,
       "mass": 5000,
       "cost": 0,
-      "cpuCost": 75
+      "cpuCost": 50
     },
     {
       "id": 75,
@@ -633,7 +633,7 @@
       "health": 4800,
       "mass": 5000,
       "cost": 0,
-      "cpuCost": 75
+      "cpuCost": 50
     },
     {
       "id": 76,
@@ -641,7 +641,7 @@
       "health": 4800,
       "mass": 5000,
       "cost": 0,
-      "cpuCost": 75
+      "cpuCost": 50
     },
     {
       "id": 125,
