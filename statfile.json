@@ -1490,6 +1490,7 @@
       "health": 100,
       "mass": 15,
       "cost": 2500,
+      "cpuCost": 1,
       "cosmCmplx": 2
     },
     {
@@ -1671,9 +1672,10 @@
     {
       "id": 162,
       "name": "COSM_VENT_LONG",
-      "health": 110,
+      "health": 100,
       "mass": 25,
       "cost": 2500,
+      "cpuCost": 1
       "cosmCmplx": 2
     },
     {
