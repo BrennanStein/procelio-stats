@@ -1675,7 +1675,7 @@
       "health": 100,
       "mass": 25,
       "cost": 2500,
-      "cpuCost": 1
+      "cpuCost": 1,
       "cosmCmplx": 2
     },
     {
