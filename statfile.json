@@ -1072,7 +1072,7 @@
       "spec3_reloadSpeed_0": 85,
       "spec4_reloadSpeed_1": 75,
       "spec5_reloadSpeed_2": 65,
-      "spec6_canChainDetonate": 1
+      "spec6_canChainDetonate": 0
     },
     {
       "id": 182,
@@ -1487,10 +1487,9 @@
     {
       "id": 63,
       "name": "Vent Cube",
-      "health": 100,
+      "health": 50,
       "mass": 15,
       "cost": 2500,
-      "cpuCost": 1,
       "cosmCmplx": 2
     },
     {
@@ -1672,10 +1671,9 @@
     {
       "id": 162,
       "name": "COSM_VENT_LONG",
-      "health": 100,
+      "health": 50,
       "mass": 25,
       "cost": 2500,
-      "cpuCost": 1,
       "cosmCmplx": 2
     },
     {
@@ -1689,7 +1687,7 @@
     {
       "id": 164,
       "name": "COSM_EXHAUST_LARGE",
-      "health": 100,
+      "health": 50,
       "mass": 25,
       "cost": 5000,
       "cosmCmplx": 1
@@ -1697,7 +1695,7 @@
     {
       "id": 165,
       "name": "COSM_PH2",
-      "health": 100,
+      "health": 50,
       "mass": 25,
       "cost": 3000,
       "cosmCmplx": 2
@@ -1705,7 +1703,7 @@
     {
       "id": 166,
       "name": "COSM_PH3",
-      "health": 100,
+      "health": 50,
       "mass": 25,
       "cost": 3000,
       "cosmCmplx": 2
@@ -1713,7 +1711,7 @@
     {
       "id": 167,
       "name": "COSM_PH4",
-      "health": 100,
+      "health": 50,
       "mass": 25,
       "cost": 3000,
       "cosmCmplx": 2
@@ -1721,7 +1719,7 @@
     {
       "id": 168,
       "name": "COSM_PH5",
-      "health": 100,
+      "health": 50,
       "mass": 25,
       "cost": 3000,
       "cosmCmplx": 2
@@ -1729,7 +1727,7 @@
     {
       "id": 169,
       "name": "COSM_PH6",
-      "health": 100,
+      "health": 50,
       "mass": 25,
       "cost": 3000,
       "cosmCmplx": 2
@@ -1737,7 +1735,7 @@
     {
       "id": 170,
       "name": "COSM_PH7",
-      "health": 100,
+      "health": 50,
       "mass": 25,
       "cost": 3000,
       "cosmCmplx": 2
