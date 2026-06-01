@@ -1511,7 +1511,7 @@
     {
       "id": 71,
       "name": "CosmeticSmallAntenna",
-      "health": 100,
+      "health": 50,
       "mass": 5,
       "cost": 2500,
       "cosmCmplx": 1
@@ -1519,7 +1519,7 @@
     {
       "id": 130,
       "name": "CosmeticSmallSideAntenna",
-      "health": 100,
+      "health": 50,
       "mass": 5,
       "cost": 2500,
       "cosmCmplx": 1
@@ -1527,7 +1527,7 @@
     {
       "id": 131,
       "name": "CosmeticAntennaPH",
-      "health": 100,
+      "health": 75,
       "mass": 5,
       "cost": 2500,
       "cosmCmplx": 1
@@ -1559,7 +1559,7 @@
     {
       "id": 72,
       "name": "CosmeticLargeAntenna",
-      "health": 100,
+      "health": 75,
       "mass": 15,
       "cost": 2500,
       "cosmCmplx": 1
@@ -1567,7 +1567,7 @@
     {
       "id": 91,
       "name": "Cosmetic Servo Arm",
-      "health": 100,
+      "health": 75,
       "mass": 10,
       "cost": 5000,
       "cosmCmplx": 1
