@@ -414,7 +414,7 @@
       "mass": 100,
       "shield": 2000,
       "shieldCharge": 300,
-      "shieldChargeDelay": 750,
+      "shieldChargeDelay": 5000,
       "cost": 0,
       "cpuCost": 26
     },
@@ -425,7 +425,7 @@
       "mass": 80,
       "shield": 1200,
       "shieldCharge": 300,
-      "shieldChargeDelay": 750,
+      "shieldChargeDelay": 5000,
       "cost": 0,
       "cpuCost": 20
     },
@@ -436,7 +436,7 @@
       "mass": 80,
       "shield": 1200,
       "shieldCharge": 300,
-      "shieldChargeDelay": 750,
+      "shieldChargeDelay": 5000,
       "cost": 0,
       "cpuCost": 20
     },
@@ -447,7 +447,7 @@
       "mass": 80,
       "shield": 1200,
       "shieldCharge": 300,
-      "shieldChargeDelay": 750,
+      "shieldChargeDelay": 5000,
       "cost": 0,
       "cpuCost": 20
     },
@@ -458,7 +458,7 @@
       "mass": 100,
       "shield": 2000,
       "shieldCharge": 300,
-      "shieldChargeDelay": 750,
+      "shieldChargeDelay": 5000,
       "cost": 0,
       "cpuCost": 26
     },
@@ -469,7 +469,7 @@
       "mass": 120,
       "shield": 3000,
       "shieldCharge": 300,
-      "shieldChargeDelay": 750,
+      "shieldChargeDelay": 5000,
       "cost": 0,
       "cpuCost": 32
     },
@@ -480,7 +480,7 @@
       "mass": 120,
       "shield": 3000,
       "shieldCharge": 300,
-      "shieldChargeDelay": 750,
+      "shieldChargeDelay": 5000,
       "cost": 0,
       "cpuCost": 32
     },
@@ -491,7 +491,7 @@
       "mass": 120,
       "shield": 3000,
       "shieldCharge": 300,
-      "shieldChargeDelay": 750,
+      "shieldChargeDelay": 5000,
       "cost": 0,
       "cpuCost": 32
     },
@@ -502,7 +502,7 @@
       "mass": 120,
       "shield": 3000,
       "shieldCharge": 300,
-      "shieldChargeDelay": 750,
+      "shieldChargeDelay": 5000,
       "cost": 0,
       "cpuCost": 32
     },
@@ -513,7 +513,7 @@
       "mass": 120,
       "shield": 3000,
       "shieldCharge": 300,
-      "shieldChargeDelay": 750,
+      "shieldChargeDelay": 5000,
       "cost": 0,
       "cpuCost": 32
     },
@@ -524,7 +524,7 @@
       "mass": 80,
       "shield": 1200,
       "shieldCharge": 300,
-      "shieldChargeDelay": 750,
+      "shieldChargeDelay": 5000,
       "cost": 0,
       "cpuCost": 20
     },
@@ -535,7 +535,7 @@
       "mass": 120,
       "shield": 3000,
       "shieldCharge": 300,
-      "shieldChargeDelay": 750,
+      "shieldChargeDelay": 5000,
       "cost": 0,
       "cpuCost": 32
     },
@@ -546,7 +546,7 @@
       "mass": 120,
       "shield": 3000,
       "shieldCharge": 300,
-      "shieldChargeDelay": 750,
+      "shieldChargeDelay": 5000,
       "cost": 0,
       "cpuCost": 32
     },
@@ -557,7 +557,7 @@
       "mass": 100,
       "shield": 2000,
       "shieldCharge": 300,
-      "shieldChargeDelay": 750,
+      "shieldChargeDelay": 5000,
       "cost": 0,
       "cpuCost": 26
     },
@@ -1066,7 +1066,7 @@
       "cost": 0,
       "cpuCost": 40,
       "rotationSpeed": 270,
-      "spec0_aoeRadius": 27,
+      "spec0_aoeRadius": 30,
       "spec1_aoeFalloff": 0,
       "spec2_bloomFactor": 20,
       "spec3_reloadSpeed_0": 85,
@@ -1138,7 +1138,7 @@
       "cpuCost": 70,
       "rotationSpeed": 1080,
       "functionHealth": 2000,
-      "spec0_bloomFactor": 20,
+      "spec0_bloomFactor": 25,
       "spec1_firingCooldown": 5,
       "spec2_falloffstart": 600,
       "spec3_falloffend": 600,
@@ -2131,7 +2131,7 @@
     {
       "id": 10,
       "name": "AUTOCANNON PROJECTILE",
-      "damage": 800
+      "damage": 650
     },
     {
       "id": 12,
@@ -2141,7 +2141,7 @@
     {
       "id": 13,
       "name": "MISSILE SALVO PROJECTILE",
-      "damage": 1000
+      "damage": 1100
     },
     {
       "id": 14,
