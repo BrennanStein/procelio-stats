@@ -1100,7 +1100,7 @@
     {
       "id": 1001,
       "name": "DLC Alpha Sticker",
-      "cost": 1000000,
+      "cost": 999999999999,
       "prerequisite_tech": [],
       "reward": {
         "part_unlock": [
@@ -1112,7 +1112,7 @@
     {
       "id": 1002,
       "name": "DLC Supporter Skins",
-      "cost": 1000000,
+      "cost": 999999999999,
       "prerequisite_tech": [],
       "reward": {
         "cosmetic_unlock": [
