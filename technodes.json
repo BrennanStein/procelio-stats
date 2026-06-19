@@ -825,7 +825,7 @@
       "cost": 25000,
       "prerequisite_tech": [
         204,
-        205
+        207
       ],
       "prereqs_and": false,
       "reward": {
