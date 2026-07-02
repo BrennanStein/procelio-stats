@@ -243,7 +243,7 @@
       "cost": 10000,
       "prerequisite_tech": [
         101,
-        110
+        113
       ],
       "prereqs_and": true,
       "reward": {
@@ -350,7 +350,7 @@
       "cost": 15000,
       "prerequisite_tech": [
         114,
-        110
+        113
       ],
       "prereqs_and": true,
       "reward": {
@@ -365,7 +365,7 @@
       "name": "Swept Wings",
       "cost": 10000,
       "prerequisite_tech": [
-        110
+        113
       ],
       "reward": {
         "part_unlock": [
