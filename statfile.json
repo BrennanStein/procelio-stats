@@ -414,7 +414,7 @@
       "mass": 100,
       "shield": 2000,
       "shieldCharge": 300,
-      "shieldChargeDelay": 5000,
+      "shieldChargeDelay": 6000,
       "cost": 0,
       "cpuCost": 26
     },
@@ -425,7 +425,7 @@
       "mass": 80,
       "shield": 1200,
       "shieldCharge": 300,
-      "shieldChargeDelay": 5000,
+      "shieldChargeDelay": 6000,
       "cost": 0,
       "cpuCost": 20
     },
@@ -436,7 +436,7 @@
       "mass": 80,
       "shield": 1200,
       "shieldCharge": 300,
-      "shieldChargeDelay": 5000,
+      "shieldChargeDelay": 6000,
       "cost": 0,
       "cpuCost": 20
     },
@@ -447,7 +447,7 @@
       "mass": 80,
       "shield": 1200,
       "shieldCharge": 300,
-      "shieldChargeDelay": 5000,
+      "shieldChargeDelay": 6000,
       "cost": 0,
       "cpuCost": 20
     },
@@ -458,7 +458,7 @@
       "mass": 100,
       "shield": 2000,
       "shieldCharge": 300,
-      "shieldChargeDelay": 5000,
+      "shieldChargeDelay": 6000,
       "cost": 0,
       "cpuCost": 26
     },
@@ -467,9 +467,9 @@
       "name": "CHASSIS_SHIELD_5 (LARGE)",
       "health": 1500,
       "mass": 120,
-      "shield": 3000,
+      "shield": 2500,
       "shieldCharge": 300,
-      "shieldChargeDelay": 5000,
+      "shieldChargeDelay": 6000,
       "cost": 0,
       "cpuCost": 32
     },
@@ -478,9 +478,9 @@
       "name": "CHASSIS_SHIELD_5_M (LARGE)",
       "health": 1500,
       "mass": 120,
-      "shield": 3000,
+      "shield": 2500,
       "shieldCharge": 300,
-      "shieldChargeDelay": 5000,
+      "shieldChargeDelay": 6000,
       "cost": 0,
       "cpuCost": 32
     },
@@ -489,9 +489,9 @@
       "name": "CHASSIS_SHIELD_6 (LARGE)",
       "health": 1500,
       "mass": 120,
-      "shield": 3000,
+      "shield": 2500,
       "shieldCharge": 300,
-      "shieldChargeDelay": 5000,
+      "shieldChargeDelay": 6000,
       "cost": 0,
       "cpuCost": 32
     },
@@ -500,9 +500,9 @@
       "name": "CHASSIS_SHIELD_6_M (LARGE)",
       "health": 1500,
       "mass": 120,
-      "shield": 3000,
+      "shield": 2500,
       "shieldCharge": 300,
-      "shieldChargeDelay": 5000,
+      "shieldChargeDelay": 6000,
       "cost": 0,
       "cpuCost": 32
     },
@@ -511,9 +511,9 @@
       "name": "CHASSIS_SHIELD_7 (LARGE)",
       "health": 1500,
       "mass": 120,
-      "shield": 3000,
+      "shield": 2500,
       "shieldCharge": 300,
-      "shieldChargeDelay": 5000,
+      "shieldChargeDelay": 6000,
       "cost": 0,
       "cpuCost": 32
     },
@@ -524,7 +524,7 @@
       "mass": 80,
       "shield": 1200,
       "shieldCharge": 300,
-      "shieldChargeDelay": 5000,
+      "shieldChargeDelay": 6000,
       "cost": 0,
       "cpuCost": 20
     },
@@ -533,9 +533,9 @@
       "name": "CHASSIS_SHIELD_9 (LARGE)",
       "health": 1500,
       "mass": 120,
-      "shield": 3000,
+      "shield": 2500,
       "shieldCharge": 300,
-      "shieldChargeDelay": 5000,
+      "shieldChargeDelay": 6000,
       "cost": 0,
       "cpuCost": 32
     },
@@ -544,9 +544,9 @@
       "name": "CHASSIS_SHIELD_9_M (LARGE)",
       "health": 1500,
       "mass": 120,
-      "shield": 3000,
+      "shield": 2500,
       "shieldCharge": 300,
-      "shieldChargeDelay": 5000,
+      "shieldChargeDelay": 6000,
       "cost": 0,
       "cpuCost": 32
     },
@@ -557,7 +557,7 @@
       "mass": 100,
       "shield": 2000,
       "shieldCharge": 300,
-      "shieldChargeDelay": 5000,
+      "shieldChargeDelay": 6000,
       "cost": 0,
       "cpuCost": 26
     },
@@ -710,7 +710,7 @@
       "mass": 25,
       "cost": 0,
       "cpuCost": 5,
-      "thrust": 15000
+      "thrust": 12000
     },
     {
       "id": 177,
@@ -719,7 +719,7 @@
       "mass": 25,
       "cost": 0,
       "cpuCost": 5,
-      "thrust": 15000
+      "thrust": 12000
     },
     {
       "id": 178,
@@ -991,7 +991,7 @@
     {
       "id": 18,
       "name": "BOT_WEP_PRIM_ELECTROLASER",
-      "health": 1300,
+      "health": 1500,
       "mass": 80,
       "cost": 0,
       "cpuCost": 45,
@@ -1020,7 +1020,7 @@
     {
       "id": 32,
       "name": "BOT_WEP_PRIM_NOVA",
-      "health": 1300,
+      "health": 1500,
       "mass": 80,
       "cost": 0,
       "cpuCost": 45,
@@ -1031,18 +1031,18 @@
     {
       "id": 55,
       "name": "BOT_WEP_PRIM_RIVETRIFLE",
-      "health": 1300,
+      "health": 1500,
       "mass": 70,
       "cost": 0,
       "cpuCost": 45,
       "rotationSpeed": 270,
       "spec0_falloffstart": 600,
-      "spec1_falloffend": 1200
+      "spec1_falloffend": 900
     },
     {
       "id": 33,
       "name": "BOT_WEP_PRIM_FLUX",
-      "health": 1300,
+      "health": 1500,
       "mass": 50,
       "cost": 0,
       "cpuCost": 40,
@@ -1052,7 +1052,7 @@
     {
       "id": 56,
       "name": "BOT_WEP_PRIM_MACROWAVE",
-      "health": 1300,
+      "health": 1500,
       "mass": 45,
       "cost": 0,
       "cpuCost": 45,
@@ -1061,7 +1061,7 @@
     {
       "id": 181,
       "name": "BOT_WEP_PRIM_MISSILESALVO",
-      "health": 1300,
+      "health": 1500,
       "mass": 45,
       "cost": 0,
       "cpuCost": 40,
@@ -1077,7 +1077,7 @@
     {
       "id": 182,
       "name": "BOT_WEP_PRIM_MISSILETRACE",
-      "health": 1300,
+      "health": 1500,
       "mass": 45,
       "cost": 0,
       "cpuCost": 40,
@@ -1095,7 +1095,7 @@
     {
       "id": 183,
       "name": "BOT_WEP_PRIM_SLAB_LAUNCHER",
-      "health": 3000,
+      "health": 1500,
       "mass": 200,
       "cost": 0,
       "cpuCost": 55,
@@ -1205,7 +1205,7 @@
     {
       "id": 38,
       "name": "BOT_WEP_SEC_CASCUTTER",
-      "health": 1000,
+      "health": 1250,
       "mass": 40,
       "cost": 0,
       "cpuCost": 35,
