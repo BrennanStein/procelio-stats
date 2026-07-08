@@ -201,7 +201,7 @@
     {
       "id": 104,
       "name": "Medium Leg",
-      "cost": 25000,
+      "cost": 999999999999,
       "prerequisite_tech": [
         102
       ],
@@ -214,7 +214,7 @@
     {
       "id": 105,
       "name": "Large Leg",
-      "cost": 25000,
+      "cost": 999999999999,
       "prerequisite_tech": [
         104
       ],
@@ -227,7 +227,7 @@
     {
       "id": 106,
       "name": "Small Leg",
-      "cost": 15000,
+      "cost": 999999999999,
       "prerequisite_tech": [
         104
       ],
@@ -306,7 +306,7 @@
     {
       "id": 112,
       "name": "Turbofan Engine",
-      "cost": 50000,
+      "cost": 999999999999,
       "prerequisite_tech": [
         111
       ],
@@ -485,7 +485,7 @@
     {
       "id": 205,
       "name": "Legacy Shield Pack (Hidden In Tree)",
-      "cost": 10000,
+      "cost": 999999999999,
       "prerequisite_tech": [
         201
       ],
@@ -745,7 +745,7 @@
     {
       "id": 257,
       "name": "IFF Spoofer",
-      "cost": 15000,
+      "cost": 999999999999,
       "prerequisite_tech": [],
       "reward": {
         "part_unlock": [
@@ -1082,7 +1082,7 @@
     {
       "id": 336,
       "name": "I'm not even sure what this skin is.'",
-      "cost": 25000,
+      "cost": 999999999999,
       "prerequisite_tech": [
       ],
       "reward": {
