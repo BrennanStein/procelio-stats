@@ -710,7 +710,7 @@
       "mass": 25,
       "cost": 0,
       "cpuCost": 5,
-      "thrust": 12000
+      "thrust": 10000
     },
     {
       "id": 177,
@@ -719,7 +719,7 @@
       "mass": 25,
       "cost": 0,
       "cpuCost": 5,
-      "thrust": 12000
+      "thrust": 10000
     },
     {
       "id": 178,
