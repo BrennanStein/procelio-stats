@@ -73,7 +73,7 @@
       "id": 1,
       "name": "Core1",
       "health": 1000,
-      "mass": 35,
+      "mass": 40,
       "shield": 2000,
       "shieldCharge": 2000,
       "shieldChargeDelay": 4000,
@@ -414,7 +414,7 @@
       "mass": 100,
       "shield": 2000,
       "shieldCharge": 300,
-      "shieldChargeDelay": 6000,
+      "shieldChargeDelay": 10000,
       "cost": 0,
       "cpuCost": 26
     },
@@ -425,7 +425,7 @@
       "mass": 80,
       "shield": 1200,
       "shieldCharge": 300,
-      "shieldChargeDelay": 6000,
+      "shieldChargeDelay": 10000,
       "cost": 0,
       "cpuCost": 20
     },
@@ -436,7 +436,7 @@
       "mass": 80,
       "shield": 1200,
       "shieldCharge": 300,
-      "shieldChargeDelay": 6000,
+      "shieldChargeDelay": 10000,
       "cost": 0,
       "cpuCost": 20
     },
@@ -447,7 +447,7 @@
       "mass": 80,
       "shield": 1200,
       "shieldCharge": 300,
-      "shieldChargeDelay": 6000,
+      "shieldChargeDelay": 10000,
       "cost": 0,
       "cpuCost": 20
     },
@@ -458,7 +458,7 @@
       "mass": 100,
       "shield": 2000,
       "shieldCharge": 300,
-      "shieldChargeDelay": 6000,
+      "shieldChargeDelay": 10000,
       "cost": 0,
       "cpuCost": 26
     },
@@ -469,7 +469,7 @@
       "mass": 120,
       "shield": 2500,
       "shieldCharge": 300,
-      "shieldChargeDelay": 6000,
+      "shieldChargeDelay": 10000,
       "cost": 0,
       "cpuCost": 32
     },
@@ -480,7 +480,7 @@
       "mass": 120,
       "shield": 2500,
       "shieldCharge": 300,
-      "shieldChargeDelay": 6000,
+      "shieldChargeDelay": 10000,
       "cost": 0,
       "cpuCost": 32
     },
@@ -491,7 +491,7 @@
       "mass": 120,
       "shield": 2500,
       "shieldCharge": 300,
-      "shieldChargeDelay": 6000,
+      "shieldChargeDelay": 10000,
       "cost": 0,
       "cpuCost": 32
     },
@@ -502,7 +502,7 @@
       "mass": 120,
       "shield": 2500,
       "shieldCharge": 300,
-      "shieldChargeDelay": 6000,
+      "shieldChargeDelay": 10000,
       "cost": 0,
       "cpuCost": 32
     },
@@ -513,7 +513,7 @@
       "mass": 120,
       "shield": 2500,
       "shieldCharge": 300,
-      "shieldChargeDelay": 6000,
+      "shieldChargeDelay": 10000,
       "cost": 0,
       "cpuCost": 32
     },
@@ -524,7 +524,7 @@
       "mass": 80,
       "shield": 1200,
       "shieldCharge": 300,
-      "shieldChargeDelay": 6000,
+      "shieldChargeDelay": 10000,
       "cost": 0,
       "cpuCost": 20
     },
@@ -535,7 +535,7 @@
       "mass": 120,
       "shield": 2500,
       "shieldCharge": 300,
-      "shieldChargeDelay": 6000,
+      "shieldChargeDelay": 10000,
       "cost": 0,
       "cpuCost": 32
     },
@@ -546,7 +546,7 @@
       "mass": 120,
       "shield": 2500,
       "shieldCharge": 300,
-      "shieldChargeDelay": 6000,
+      "shieldChargeDelay": 10000,
       "cost": 0,
       "cpuCost": 32
     },
@@ -557,7 +557,7 @@
       "mass": 100,
       "shield": 2000,
       "shieldCharge": 300,
-      "shieldChargeDelay": 6000,
+      "shieldChargeDelay": 10000,
       "cost": 0,
       "cpuCost": 26
     },
@@ -565,7 +565,7 @@
       "id": 26,
       "name": "Sled",
       "health": 1000,
-      "mass": 35,
+      "mass": 40,
       "cost": 0,
       "cpuCost": 5
     },
@@ -573,7 +573,7 @@
       "id": 73,
       "name": "RepulsorPad",
       "health": 1000,
-      "mass": 35,
+      "mass": 40,
       "cost": 0,
       "cpuCost": 10
     },
@@ -1012,7 +1012,7 @@
       "spec2_gaussRotGate": 90,
       "spec3_gaussVelGate": 80,
       "spec4_bloomFactor": 100,
-      "spec5_reloadSpeed_0": 280,
+      "spec5_reloadSpeed_0": 240,
       "spec6_reloadSpeed_1": 220,
       "spec7_reloadSpeed_2": 160,
       "spec8_fireCooldown": 65
@@ -1135,7 +1135,7 @@
       "id": 57,
       "name": "BOT_WEP_SEC_AUTOCANNON",
       "health": 1000,
-      "mass": 75,
+      "mass": 80,
       "cost": 0,
       "cpuCost": 70,
       "rotationSpeed": 1080,
