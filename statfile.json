@@ -1012,7 +1012,7 @@
       "spec2_gaussRotGate": 90,
       "spec3_gaussVelGate": 80,
       "spec4_bloomFactor": 100,
-      "spec5_reloadSpeed_0": 240,
+      "spec5_reloadSpeed_0": 280,
       "spec6_reloadSpeed_1": 220,
       "spec7_reloadSpeed_2": 160,
       "spec8_fireCooldown": 65
