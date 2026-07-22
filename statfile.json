@@ -1039,7 +1039,7 @@
       "spec0_falloffstart": 900,
       "spec1_falloffend": 1200,
       "spec3_pow": 30,
-      "spec4_speedinaccdiv": 500
+      "spec4_speedinaccdiv": 800
     },
     {
       "id": 33,
