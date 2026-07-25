@@ -609,6 +609,22 @@
       "cost": 0,
       "cpuCost": 16
     },
+        {
+      "id": 236,
+      "name": "BOT_MOV_WHEEL_LARGE",
+      "health": 3000,
+      "mass": 2500,
+      "cost": 0,
+      "cpuCost": 40
+    },
+    {
+      "id": 237,
+      "name": "BOT_MOV_WHEEL_LARGE_NONSTEER",
+      "health": 3000,
+      "mass": 2500,
+      "cost": 0,
+      "cpuCost": 24
+    },
     {
       "id": 172,
       "name": "BOT_MOV_TURBOFAN",
