@@ -995,14 +995,14 @@
       "mass": 80,
       "cost": 0,
       "cpuCost": 45,
-      "rotationSpeed": 360,
+      "rotationSpeed": 300,
       "spec0_falloffstart": 600,
       "spec1_falloffend": 900
     },
     {
       "id": 31,
       "name": "BOT_WEP_PRIM_GAUSS",
-      "health": 1500,
+      "health": 1600,
       "mass": 125,
       "cost": 0,
       "cpuCost": 50,
@@ -1012,7 +1012,7 @@
       "spec2_gaussRotGate": 90,
       "spec3_gaussVelGate": 80,
       "spec4_bloomFactor": 100,
-      "spec5_reloadSpeed_0": 280,
+      "spec5_reloadSpeed_0": 240,
       "spec6_reloadSpeed_1": 220,
       "spec7_reloadSpeed_2": 160,
       "spec8_fireCooldown": 65
@@ -2083,7 +2083,7 @@
     {
       "id": 1,
       "name": "alphaSMGProjectile",
-      "damage": 520
+      "damage": 480
     },
     {
       "id": 2,
@@ -2143,7 +2143,7 @@
     {
       "id": 13,
       "name": "MISSILE SALVO PROJECTILE",
-      "damage": 1100
+      "damage": 1200
     },
     {
       "id": 14,
