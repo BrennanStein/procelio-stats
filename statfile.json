@@ -1090,7 +1090,8 @@
       "spec3_reloadSpeed_0": 85,
       "spec4_reloadSpeed_1": 75,
       "spec5_reloadSpeed_2": 65,
-      "spec6_canChainDetonate": 0
+      "spec6_canChainDetonate": 0,
+      "spec19_projectileCount": 2
     },
     {
       "id": 182,
