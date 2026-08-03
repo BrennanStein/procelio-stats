@@ -722,7 +722,7 @@
     {
       "id": 176,
       "name": "MOV_THRUSTER_SMALL",
-      "health": 300,
+      "health": 250,
       "mass": 25,
       "cost": 0,
       "cpuCost": 5,
@@ -731,7 +731,7 @@
     {
       "id": 177,
       "name": "MOV_THRUSTER_SMALL_TOPMOUNT",
-      "health": 300,
+      "health": 250,
       "mass": 25,
       "cost": 0,
       "cpuCost": 5,
@@ -740,7 +740,7 @@
     {
       "id": 178,
       "name": "MOV_THRUSTER_MEDIUM",
-      "health": 900,
+      "health": 750,
       "mass": 50,
       "cost": 0,
       "cpuCost": 15,
@@ -749,7 +749,7 @@
     {
       "id": 179,
       "name": "MOV_THRUSTER_MEDIUM_FLAT",
-      "health": 900,
+      "health": 750,
       "mass": 50,
       "cost": 0,
       "cpuCost": 20,
@@ -758,7 +758,7 @@
     {
       "id": 180,
       "name": "MOV_THRUSTER_LARGE",
-      "health": 2000,
+      "health": 1500,
       "mass": 100,
       "cost": 0,
       "cpuCost": 25,
