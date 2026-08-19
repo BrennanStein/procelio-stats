@@ -1373,11 +1373,15 @@
     },
     {
       "id": 159,
-      "name": "BOT_MOD_MODULE",
-      "health": 500,
-      "mass": 50,
-      "cost": 5000,
-      "cpuCost": 10
+      "name": "BOT_MOD_DEPLOYABLESHIELD",
+      "health": 2000,
+      "mass": 100,
+      "cost": 0,
+      "cpuCost": 100,
+      "spec0_cooldown": 25,
+      "spec1_shieldduration": 10,
+      "spec2_shieldHP": 10000,
+      "spec3_nominacount": 1
     },
     {
       "id": 160,
