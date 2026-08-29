@@ -1013,7 +1013,7 @@
       "cpuCost": 45,
       "rotationSpeed": 300,
       "spec0_falloffstart": 600,
-      "spec1_falloffend": 900
+      "spec1_falloffend": 1500
     },
     {
       "id": 31,
@@ -1024,7 +1024,7 @@
       "cpuCost": 50,
       "rotationSpeed": 180,
       "spec0_bloomRate": 0,
-      "spec1_bloomRecovery": 12345678,
+      "spec1_bloomRercovery": 12345678,
       "spec2_gaussRotGate": 12345678,
       "spec3_gaussVelGate": 12345678,
       "spec4_bloomFactor": 12345678,
@@ -1055,8 +1055,8 @@
       "cost": 0,
       "cpuCost": 45,
       "rotationSpeed": 270,
-      "spec0_falloffstart": 600,
-      "spec1_falloffend": 1200,
+      "spec0_falloffstart": 450,
+      "spec1_falloffend": 900,
       "spec3_pow": 30,
       "spec4_speedinaccdiv": 800
     },
@@ -2147,7 +2147,7 @@
     {
       "id": 8,
       "name": "RIVET PROJECTILE",
-      "damage": 1250
+      "damage": 1500
     },
     {
       "id": 9,
