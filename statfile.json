@@ -1023,15 +1023,18 @@
       "cost": 0,
       "cpuCost": 50,
       "rotationSpeed": 180,
-      "spec0_bloomRate": 5,
-      "spec1_bloomRecovery": 2,
-      "spec2_gaussRotGate": 90,
-      "spec3_gaussVelGate": 80,
-      "spec4_bloomFactor": 100,
+      "spec0_bloomRate": 0,
+      "spec1_bloomRecovery": 12345678,
+      "spec2_gaussRotGate": 12345678,
+      "spec3_gaussVelGate": 12345678,
+      "spec4_bloomFactor": 12345678,
       "spec5_reloadSpeed_0": 240,
       "spec6_reloadSpeed_1": 220,
       "spec7_reloadSpeed_2": 160,
-      "spec8_fireCooldown": 65
+      "spec8_fireCooldown": 85,
+	  "spec9_falloffstart": 750,
+	  "spec10_falloffend": 1200
+	  "spec11_minDamagePercent": 30,
     },
     {
       "id": 32,
@@ -1052,7 +1055,7 @@
       "cost": 0,
       "cpuCost": 45,
       "rotationSpeed": 270,
-      "spec0_falloffstart": 900,
+      "spec0_falloffstart": 600,
       "spec1_falloffend": 1200,
       "spec3_pow": 30,
       "spec4_speedinaccdiv": 800
@@ -1302,9 +1305,9 @@
       "cost": 5000,
       "cpuCost": 30,
       "spec0_cooldown": 25,
-      "spec1_refire": 40,
-      "spec2_buffduration": 1,
-      "spec3_cloudduration": 15,
+      "spec1_refire": 60,
+      "spec2_buffduration": 3,
+      "spec3_cloudduration": 9,
       "spec4_activationcost": 0
     },
     {
@@ -2114,7 +2117,7 @@
     {
       "id": 3,
       "name": "GAUSS PROJECTILE",
-      "damage": 4000
+      "damage": 5000
     },
     {
       "id": 4,
