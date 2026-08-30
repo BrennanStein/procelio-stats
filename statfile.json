@@ -1024,7 +1024,7 @@
       "cpuCost": 50,
       "rotationSpeed": 180,
       "spec0_bloomRate": 0,
-      "spec1_bloomRercovery": 12345678,
+      "spec1_bloomRecovery": 12345678,
       "spec2_gaussRotGate": 12345678,
       "spec3_gaussVelGate": 12345678,
       "spec4_bloomFactor": 12345678,
@@ -1033,8 +1033,8 @@
       "spec7_reloadSpeed_2": 160,
       "spec8_fireCooldown": 85,
 	  "spec9_falloffstart": 750,
-	  "spec10_falloffend": 1200
-	  "spec11_minDamagePercent": 30,
+	  "spec10_falloffend": 1200,
+	  "spec11_minDamagePercent": 30
     },
     {
       "id": 32,
