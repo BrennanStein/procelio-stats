@@ -1032,9 +1032,9 @@
       "spec6_reloadSpeed_1": 220,
       "spec7_reloadSpeed_2": 160,
       "spec8_fireCooldown": 85,
-	  "spec9_falloffstart": 750,
-	  "spec10_falloffend": 1200,
-	  "spec11_minDamagePercent": 30
+	  "spec9_falloffstart": 1050,
+	  "spec10_falloffend": 1500,
+	  "spec11_minDamagePercent": 50
     },
     {
       "id": 32,
@@ -2117,7 +2117,7 @@
     {
       "id": 3,
       "name": "GAUSS PROJECTILE",
-      "damage": 5000
+      "damage": 4200
     },
     {
       "id": 4,
