@@ -1032,8 +1032,8 @@
       "spec6_reloadSpeed_1": 220,
       "spec7_reloadSpeed_2": 160,
       "spec8_fireCooldown": 85,
-	  "spec9_falloffstart": 1050,
-	  "spec10_falloffend": 1500,
+	  "spec9_falloffstart": 1350,
+	  "spec10_falloffend": 1800,
 	  "spec11_minDamagePercent": 50
     },
     {
