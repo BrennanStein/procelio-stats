@@ -403,6 +403,18 @@
       }
     },
     {
+      "id": 119,
+      "name": "Big Wheels",
+      "cost": 10000,
+      "prerequisite_tech": [101],
+      "reward": {
+        "part_unlock": [
+          236,
+          237
+        ]
+      }
+    },
+    {
       "id": 201,
       "name": "Basic Blocks",
       "cost": 100,
