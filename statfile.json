@@ -613,7 +613,7 @@
       "id": 236,
       "name": "BOT_MOV_WHEEL_LARGE",
       "health": 4500,
-      "mass": 1500,
+      "mass": 4500,
       "cost": 0,
       "cpuCost": 30
     },
@@ -621,7 +621,7 @@
       "id": 237,
       "name": "BOT_MOV_WHEEL_LARGE_NONSTEER",
       "health": 4500,
-      "mass": 1500,
+      "mass": 4500,
       "cost": 0,
       "cpuCost": 22
     },
